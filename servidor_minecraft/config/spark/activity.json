@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Svonccy",
+      "uniqueId": "c063cfc5-1a13-3b54-afbf-11d6f3d038d1"
+    },
+    "time": 1746376498418,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": ".\\config\\spark\\profile-2025-05-04_11.34.58.sparkprofile"
+    }
+  }
+]

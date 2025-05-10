@@ -1,0 +1,35 @@
+{
+  "result": {
+    "outputClass": "BasicLampBlock",
+    "components": {
+      "pfm:color": "lime"
+    }
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:pale_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      "minecraft:lime_wool",
+      "minecraft:lime_wool",
+      "minecraft:lime_wool",
+      "minecraft:torch",
+      "minecraft:redstone"
+    ],
+    "variantChildren": {
+      "stripped_log": 2
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}

@@ -1,0 +1,31 @@
+{
+  "result": {
+    "outputClass": "SimpleBedBlock",
+    "components": {
+      "pfm:color": "white"
+    }
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:pale_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      "minecraft:white_bed"
+    ],
+    "variantChildren": {
+      "base": 5
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}

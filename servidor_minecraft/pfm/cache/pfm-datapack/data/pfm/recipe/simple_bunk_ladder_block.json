@@ -1,0 +1,34 @@
+{
+  "result": {
+    "outputClass": "SimpleBunkLadderBlock",
+    "count": 4
+  },
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:pale_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick",
+      "minecraft:stick"
+    ],
+    "variantChildren": {
+      "base": 1
+    }
+  },
+  "type": "pfm:dynamic_furniture"
+}
