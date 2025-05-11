@@ -559,3 +559,11 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [01:00:35] [Server thread/INFO]: [Not Secure] <BillyVR15> porqué crees que me sacó
 [01:01:42] [Server thread/INFO]: Svonccy was slain by Zombie
 [01:03:29] [Server thread/INFO]: Villager class_1646['Butcher'/10472, l='ServerLevel[world]', x=131.89, y=66.22, z=-4.53] died, message: 'Butcher was slain by Zombie'
+[01:08:21] [Server thread/INFO]: Villager class_1646['Farmer'/9333, l='ServerLevel[world]', x=61.49, y=-16.23, z=-312.77] died, message: 'Farmer was slain by Zombie'
+[01:08:29] [Server thread/INFO]: Villager class_1646['Farmer'/9334, l='ServerLevel[world]', x=68.70, y=-23.18, z=-311.30] died, message: 'Farmer was slain by Zombie Villager'
+[01:12:28] [Server thread/INFO]: [Not Secure] <BillyVR15> 🤡
+[01:12:35] [Server thread/INFO]: [Not Secure] <BillyVR15> encontré una trial chambers
+[01:12:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[01:14:19] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=547, y=-59, z=185}
+[01:14:19] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=546, y=-59, z=187}
+[01:14:19] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=546, y=-59, z=185}
