@@ -1228,3 +1228,7 @@ java.lang.Throwable
 [00:37:00] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 1A502AC200000001], sending reset packet request.
 [00:38:50] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 1A502AC200000001]
 [00:38:50] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 1A502AC200000001], sending reset packet request.
+[00:55:32] [Server thread/DEBUG] [REI] Player Svonccy has outdated displays version 0 [latest version: 1A502AC200000001]
+[00:55:32] [Server thread/DEBUG] [REI] Player Svonccy has outdated displays version 0 [latest version: 1A502AC200000001], sending reset packet request.
+[01:00:00] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 1A502AC200000001]
+[01:00:00] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 1A502AC200000001], sending reset packet request.

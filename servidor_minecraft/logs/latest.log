@@ -531,3 +531,31 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [00:51:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [00:51:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [00:51:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:54:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:54:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:55:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:55:32] [Server thread/INFO]: Svonccy[/127.37.18.192:44567] logged in with entity id 7314 at (132.71412862150785, 67.0, -29.986084757439333)
+[00:55:32] [Server thread/INFO]: Loading config from file...
+[00:55:32] [Server thread/INFO]: Svonccy joined the game
+[00:55:32] [Server thread/INFO]: [voicechat] Received secret request of Svonccy (18)
+[00:55:32] [Server thread/INFO]: [voicechat] Sent secret to Svonccy
+[00:55:49] [Server thread/INFO]: [Svonccy: Triggered [login] (set value to 4321)]
+[00:56:00] [Server thread/INFO]: [Not Secure] <BillyVR15> no funciona el voicechat
+[00:56:06] [Server thread/INFO]: [Not Secure] <Svonccy> si c
+[00:56:12] [Server thread/INFO]: [Not Secure] <Svonccy> ni dejaste configurar
+[00:56:16] [Server thread/INFO]: [Not Secure] <Svonccy> prendiste nomá
+[00:56:17] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[00:58:23] [Server thread/INFO]: BillyVR15 lost connection: Disconnected
+[00:58:23] [Server thread/INFO]: BillyVR15 left the game
+[00:58:23] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[01:00:00] [Server thread/INFO]: BillyVR15[/127.248.58.120:33073] logged in with entity id 9290 at (42.94186693971056, 63.0, -282.9602379704804)
+[01:00:00] [Server thread/INFO]: Loading config from file...
+[01:00:00] [Server thread/INFO]: BillyVR15 joined the game
+[01:00:02] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[01:00:02] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[01:00:15] [Server thread/INFO]: [Not Secure] <Svonccy> presiona k para mas fps
+[01:00:23] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[01:00:26] [Server thread/INFO]: [Not Secure] <BillyVR15> ya lo hice
+[01:00:35] [Server thread/INFO]: [Not Secure] <BillyVR15> porqué crees que me sacó
+[01:01:42] [Server thread/INFO]: Svonccy was slain by Zombie
+[01:03:29] [Server thread/INFO]: Villager class_1646['Butcher'/10472, l='ServerLevel[world]', x=131.89, y=66.22, z=-4.53] died, message: 'Butcher was slain by Zombie'
