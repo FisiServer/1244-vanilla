@@ -461,3 +461,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [00:37:47] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
 [00:37:47] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
 [00:37:47] [Worker-Main-1/WARN]: Empty height range: [-55 absolute--60 absolute]
+[00:38:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:38:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:39:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:40:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:40:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:43:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:43:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:46:08] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
