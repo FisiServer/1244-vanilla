@@ -1778,13 +1778,10 @@ Error: ClientError(TooManyRequests)
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1746926039455 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1746926042520 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926073182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -1793,9 +1790,225 @@ percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1746926057839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1746926088298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1746926091378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1746926094459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926109579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926124757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926139857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1746926142999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926158110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926173221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926188800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926204048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926219153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926234308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926249428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1746926252491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926267603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926282710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926297844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926312939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926328273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1746926331358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+46926280492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1746926283568 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926298665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926313762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1746926328864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1746926332031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:24454 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
