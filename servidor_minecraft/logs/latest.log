@@ -1,9 +1,9 @@
-[05:22:59] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[05:22:59] [ForkJoinPool-1-worker-4/WARN]: Mod mr_hostile_mobsimproveovertime uses the version 1.11.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[05:23:00] [main/WARN]: Warnings were found!
+[15:06:07] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[15:06:07] [ForkJoinPool-1-worker-2/WARN]: Mod mr_hostile_mobsimproveovertime uses the version 1.11.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[15:06:08] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.4.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[05:23:00] [main/INFO]: Loading 185 mods:
+[15:06:08] [main/INFO]: Loading 185 mods:
 	- appleskin 3.0.6+mc1.21.3
 	- architectury 15.0.3
 	- betterdeserttemples 1.21.4-Fabric-4.4.0
@@ -225,94 +225,94 @@
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.21.4-Fabric-5.4.0
 	   \-- org_reflections_reflections 0.10.2
-[05:23:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/1244-vanilla/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[05:23:00] [main/INFO]: Compatibility level set to JAVA_21
-[05:23:00] [main/WARN]: Reference map 'easyshulkerboxes.common.refmap.json' for easyshulkerboxes.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:23:00] [main/WARN]: Reference map 'easyshulkerboxes.fabric.refmap.json' for easyshulkerboxes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:23:00] [main/WARN]: Reference map 'fastitemframes.fabric.refmap.json' for fastitemframes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:23:01] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:23:01] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:23:01] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[05:23:01] [main/INFO]: Loaded configuration file for Lithium: 158 options available, 0 override(s) found.
-[05:23:01] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[05:23:01] [main/INFO]: Successfully started async appender with [SysOut, ServerGuiConsole, Tracy, File]
-[05:23:01] [main/WARN]: Error loading class: net/minecraft/class_7196 (java.lang.ClassNotFoundException: net/minecraft/class_7196)
-[05:23:01] [main/WARN]: @Mixin target net.minecraft.class_7196 was not found global-datapack.mixins.json:IntegratedServerLoaderMixin from mod global-datapack
-[05:23:01] [main/WARN]: Error loading class: net/minecraft/class_525$class_8094 (java.lang.ClassNotFoundException: net/minecraft/class_525$class_8094)
-[05:23:01] [main/WARN]: @Mixin target net/minecraft/class_525$class_8094 was not found global-datapack.mixins.json:MoreTabMixin from mod global-datapack
-[05:23:02] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[05:23:02] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[05:23:02] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[05:23:02] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[05:23:02] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[05:23:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[05:23:13] [main/INFO]: Reflections took 45 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:13] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:13] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[05:23:13] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[05:23:13] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[05:23:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[05:23:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[05:23:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[05:23:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[05:23:14] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[05:23:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:14] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[05:23:14] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 1 values
-[05:23:14] [main/INFO]: [STDOUT]: All 6 have been set properly
-[05:23:14] [main/INFO]: Constructing common components for easyanvils:main
-[05:23:14] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
-[05:23:14] [main/INFO]: Constructing common components for easymagic:main
-[05:23:14] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[05:23:14] [main/INFO]: Constructing common components for easyshulkerboxes:main
-[05:23:14] [main/INFO]: Constructing common components for fastitemframes:main
-[05:23:15] [main/INFO]: Initialized GlobalDatapack
-[05:23:15] [main/INFO]: Horse Buff Initialized
-[05:23:15] [main/INFO]: Constructing common components for iteminteractions:main
-[05:23:15] [main/INFO]: Initializing JamLib on Fabric
-[05:23:15] [main/INFO]: Loading Noisium.
-[05:23:15] [main/INFO]: DerGeistdesMatze - i will take the l
-[05:23:15] [main/INFO]: Constructing common components for puzzleslib:main
-[05:23:15] [main/INFO]: Updated config file at /workspaces/1244-vanilla/servidor_minecraft/config/rightclickharvest.json5
-[05:23:15] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[05:23:15] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[05:23:15] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[05:23:15] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[05:23:15] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[05:23:15] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[05:23:15] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[05:23:15] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[05:23:15] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[05:23:15] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[05:23:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[05:23:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[05:23:17] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[05:23:17] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[05:23:17] [main/INFO]: Constructing common components for universalenchants:main
-[05:23:17] [main/INFO]: Constructing common components for visualworkbench:main
-[05:23:17] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
-[05:23:17] [main/INFO]: [voicechat] Compatibility version 18
-[05:23:17] [main/INFO]: [voicechat] Loading plugins
-[05:23:17] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[05:23:17] [main/INFO]: [voicechat] Initializing plugins
-[05:23:17] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[05:23:17] [main/INFO]: Reflections took 6 ms to scan 1 urls, producing 1 keys and 3 values
-[05:23:17] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[05:23:17] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:17] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:17] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:17] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[05:23:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:23:18] [main/INFO]: Collected 0 data resources in 8.902697ms:
+[15:06:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/1244-vanilla/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:06:08] [main/INFO]: Compatibility level set to JAVA_21
+[15:06:08] [main/WARN]: Reference map 'easyshulkerboxes.common.refmap.json' for easyshulkerboxes.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:06:08] [main/WARN]: Reference map 'easyshulkerboxes.fabric.refmap.json' for easyshulkerboxes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:06:08] [main/WARN]: Reference map 'fastitemframes.fabric.refmap.json' for fastitemframes.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:06:09] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:06:09] [main/WARN]: Reference map 'iteminteractions.fabric.refmap.json' for iteminteractions.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:06:09] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[15:06:09] [main/INFO]: Loaded configuration file for Lithium: 158 options available, 0 override(s) found.
+[15:06:09] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:06:09] [main/INFO]: Successfully started async appender with [SysOut, ServerGuiConsole, Tracy, File]
+[15:06:09] [main/WARN]: Error loading class: net/minecraft/class_7196 (java.lang.ClassNotFoundException: net/minecraft/class_7196)
+[15:06:09] [main/WARN]: @Mixin target net.minecraft.class_7196 was not found global-datapack.mixins.json:IntegratedServerLoaderMixin from mod global-datapack
+[15:06:09] [main/WARN]: Error loading class: net/minecraft/class_525$class_8094 (java.lang.ClassNotFoundException: net/minecraft/class_525$class_8094)
+[15:06:09] [main/WARN]: @Mixin target net/minecraft/class_525$class_8094 was not found global-datapack.mixins.json:MoreTabMixin from mod global-datapack
+[15:06:10] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[15:06:10] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[15:06:10] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[15:06:10] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[15:06:10] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[15:06:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:06:22] [main/INFO]: Reflections took 48 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[15:06:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:06:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[15:06:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:06:22] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:06:22] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[15:06:22] [main/INFO]: [STDOUT]: All 6 have been set properly
+[15:06:23] [main/INFO]: Constructing common components for easyanvils:main
+[15:06:23] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[15:06:23] [main/INFO]: Constructing common components for easymagic:main
+[15:06:23] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[15:06:23] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[15:06:23] [main/INFO]: Constructing common components for fastitemframes:main
+[15:06:24] [main/INFO]: Initialized GlobalDatapack
+[15:06:24] [main/INFO]: Horse Buff Initialized
+[15:06:24] [main/INFO]: Constructing common components for iteminteractions:main
+[15:06:24] [main/INFO]: Initializing JamLib on Fabric
+[15:06:24] [main/INFO]: Loading Noisium.
+[15:06:24] [main/INFO]: chyz: How could you do this to me, Blod. I loved you like a guy I don't know in real life :(
+[15:06:24] [main/INFO]: Constructing common components for puzzleslib:main
+[15:06:24] [main/INFO]: Updated config file at /workspaces/1244-vanilla/servidor_minecraft/config/rightclickharvest.json5
+[15:06:24] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[15:06:24] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[15:06:24] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[15:06:24] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[15:06:24] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[15:06:24] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[15:06:24] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[15:06:24] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[15:06:24] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[15:06:24] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[15:06:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[15:06:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[15:06:25] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[15:06:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[15:06:25] [main/INFO]: Constructing common components for universalenchants:main
+[15:06:25] [main/INFO]: Constructing common components for visualworkbench:main
+[15:06:25] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[15:06:25] [main/INFO]: [voicechat] Compatibility version 18
+[15:06:25] [main/INFO]: [voicechat] Loading plugins
+[15:06:25] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[15:06:25] [main/INFO]: [voicechat] Initializing plugins
+[15:06:25] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[15:06:25] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
+[15:06:25] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 1 keys and 3 values
+[15:06:25] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:25] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:25] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:25] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[15:06:26] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:06:26] [main/INFO]: Collected 0 data resources in 6.233966ms:
 
-[05:23:18] [main/ERROR]: Couldn't load tag tc:logs as it is missing following references: #minecraft:wood (from file/TreeCapitator v4.2.zip)
-[05:23:27] [main/INFO]: Loaded 1800 recipes
-[05:23:27] [main/ERROR]: Failed to load function hostilemobs:zzzz/shatters/time_forward
+[15:06:27] [main/ERROR]: Couldn't load tag tc:logs as it is missing following references: #minecraft:wood (from file/TreeCapitator v4.2.zip)
+[15:06:36] [main/INFO]: Loaded 1800 recipes
+[15:06:36] [main/ERROR]: Failed to load function hostilemobs:zzzz/shatters/time_forward
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -328,60 +328,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at knot/net.minecraft.class_5349.method_29451(class_5349.java:87) ~[server-intermediary.jar:?]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[05:23:27] [main/INFO]: Loaded 3112 advancements
-[05:23:27] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 85 translation keys
-[05:23:27] [main/INFO]: Applied 219 biome modifications to 54 of 76 new biomes in 26.98 ms
-[05:23:27] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
-[05:23:27] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[05:23:27] [Server thread/INFO]: Dispatching loading event for config iteminteractions-server.toml
-[05:23:27] [Server thread/INFO]: Dispatching loading event for config universalenchants-server.toml
-[05:23:28] [Server thread/INFO]: Starting background profiler...
-[05:23:28] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[05:23:28] [Server thread/INFO]: Loading properties
-[05:23:28] [Server thread/INFO]: Default game type: SURVIVAL
-[05:23:28] [Server thread/INFO]: Generating keypair
-[05:23:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:23:28] [Server thread/INFO]: Using epoll channel type
-[05:23:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:23:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:23:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:23:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:23:29] [Server thread/INFO]: Preparing level "world"
-[05:23:29] [Server thread/INFO]: Changing watch distance to 10
-[05:23:29] [Server thread/INFO]: Changing watch distance to 10
-[05:23:30] [Server thread/INFO]: Changing watch distance to 10
-[05:23:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:23:39] [Server thread/INFO]: Collected 0 data resources in 9.664973332s:
+[15:06:36] [main/INFO]: Loaded 3112 advancements
+[15:06:36] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 85 translation keys
+[15:06:37] [main/INFO]: Applied 219 biome modifications to 54 of 76 new biomes in 33.85 ms
+[15:06:37] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[15:06:37] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[15:06:37] [Server thread/INFO]: Dispatching loading event for config iteminteractions-server.toml
+[15:06:37] [Server thread/INFO]: Dispatching loading event for config universalenchants-server.toml
+[15:06:37] [Server thread/INFO]: Starting background profiler...
+[15:06:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[15:06:38] [Server thread/INFO]: Loading properties
+[15:06:38] [Server thread/INFO]: Default game type: SURVIVAL
+[15:06:38] [Server thread/INFO]: Generating keypair
+[15:06:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:06:38] [Server thread/INFO]: Using epoll channel type
+[15:06:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:06:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:06:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:06:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:06:38] [Server thread/INFO]: Preparing level "world"
+[15:06:39] [Server thread/INFO]: Changing watch distance to 10
+[15:06:40] [Server thread/INFO]: Changing watch distance to 10
+[15:06:40] [Server thread/INFO]: Changing watch distance to 10
+[15:06:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:06:48] [Server thread/INFO]: Collected 0 data resources in 8.072020801s:
 
-[05:23:40] [Server thread/ERROR]: Couldn't load tag tc:logs as it is missing following references: #minecraft:wood (from file/TreeCapitator v4.2.zip)
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:44] [Server thread/INFO]: Loaded 1800 recipes
-[05:23:44] [Server thread/ERROR]: Failed to load function hostilemobs:zzzz/shatters/time_forward
+[15:06:48] [Server thread/ERROR]: Couldn't load tag tc:logs as it is missing following references: #minecraft:wood (from file/TreeCapitator v4.2.zip)
+[15:06:53] [Server thread/INFO]: Loaded 1800 recipes
+[15:06:53] [Server thread/ERROR]: Failed to load function hostilemobs:zzzz/shatters/time_forward
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -397,82 +371,112 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at knot/net.minecraft.class_5349.method_29451(class_5349.java:87) ~[server-intermediary.jar:?]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[05:23:44] [Server thread/INFO]: Loaded 3112 advancements
-[05:23:44] [Server thread/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[05:23:44] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[05:23:44] [Server thread/INFO]: [REI] Plugins (3):
-[05:23:44] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[05:23:44] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[05:23:44] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[05:23:44] [Server thread/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[05:23:44] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 1.711 ms, totaling 112.3 ms.
-[05:23:44] [Server thread/INFO]: [REI] ****************************************
-[05:23:44] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[05:23:44] [Server thread/INFO]: [REI] Plugins (3):
-[05:23:44] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[05:23:44] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[05:23:44] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[05:23:44] [Server thread/INFO]: [REI] ****************************************
-[05:23:44] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.014 ms, totaling 132.3 ms.
-[05:23:44] [ForkJoinPool.commonPool-worker-3/INFO]: Loaded 85 translation keys
-[05:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:23:45] [Server thread/INFO]: Time elapsed: 15735 ms
-[05:23:45] [Server thread/INFO]: Done (16.704s)! For help, type "help"
-[05:23:45] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[05:23:45] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[05:23:45] [Server thread/INFO]: [REI] Plugins (3):
-[05:23:45] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[05:23:45] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[05:23:45] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[05:23:45] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[05:23:45] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 1.362 ms, totaling 13.35 ms.
-[05:23:45] [Server thread/INFO]: [REI] ----------------------------------------
-[05:23:45] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[05:23:45] [Server thread/INFO]: [REI] Plugins (3):
-[05:23:45] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[05:23:45] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[05:23:45] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[05:23:45] [Server thread/INFO]: [REI] ----------------------------------------
-[05:23:45] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.606 ms, totaling 53.31 ms.
-[05:23:45] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[05:23:45] [VoiceChatServerThread/INFO]: [voicechat] Voice host is '147.185.221.28:2330'
-[05:23:45] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2330
-[05:24:12] [Server thread/INFO]: Svonccy[/127.34.142.207:49287] logged in with entity id 28 at (-736.3086860187013, 64.0, 615.7008350093004)
-[05:24:12] [Server thread/INFO]: Loading config from file...
-[05:24:12] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[05:24:12] [Server thread/INFO]: Svonccy joined the game
-[05:24:13] [Server thread/INFO]: [voicechat] Received secret request of Svonccy (18)
-[05:24:13] [Server thread/INFO]: [voicechat] Sent secret to Svonccy
-[05:24:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
-[05:24:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
-[05:24:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Svonccy (c063cfc5-1a13-3b54-afbf-11d6f3d038d1) successfully connected to voice chat
-[05:25:05] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:25:13] [Server thread/INFO]: Oicapse[/127.13.175.93:60381] logged in with entity id 515 at (-300.37049420891583, 21.0, 1041.499898993832)
-[05:25:13] [Server thread/INFO]: Loading config from file...
-[05:25:13] [Server thread/INFO]: Oicapse joined the game
-[05:25:15] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
-[05:25:15] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
-[05:25:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
-[05:25:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
-[05:25:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
-[05:25:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:26:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:27:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:28:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:29:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:29:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:30:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:30:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:30:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:30:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:30:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:30:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:31:14] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:31:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:32:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
-[05:32:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[15:06:53] [Server thread/INFO]: Loaded 3112 advancements
+[15:06:53] [Server thread/INFO]: [REI] ========================================
+[15:06:53] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[15:06:53] [Server thread/INFO]: [REI] Plugins (3):
+[15:06:53] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:06:53] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:06:53] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:06:53] [Server thread/INFO]: [REI] ========================================
+[15:06:54] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 3.630 ms, totaling 137.8 ms.
+[15:06:54] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[15:06:54] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[15:06:54] [Server thread/INFO]: [REI] Plugins (3):
+[15:06:54] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:06:54] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:06:54] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:06:54] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[15:06:54] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 3.835 ms, totaling 204.0 ms.
+[15:06:54] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 85 translation keys
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:06:54] [Server thread/INFO]: Time elapsed: 14531 ms
+[15:06:54] [Server thread/INFO]: Done (15.812s)! For help, type "help"
+[15:06:54] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[15:06:54] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[15:06:54] [Server thread/INFO]: [REI] Plugins (3):
+[15:06:54] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:06:54] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:06:54] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:06:54] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[15:06:54] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 4.764 ms, totaling 22.50 ms.
+[15:06:54] [Server thread/INFO]: [REI] ========================================
+[15:06:54] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[15:06:54] [Server thread/INFO]: [REI] Plugins (3):
+[15:06:54] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[15:06:54] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[15:06:54] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[15:06:54] [Server thread/INFO]: [REI] ========================================
+[15:06:55] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.209 ms, totaling 218.0 ms.
+[15:06:55] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15:06:55] [VoiceChatServerThread/INFO]: [voicechat] Voice host is '147.185.221.28:2330'
+[15:06:55] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2330
+[15:07:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:08:32] [Server thread/INFO]: BillyVR15[/127.179.181.55:48239] logged in with entity id 51 at (51.29939999538751, 62.11076431274414, -895.162490444626)
+[15:08:32] [Server thread/INFO]: Loading config from file...
+[15:08:32] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[15:08:32] [Server thread/INFO]: BillyVR15 joined the game
+[15:08:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[15:08:35] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[15:08:35] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[15:08:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[15:08:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[15:08:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[15:09:24] [Server thread/INFO]: [BillyVR15: Triggered [bac_apple_a_day]]
+[15:09:33] [Server thread/INFO]: [BillyVR15: Triggered [monsterLevelInfo]]
+[15:09:41] [Server thread/INFO]: BillyVR15 lost connection: Disconnected
+[15:09:41] [Server thread/INFO]: BillyVR15 left the game
+[15:09:41] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[15:09:56] [Server thread/INFO]: BillyVR15[/127.179.181.55:33025] logged in with entity id 368 at (51.29939999538751, 62.11076431274414, -904.7624879412318)
+[15:09:56] [Server thread/INFO]: Loading config from file...
+[15:09:56] [Server thread/INFO]: BillyVR15 joined the game
+[15:09:56] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[15:09:56] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[15:09:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[15:09:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[15:09:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[15:10:07] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[15:11:31] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[15:12:26] [Server thread/INFO]: BillyVR15 lost connection: Timed out
+[15:12:26] [Server thread/INFO]: BillyVR15 left the game
+[15:12:26] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[15:13:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:14:00] [Server thread/INFO]: BillyVR15[/127.179.181.55:50135] logged in with entity id 1771 at (122.06045961761215, 62.11076431274414, -513.5997342621658)
+[15:14:00] [Server thread/INFO]: Loading config from file...
+[15:14:00] [Server thread/INFO]: BillyVR15 joined the game
+[15:14:01] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[15:14:01] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[15:14:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[15:14:11] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[15:14:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[15:14:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[15:14:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[15:14:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
