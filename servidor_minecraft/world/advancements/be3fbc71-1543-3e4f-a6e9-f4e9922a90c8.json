@@ -109,9 +109,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-05-14 04:11:19 +0000",
       "log_spam_fixer": "2025-05-14 02:21:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -141,26 +142,33 @@
       "mining_root": "2025-05-14 02:28:51 +0000",
       "time_to_dig": "2025-05-14 03:00:05 +0000",
       "farming_root": "2025-05-14 02:28:02 +0000",
+      "aww_man": "2025-05-14 04:07:07 +0000",
       "which_came_first": "2025-05-14 02:23:40 +0000",
       "weaponry_root": "2025-05-14 02:29:24 +0000",
       "suit_up": "2025-05-14 02:56:10 +0000",
       "tarzan": "2025-05-14 03:35:12 +0000",
+      "not_today_thank_you": "2025-05-14 04:11:12 +0000",
+      "spooky_skeleton": "2025-05-14 04:06:17 +0000",
       "delicious_fish": "2025-05-14 02:42:38 +0000",
       "kelp_me": "2025-05-14 02:49:44 +0000",
       "bake_bread": "2025-05-14 02:30:37 +0000",
       "monsters_root": "2025-05-14 02:29:24 +0000",
       "direct_fishing": "2025-05-14 02:30:56 +0000",
+      "ew_ew_ew": "2025-05-14 04:06:03 +0000",
       "adventure_root": "2025-05-14 02:30:56 +0000",
       "stone_age": "2025-05-14 02:33:12 +0000",
+      "kilometre_walk": "2025-05-14 03:53:02 +0000",
       "cut_in_half": "2025-05-14 03:03:57 +0000",
       "getting_wood": "2025-05-14 02:23:24 +0000",
       "isnt_it_iron_pick": "2025-05-14 03:04:57 +0000",
+      "berry_nice": "2025-05-14 04:06:29 +0000",
       "just_keep_swimming": "2025-05-14 02:27:22 +0000",
       "gold_rush": "2025-05-14 03:07:20 +0000",
       "the_pie": "2025-05-14 03:35:58 +0000",
       "classy_glassy": "2025-05-14 03:11:13 +0000",
       "i_dont_like_sand": "2025-05-14 03:01:16 +0000",
       "getting_an_upgrade": "2025-05-14 02:34:49 +0000",
+      "die_potato": "2025-05-14 04:04:07 +0000",
       "now_youre_thinking_with_portals": "2025-05-14 03:48:23 +0000",
       "time_to_farm": "2025-05-14 02:28:02 +0000",
       "time_to_strike": "2025-05-14 02:29:24 +0000",
@@ -174,6 +182,7 @@
       "fossil_fuel": "2025-05-14 02:53:00 +0000",
       "in_a_pickle": "2025-05-14 03:28:55 +0000",
       "the_first_night": "2025-05-14 02:23:16 +0000",
+      "sir_knight": "2025-05-14 04:08:14 +0000",
       "cow_tipper": "2025-05-14 02:46:17 +0000",
       "my_work_here_is_done": "2025-05-14 03:28:18 +0000",
       "building_root": "2025-05-14 02:27:40 +0000",
@@ -188,10 +197,12 @@
       "for_you_my_sweet": "2025-05-14 02:28:07 +0000",
       "festival_of_lights": "2025-05-14 03:00:13 +0000",
       "boaty_mcboatface": "2025-05-14 02:46:37 +0000",
+      "shield_luck": "2025-05-14 04:11:12 +0000",
       "not_chicken_mcnuggets": "2025-05-14 02:55:45 +0000",
       "monster_hunter": "2025-05-14 02:35:20 +0000",
       "statistics_root": "2025-05-14 02:23:17 +0000",
       "time_to_mine": "2025-05-14 02:28:51 +0000",
+      "creepy_heads": "2025-05-14 04:04:17 +0000",
       "biomes_root": "2025-05-14 02:30:56 +0000",
       "stabcraft": "2025-05-14 03:26:50 +0000",
       "its_a_sign": "2025-05-14 02:57:19 +0000",
@@ -210,8 +221,10 @@
     "criteria": {
       "forest": "2025-05-14 02:22:16 +0000",
       "ocean": "2025-05-14 02:46:37 +0000",
+      "taiga": "2025-05-14 04:03:45 +0000",
       "plains": "2025-05-14 02:51:11 +0000",
       "beach": "2025-05-14 03:34:04 +0000",
+      "cold_ocean": "2025-05-14 04:01:27 +0000",
       "river": "2025-05-14 02:30:53 +0000"
     },
     "done": false
@@ -219,6 +232,7 @@
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
       "forest": "2025-05-14 02:22:16 +0000",
+      "taiga": "2025-05-14 04:03:45 +0000",
       "plains": "2025-05-14 02:51:11 +0000"
     },
     "done": false
@@ -227,8 +241,10 @@
     "criteria": {
       "forest": "2025-05-14 02:22:16 +0000",
       "ocean": "2025-05-14 02:46:37 +0000",
+      "taiga": "2025-05-14 04:03:45 +0000",
       "plains": "2025-05-14 02:51:11 +0000",
       "beach": "2025-05-14 03:34:04 +0000",
+      "cold_ocean": "2025-05-14 04:01:27 +0000",
       "river": "2025-05-14 02:30:53 +0000"
     },
     "done": false
@@ -359,6 +375,7 @@
     "criteria": {
       "spruce_sapling": "2025-05-14 03:10:15 +0000",
       "white_carpet": "2025-05-14 03:12:25 +0000",
+      "creeper_head": "2025-05-14 04:04:16 +0000",
       "dead_tube_coral_block": "2025-05-14 03:09:55 +0000",
       "furnace": "2025-05-14 02:34:04 +0000",
       "poppy": "2025-05-14 02:28:06 +0000",
@@ -478,17 +495,21 @@
       "coal": "2025-05-14 02:52:59 +0000",
       "nautilus_shell": "2025-05-14 03:33:54 +0000",
       "emerald": "2025-05-14 02:46:13 +0000",
+      "shield": "2025-05-14 04:08:13 +0000",
       "string": "2025-05-14 02:49:43 +0000",
       "book": "2025-05-14 02:52:56 +0000",
+      "sweet_berries": "2025-05-14 04:04:09 +0000",
       "bow": "2025-05-14 03:39:09 +0000",
       "iron_ingot": "2025-05-14 02:52:46 +0000",
       "apple": "2025-05-14 02:51:26 +0000",
+      "spider_eye": "2025-05-14 04:06:04 +0000",
       "potato": "2025-05-14 02:46:14 +0000",
       "bone_meal": "2025-05-14 02:31:27 +0000",
       "cooked_cod": "2025-05-14 02:49:53 +0000",
       "lapis_lazuli": "2025-05-14 03:16:01 +0000",
       "iron_pickaxe": "2025-05-14 03:04:57 +0000",
       "wheat": "2025-05-14 02:27:20 +0000",
+      "brick": "2025-05-14 03:57:03 +0000",
       "stone_pickaxe": "2025-05-14 02:34:49 +0000",
       "iron_helmet": "2025-05-14 03:04:51 +0000",
       "pumpkin_pie": "2025-05-14 03:35:57 +0000",
@@ -502,6 +523,7 @@
       "bone": "2025-05-14 03:37:09 +0000",
       "kelp": "2025-05-14 02:49:43 +0000",
       "golden_carrot": "2025-05-14 03:39:04 +0000",
+      "beetroot": "2025-05-14 03:57:02 +0000",
       "iron_shovel": "2025-05-14 03:00:05 +0000",
       "diamond": "2025-05-14 03:04:44 +0000",
       "cod": "2025-05-14 02:49:42 +0000",
@@ -535,6 +557,7 @@
   },
   "blazeandcave:bacap/biomes_milestone": {
     "criteria": {
+      "kilometre_walk": "2025-05-14 03:53:02 +0000",
       "just_keep_swimming": "2025-05-14 02:27:22 +0000",
       "for_you_my_sweet": "2025-05-14 02:28:07 +0000",
       "root": "2025-05-14 02:30:56 +0000",
@@ -627,10 +650,12 @@
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
       "kelp_me": "2025-05-14 02:49:44 +0000",
+      "berry_nice": "2025-05-14 04:06:29 +0000",
       "bake_bread": "2025-05-14 02:30:37 +0000",
       "root": "2025-05-14 02:28:02 +0000",
       "the_pie": "2025-05-14 03:35:58 +0000",
-      "a_seedy_place": "2025-05-14 02:27:27 +0000"
+      "a_seedy_place": "2025-05-14 02:27:27 +0000",
+      "die_potato": "2025-05-14 04:04:07 +0000"
     },
     "done": false
   },
@@ -794,6 +819,7 @@
     "criteria": {
       "water_bucket": "2025-05-14 03:02:54 +0000",
       "wooden_hoe": "2025-05-14 02:28:02 +0000",
+      "shield": "2025-05-14 04:08:13 +0000",
       "bread": "2025-05-14 03:39:15 +0000",
       "wooden_pickaxe": "2025-05-14 02:28:51 +0000",
       "iron_chestplate": "2025-05-14 02:56:08 +0000",
@@ -891,7 +917,9 @@
   },
   "blazeandcave:bacap/weaponry_milestone": {
     "criteria": {
-      "root": "2025-05-14 02:29:24 +0000"
+      "root": "2025-05-14 02:29:24 +0000",
+      "shield_luck": "2025-05-14 04:11:12 +0000",
+      "sir_knight": "2025-05-14 04:08:14 +0000"
     },
     "done": false
   },
@@ -916,9 +944,14 @@
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
       "dead_dont_die": "2025-05-14 02:35:20 +0000",
+      "creepy_heads": "2025-05-14 04:04:17 +0000",
       "iron_belly": "2025-05-14 02:35:49 +0000",
       "root": "2025-05-14 02:29:24 +0000",
-      "monster_hunter": "2025-05-14 02:35:20 +0000"
+      "aww_man": "2025-05-14 04:07:07 +0000",
+      "monster_hunter": "2025-05-14 02:35:20 +0000",
+      "ew_ew_ew": "2025-05-14 04:06:03 +0000",
+      "not_today_thank_you": "2025-05-14 04:11:12 +0000",
+      "spooky_skeleton": "2025-05-14 04:06:17 +0000"
     },
     "done": false
   },
@@ -938,7 +971,8 @@
     "criteria": {
       "ocean": "2025-05-14 02:46:37 +0000",
       "beach": "2025-05-14 03:34:04 +0000",
-      "river": "2025-05-14 02:30:53 +0000"
+      "river": "2025-05-14 02:30:53 +0000",
+      "cold_ocean": "2025-05-14 04:01:27 +0000"
     },
     "done": false
   },
@@ -1194,7 +1228,9 @@
   "blazeandcave:farming/vegetarian": {
     "criteria": {
       "bread": "2025-05-14 02:33:32 +0000",
+      "sweet_berries": "2025-05-14 04:06:28 +0000",
       "dried_kelp": "2025-05-14 03:35:06 +0000",
+      "baked_potato": "2025-05-14 04:04:06 +0000",
       "pumpkin_pie": "2025-05-14 03:36:07 +0000"
     },
     "done": false
@@ -1209,7 +1245,9 @@
     "criteria": {
       "bread": "2025-05-14 02:33:32 +0000",
       "rotten_flesh": "2025-05-14 02:35:48 +0000",
+      "sweet_berries": "2025-05-14 04:06:28 +0000",
       "dried_kelp": "2025-05-14 03:35:06 +0000",
+      "baked_potato": "2025-05-14 04:04:06 +0000",
       "cooked_salmon": "2025-05-14 02:42:38 +0000",
       "pumpkin_pie": "2025-05-14 03:36:07 +0000"
     },
@@ -1264,6 +1302,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-14 03:35:11 +0000",
+      "minecraft:skeleton": "2025-05-14 04:06:16 +0000",
+      "minecraft:spider": "2025-05-14 04:06:02 +0000",
       "minecraft:zombie": "2025-05-14 02:35:20 +0000"
     },
     "done": false
@@ -1276,7 +1316,9 @@
   },
   "blazeandcave:monsters/night_runner": {
     "criteria": {
-      "zombie": "2025-05-14 02:35:20 +0000"
+      "skeleton": "2025-05-14 04:06:16 +0000",
+      "zombie": "2025-05-14 02:35:20 +0000",
+      "spider": "2025-05-14 04:06:02 +0000"
     },
     "done": false
   },
@@ -1308,7 +1350,8 @@
   "blazeandcave:challenges/death_from_all": {
     "criteria": {
       "skeleton": "2025-05-14 02:36:41 +0000",
-      "zombie": "2025-05-14 02:36:01 +0000"
+      "zombie": "2025-05-14 02:36:01 +0000",
+      "creeper": "2025-05-14 04:07:06 +0000"
     },
     "done": false
   },
@@ -2851,9 +2894,33 @@
     },
     "done": true
   },
+  "blazeandcave:monsters/aww_man": {
+    "criteria": {
+      "creeper": "2025-05-14 04:07:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/master_shieldsman": {
+    "criteria": {
+      "skeleton": "2025-05-14 04:11:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_skeleton": "2025-05-14 04:11:11 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/luxury_cruise": {
     "criteria": {
       "trigger": "2025-05-14 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-14 03:57:02 +0000"
     },
     "done": true
   },
@@ -2870,15 +2937,33 @@
     },
     "done": true
   },
+  "blazeandcave:monsters/ew_ew_ew": {
+    "criteria": {
+      "spider": "2025-05-14 04:06:02 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:farming/the_pie": {
     "criteria": {
       "pumpkin_pie": "2025-05-14 03:35:57 +0000"
     },
     "done": true
   },
+  "blazeandcave:monsters/creepy_heads": {
+    "criteria": {
+      "creeper_head": "2025-05-14 04:04:16 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:adventure/now_youre_thinking_with_portals": {
     "criteria": {
       "ruined_portal": "2025-05-14 03:48:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/die_potato": {
+    "criteria": {
+      "baked_potato": "2025-05-14 04:04:06 +0000"
     },
     "done": true
   },
@@ -2900,15 +2985,39 @@
     },
     "done": true
   },
+  "blazeandcave:monsters/spooky_skeleton": {
+    "criteria": {
+      "skeleton": "2025-05-14 04:06:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-05-14 03:50:44 +0000"
     },
     "done": true
   },
+  "knize1007:arthropod_redemption": {
+    "criteria": {
+      "requirement": "2025-05-14 04:06:02 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:mining/dungeons_and_spawners": {
     "criteria": {
       "dungeon": "2025-05-14 03:37:06 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-05-14 03:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-14 03:57:02 +0000"
     },
     "done": true
   },
@@ -2948,9 +3057,33 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-14 04:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_allium": {
     "criteria": {
       "has_allium": "2025-05-14 03:28:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/shield_luck": {
+    "criteria": {
+      "deflected_trident": "2025-05-14 04:11:11 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/red": {
+    "criteria": {
+      "requirement": "2025-05-14 04:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-14 03:57:03 +0000"
     },
     "done": true
   },
@@ -2960,9 +3093,21 @@
     },
     "done": true
   },
+  "knize1007:arthropod": {
+    "criteria": {
+      "requirement": "2025-05-14 04:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-14 03:37:09 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/beetroot": {
+    "criteria": {
+      "requirement": "2025-05-14 03:57:02 +0000"
     },
     "done": true
   },
@@ -2971,6 +3116,18 @@
       "bread": "2025-05-14 03:39:15 +0000"
     },
     "done": false
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_pos_z": "2025-05-14 03:53:01 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/sir_knight": {
+    "criteria": {
+      "shield": "2025-05-14 04:08:13 +0000"
+    },
+    "done": true
   },
   "2re:recipes/allium": {
     "criteria": {
@@ -2984,6 +3141,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-14 03:57:03 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/berry_nice": {
+    "criteria": {
+      "sweet_berries": "2025-05-14 04:06:28 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-05-14 03:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-14 04:04:16 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/eeuuwww": {
     "criteria": {
       "cobweb": "2025-05-14 03:37:32 +0000"
@@ -2993,6 +3174,12 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-05-14 03:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-14 04:06:04 +0000"
     },
     "done": true
   },
@@ -3018,6 +3205,12 @@
   "blazeandcave:building/ladder_climbers_inc": {
     "criteria": {
       "enter_ladder": "2025-05-14 03:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-14 03:57:03 +0000"
     },
     "done": true
   },
