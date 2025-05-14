@@ -480,3 +480,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15:14:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
 [15:14:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [15:14:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[15:19:00] [Server thread/INFO]: BillyVR15 lost connection: Timed out
+[15:19:00] [Server thread/INFO]: BillyVR15 left the game
+[15:19:00] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[15:20:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
