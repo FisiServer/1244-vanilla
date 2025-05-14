@@ -138,17 +138,22 @@
       "bacap_root": "2025-05-11 00:05:26 +0000",
       "humble_bundle": "2025-05-11 01:13:54 +0000",
       "gi_geode": "2025-05-11 01:13:45 +0000",
+      "deep_slate_nine": "2025-05-14 02:31:10 +0000",
       "mining_root": "2025-05-11 00:13:11 +0000",
       "unbreakable": "2025-05-11 00:52:47 +0000",
+      "aww_man": "2025-05-14 02:25:08 +0000",
       "which_came_first": "2025-05-11 00:39:15 +0000",
       "weaponry_root": "2025-05-11 01:17:07 +0000",
+      "suit_up": "2025-05-14 02:26:56 +0000",
       "tarzan": "2025-05-11 00:41:19 +0000",
       "jailhouse_block": "2025-05-11 00:43:01 +0000",
       "time_to_chop": "2025-05-11 01:16:19 +0000",
+      "spooky_skeleton": "2025-05-14 02:18:03 +0000",
       "theres_a_zombie_on_the_lawn": "2025-05-14 02:08:02 +0000",
       "bake_bread": "2025-05-11 00:12:02 +0000",
       "monsters_root": "2025-05-11 01:17:07 +0000",
       "direct_fishing": "2025-05-14 02:07:12 +0000",
+      "torched": "2025-05-14 02:31:02 +0000",
       "bombs_away": "2025-05-11 00:56:57 +0000",
       "adventure_root": "2025-05-11 01:07:25 +0000",
       "stone_age": "2025-05-11 00:42:29 +0000",
@@ -162,14 +167,18 @@
       "i_dont_like_sand": "2025-05-11 00:56:49 +0000",
       "poacher": "2025-05-11 01:07:25 +0000",
       "getting_an_upgrade": "2025-05-11 00:43:36 +0000",
+      "die_potato": "2025-05-14 02:18:12 +0000",
       "leveraging_synergy": "2025-05-11 01:02:30 +0000",
       "time_to_strike": "2025-05-11 01:17:07 +0000",
       "acquire_hardware": "2025-05-11 00:43:01 +0000",
       "x_bow": "2025-05-11 00:41:29 +0000",
+      "hot_topic": "2025-05-14 02:22:36 +0000",
       "fossil_fuel": "2025-05-11 00:41:12 +0000",
       "treasure_hunter": "2025-05-11 01:06:35 +0000",
       "the_first_night": "2025-05-11 00:08:21 +0000",
       "cow_tipper": "2025-05-11 01:13:16 +0000",
+      "seeing_red": "2025-05-14 02:19:05 +0000",
+      "redstone_root": "2025-05-14 02:19:05 +0000",
       "building_root": "2025-05-11 00:11:49 +0000",
       "tickle_time": "2025-05-11 00:53:13 +0000",
       "sweet_dreams": "2025-05-11 00:08:02 +0000",
@@ -181,6 +190,7 @@
       "its_full_of_ink": "2025-05-11 01:03:14 +0000",
       "hey_look_mom": "2025-05-11 01:08:53 +0000",
       "diam_oh_wait_no": "2025-05-11 01:02:00 +0000",
+      "iron_man": "2025-05-14 02:27:35 +0000",
       "animal_root": "2025-05-11 00:12:04 +0000",
       "for_you_my_sweet": "2025-05-14 02:08:02 +0000",
       "festival_of_lights": "2025-05-11 01:02:52 +0000",
@@ -192,7 +202,8 @@
       "pork_chop": "2025-05-11 00:48:33 +0000",
       "biomes_root": "2025-05-11 01:07:25 +0000",
       "ahoy": "2025-05-11 00:52:23 +0000",
-      "dolphin_dasher": "2025-05-11 00:53:15 +0000"
+      "dolphin_dasher": "2025-05-11 00:53:15 +0000",
+      "stairs_no": "2025-05-14 02:12:48 +0000"
     },
     "done": false
   },
@@ -356,7 +367,9 @@
       "root": "2025-05-11 00:11:49 +0000",
       "ladder_climbers_inc": "2025-05-11 00:47:15 +0000",
       "festival_of_lights": "2025-05-11 01:02:52 +0000",
+      "torched": "2025-05-14 02:31:02 +0000",
       "i_dont_like_sand": "2025-05-11 00:56:49 +0000",
+      "stairs_no": "2025-05-14 02:12:48 +0000",
       "jailhouse_block": "2025-05-11 00:43:01 +0000"
     },
     "done": false
@@ -458,10 +471,15 @@
       "water_bucket": "2025-05-11 00:41:25 +0000",
       "leather_boots": "2025-05-11 00:52:47 +0000",
       "cooked_porkchop": "2025-05-11 00:47:23 +0000",
+      "raw_iron": "2025-05-14 02:17:58 +0000",
       "feather": "2025-05-11 00:53:13 +0000",
       "filled_map": "2025-05-11 00:53:11 +0000",
       "egg": "2025-05-11 00:39:15 +0000",
       "crossbow": "2025-05-11 00:41:29 +0000",
+      "arrow": "2025-05-14 02:18:02 +0000",
+      "iron_chestplate": "2025-05-14 02:27:08 +0000",
+      "beef": "2025-05-14 02:16:18 +0000",
+      "baked_potato": "2025-05-14 02:17:10 +0000",
       "porkchop": "2025-05-11 00:47:08 +0000",
       "prismarine_crystals": "2025-05-11 01:01:08 +0000",
       "iron_axe": "2025-05-11 01:16:18 +0000",
@@ -480,6 +498,7 @@
       "coal": "2025-05-11 00:41:12 +0000",
       "leather_helmet": "2025-05-11 00:52:46 +0000",
       "nautilus_shell": "2025-05-11 00:52:22 +0000",
+      "redstone": "2025-05-14 02:19:05 +0000",
       "emerald": "2025-05-11 00:49:47 +0000",
       "string": "2025-05-11 01:13:26 +0000",
       "cooked_mutton": "2025-05-11 00:47:39 +0000",
@@ -487,6 +506,7 @@
       "ink_sac": "2025-05-11 01:03:13 +0000",
       "bow": "2025-05-11 01:06:36 +0000",
       "iron_ingot": "2025-05-11 00:43:01 +0000",
+      "iron_boots": "2025-05-14 02:27:04 +0000",
       "paper": "2025-05-11 00:52:41 +0000",
       "potato": "2025-05-11 00:52:45 +0000",
       "cooked_cod": "2025-05-11 00:56:58 +0000",
@@ -495,6 +515,7 @@
       "iron_pickaxe": "2025-05-11 00:43:28 +0000",
       "wheat": "2025-05-11 00:10:42 +0000",
       "stone_pickaxe": "2025-05-11 00:43:36 +0000",
+      "iron_helmet": "2025-05-14 02:27:21 +0000",
       "pumpkin_pie": "2025-05-11 00:41:26 +0000",
       "bundle": "2025-05-11 01:13:54 +0000",
       "map": "2025-05-11 01:02:12 +0000",
@@ -503,6 +524,8 @@
       "bread": "2025-05-11 00:12:02 +0000",
       "rotten_flesh": "2025-05-11 00:12:45 +0000",
       "wooden_pickaxe": "2025-05-11 00:13:11 +0000",
+      "bone": "2025-05-14 02:18:02 +0000",
+      "iron_leggings": "2025-05-14 02:26:54 +0000",
       "prismarine_shard": "2025-05-11 01:01:32 +0000",
       "raw_copper": "2025-05-11 01:01:33 +0000",
       "sugar_cane": "2025-05-11 00:39:27 +0000",
@@ -530,29 +553,33 @@
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
       "white_carpet": "2025-05-11 01:15:03 +0000",
+      "furnace": "2025-05-14 02:22:35 +0000",
+      "poppy": "2025-05-14 02:08:01 +0000",
+      "mossy_cobblestone_stairs": "2025-05-14 02:12:48 +0000",
+      "yellow_carpet": "2025-05-11 01:15:14 +0000",
+      "sea_lantern": "2025-05-11 01:02:18 +0000",
+      "stone_bricks": "2025-05-11 00:43:01 +0000",
+      "hay_block": "2025-05-11 00:11:14 +0000",
+      "cobblestone": "2025-05-11 00:42:29 +0000",
+      "cobbled_deepslate": "2025-05-14 02:31:50 +0000",
+      "iron_bars": "2025-05-11 00:43:01 +0000",
+      "soul_soil": "2025-05-11 00:43:04 +0000",
+      "birch_log": "2025-05-11 00:49:49 +0000",
       "birch_planks": "2025-05-11 00:49:57 +0000",
       "cobweb": "2025-05-11 01:13:59 +0000",
       "seagrass": "2025-05-11 01:07:27 +0000",
-      "poppy": "2025-05-14 02:08:01 +0000",
       "crafting_table": "2025-05-11 00:11:49 +0000",
       "oak_planks": "2025-05-11 00:11:44 +0000",
       "dirt": "2025-05-14 02:07:35 +0000",
-      "yellow_carpet": "2025-05-11 01:15:14 +0000",
-      "sea_lantern": "2025-05-11 01:02:18 +0000",
       "grass_block": "2025-05-11 01:11:45 +0000",
-      "stone_bricks": "2025-05-11 00:43:01 +0000",
-      "hay_block": "2025-05-11 00:11:14 +0000",
+      "torch": "2025-05-14 02:28:50 +0000",
       "lever": "2025-05-11 01:03:55 +0000",
       "red_carpet": "2025-05-11 01:15:14 +0000",
       "lantern": "2025-05-11 01:02:49 +0000",
       "sunflower": "2025-05-14 02:08:01 +0000",
       "sand": "2025-05-11 00:56:49 +0000",
       "oak_log": "2025-05-11 00:11:42 +0000",
-      "cobblestone": "2025-05-11 00:42:29 +0000",
-      "tnt": "2025-05-11 00:56:56 +0000",
-      "iron_bars": "2025-05-11 00:43:01 +0000",
-      "soul_soil": "2025-05-11 00:43:04 +0000",
-      "birch_log": "2025-05-11 00:49:49 +0000"
+      "tnt": "2025-05-11 00:56:56 +0000"
     },
     "done": false
   },
@@ -707,7 +734,8 @@
       "its_full_of_ink": "2025-05-11 01:03:14 +0000",
       "bake_bread": "2025-05-11 00:12:02 +0000",
       "sugar_sugar": "2025-05-11 00:39:27 +0000",
-      "the_pie": "2025-05-11 00:41:26 +0000"
+      "the_pie": "2025-05-11 00:41:26 +0000",
+      "die_potato": "2025-05-14 02:18:12 +0000"
     },
     "done": false
   },
@@ -737,6 +765,7 @@
   "blazeandcave:farming/vegetarian": {
     "criteria": {
       "bread": "2025-05-11 00:12:04 +0000",
+      "baked_potato": "2025-05-14 02:18:12 +0000",
       "pumpkin_pie": "2025-05-11 00:41:45 +0000"
     },
     "done": false
@@ -752,6 +781,7 @@
       "cooked_porkchop": "2025-05-11 00:48:33 +0000",
       "bread": "2025-05-11 00:12:04 +0000",
       "cooked_mutton": "2025-05-11 00:51:30 +0000",
+      "baked_potato": "2025-05-14 02:18:12 +0000",
       "pumpkin_pie": "2025-05-11 00:41:45 +0000"
     },
     "done": false
@@ -818,14 +848,18 @@
       "potion": "2025-05-11 01:14:00 +0000",
       "crossbow": "2025-05-11 00:41:29 +0000",
       "wooden_pickaxe": "2025-05-11 00:13:11 +0000",
+      "iron_chestplate": "2025-05-14 02:27:08 +0000",
       "iron_horse_armor": "2025-05-11 01:02:05 +0000",
+      "iron_leggings": "2025-05-14 02:26:54 +0000",
       "bow": "2025-05-11 01:06:36 +0000",
       "iron_axe": "2025-05-11 01:16:18 +0000",
+      "iron_boots": "2025-05-14 02:27:04 +0000",
       "iron_sword": "2025-05-11 01:17:07 +0000",
       "salmon_bucket": "2025-05-14 02:07:17 +0000",
       "iron_pickaxe": "2025-05-11 00:43:28 +0000",
       "leather_helmet": "2025-05-11 00:52:46 +0000",
       "stone_pickaxe": "2025-05-11 00:43:36 +0000",
+      "iron_helmet": "2025-05-14 02:27:21 +0000",
       "bundle": "2025-05-11 01:13:54 +0000",
       "enchanted_book": "2025-05-11 01:14:01 +0000"
     },
@@ -841,14 +875,19 @@
     "criteria": {
       "diam_oh_wait_no": "2025-05-11 01:02:00 +0000",
       "acquire_hardware": "2025-05-11 00:43:01 +0000",
+      "iron_man": "2025-05-14 02:27:35 +0000",
+      "hot_topic": "2025-05-14 02:22:36 +0000",
+      "fossil_fuel": "2025-05-11 00:41:12 +0000",
+      "gi_geode": "2025-05-11 01:13:45 +0000",
+      "deep_slate_nine": "2025-05-14 02:31:10 +0000",
+      "stone_age": "2025-05-11 00:42:29 +0000",
+      "seeing_red": "2025-05-14 02:19:05 +0000",
       "isnt_it_iron_pick": "2025-05-11 00:43:29 +0000",
       "gold_rush": "2025-05-11 00:56:59 +0000",
       "root": "2025-05-11 00:13:11 +0000",
       "heart_of_darkness": "2025-05-11 01:06:53 +0000",
-      "fossil_fuel": "2025-05-11 00:41:12 +0000",
-      "gi_geode": "2025-05-11 01:13:45 +0000",
-      "getting_an_upgrade": "2025-05-11 00:43:36 +0000",
-      "stone_age": "2025-05-11 00:42:29 +0000"
+      "suit_up": "2025-05-14 02:26:56 +0000",
+      "getting_an_upgrade": "2025-05-11 00:43:36 +0000"
     },
     "done": false
   },
@@ -1061,7 +1100,8 @@
   },
   "blazeandcave:building/rock_collection": {
     "criteria": {
-      "cobblestone": "2025-05-11 00:42:29 +0000"
+      "cobblestone": "2025-05-11 00:42:29 +0000",
+      "cobbled_deepslate": "2025-05-14 02:31:50 +0000"
     },
     "done": false
   },
@@ -1840,9 +1880,11 @@
   },
   "blazeandcave:redstone/engineer": {
     "criteria": {
+      "furnace": "2025-05-14 02:22:35 +0000",
       "string": "2025-05-11 01:13:26 +0000",
       "lever": "2025-05-11 01:03:55 +0000",
-      "tnt": "2025-05-11 00:56:56 +0000"
+      "tnt": "2025-05-11 00:56:56 +0000",
+      "redstone": "2025-05-14 02:19:05 +0000"
     },
     "done": false
   },
@@ -2107,7 +2149,8 @@
   },
   "blazeandcave:bacap/redstone_milestone": {
     "criteria": {
-      "leveraging_synergy": "2025-05-11 01:02:30 +0000"
+      "leveraging_synergy": "2025-05-11 01:02:30 +0000",
+      "root": "2025-05-14 02:19:05 +0000"
     },
     "done": false
   },
@@ -2217,6 +2260,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-14 02:18:02 +0000",
       "minecraft:enderman": "2025-05-11 01:11:44 +0000"
     },
     "done": false
@@ -2241,6 +2285,7 @@
   },
   "blazeandcave:monsters/night_runner": {
     "criteria": {
+      "skeleton": "2025-05-14 02:18:02 +0000",
       "enderman": "2025-05-11 01:11:44 +0000"
     },
     "done": false
@@ -2248,8 +2293,10 @@
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
       "root": "2025-05-11 01:17:07 +0000",
+      "aww_man": "2025-05-14 02:25:08 +0000",
       "monster_hunter": "2025-05-11 01:11:44 +0000",
-      "the_ender_of_ender": "2025-05-11 01:11:44 +0000"
+      "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
+      "spooky_skeleton": "2025-05-14 02:18:03 +0000"
     },
     "done": false
   },
@@ -2507,11 +2554,47 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/aww_man": {
+    "criteria": {
+      "creeper": "2025-05-14 02:25:08 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:biomes/warm_feet": {
     "criteria": {
       "savanna": "2025-05-14 02:07:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
@@ -2519,15 +2602,93 @@
     },
     "done": true
   },
+  "blazeandcave:farming/die_potato": {
+    "criteria": {
+      "baked_potato": "2025-05-14 02:18:12 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/redstone": {
+    "criteria": {
+      "requirement": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/deepslate_conspiracy": {
+    "criteria": {
+      "cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:biomes/theres_a_zombie_on_the_lawn": {
     "criteria": {
       "sunflower_plains": "2025-05-14 02:08:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/spooky_skeleton": {
+    "criteria": {
+      "skeleton": "2025-05-14 02:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-14 02:16:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-05-14 02:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/sunflower": {
     "criteria": {
       "requirement": "2025-05-14 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/seeing_red": {
+    "criteria": {
+      "redstone": "2025-05-14 02:19:05 +0000"
     },
     "done": true
   },
@@ -2543,9 +2704,39 @@
     },
     "done": true
   },
+  "blazeandcave:mining/hot_topic": {
+    "criteria": {
+      "furnace": "2025-05-14 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/poppy": {
     "criteria": {
       "requirement": "2025-05-14 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/raw_iron": {
+    "criteria": {
+      "requirement": "2025-05-14 02:17:58 +0000"
     },
     "done": true
   },
@@ -2556,15 +2747,165 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-14 02:16:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/root": {
+    "criteria": {
+      "redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-14 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/torched": {
+    "criteria": {
+      "torch": "2025-05-14 02:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/red": {
+    "criteria": {
+      "requirement": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-14 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/deep_slate_nine": {
+    "criteria": {
+      "deepslate_level": "2025-05-14 02:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-14 02:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/stairs_no": {
+    "criteria": {
+      "stairs": "2025-05-14 02:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:animal/aquarium": {
     "criteria": {
       "salmon_bucket": "2025-05-14 02:07:18 +0000"
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2025-05-14 02:07:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-05-14 02:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-14 02:19:05 +0000"
     },
     "done": true
   },
@@ -2574,11 +2915,41 @@
     },
     "done": true
   },
+  "2re:recipes/furnace": {
+    "criteria": {
+      "requirement": "2025-05-14 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/spring_in_your_step": {
     "criteria": {
       "trigger": "2025-05-14 02:06:28 +0000"
     },
     "done": true
+  },
+  "blazeandcave:mining/iron_man": {
+    "criteria": {
+      "iron_armor": "2025-05-14 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/death_from_all": {
+    "criteria": {
+      "creeper": "2025-05-14 02:25:08 +0000"
+    },
+    "done": false
   },
   "2re:recipes/dirt": {
     "criteria": {
@@ -2586,9 +2957,27 @@
     },
     "done": true
   },
+  "blazeandcave:building/ah_my_old_enemy": {
+    "criteria": {
+      "mossy_cobblestone_stairs": "2025-05-14 02:12:48 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:biomes/for_you_my_sweet": {
     "criteria": {
       "sunflower": "2025-05-14 02:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-14 02:16:18 +0000"
     },
     "done": true
   },

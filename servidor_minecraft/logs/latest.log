@@ -519,3 +519,77 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3221ms or 64 ticks behind
 [02:15:14] [Server thread/WARN]: BillyVR15 moved too quickly! -2.3347515191222215,0.0,-9.839568937751324
 [02:15:14] [Server thread/WARN]: DRAGONYMUSYT moved too quickly! 9.995771973963826,0.14510670065163822,-0.8136366607046739
+[02:15:19] [Server thread/WARN]: BillyVR15 moved too quickly! 8.499693442250589,1.252203340253729,-5.7219187834090235
+[02:15:19] [Server thread/WARN]: DRAGONYMUSYT moved too quickly! 9.190526719517322,1.0,3.876197099308996
+[02:15:35] [Server thread/WARN]: BillyVR15 moved too quickly! 6.838792343006958,-1.6178166166454062,-7.18328093275818
+[02:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22199ms or 443 ticks behind
+[02:15:58] [Server thread/WARN]: DRAGONYMUSYT moved too quickly! -6.61029940134739,-4.109552546740034,6.30805541577768
+[02:16:04] [Server thread/WARN]: DRAGONYMUSYT moved too quickly! 5.584039343575455,-8.40739540236494,-0.5467206320559654
+[02:16:09] [Server thread/WARN]: DRAGONYMUSYT moved too quickly! 9.165300543334752,-4.231523797587016,-0.8717019989749488
+[02:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14242ms or 284 ticks behind
+[02:17:10] [Server thread/INFO]: DRAGONYMUSYT was slain by Zombie
+[02:17:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:17:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:17:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:17:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:17:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:17:52] [Server thread/INFO]: DRAGONYMUSYT was shot by Skeleton
+[02:17:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:18:23] [Server thread/INFO]: DRAGONYMUSYT was shot by Skeleton
+[02:19:14] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:19:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:19:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:19:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:20:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:20:09] [Server thread/INFO]: DRAGONYMUSYT fell from a high place
+[02:20:25] [Server thread/INFO]: [Not Secure] <Svonccy> ta q juega tu hermanito o tu?
+[02:20:55] [Server thread/INFO]: DRAGONYMUSYT was shot by Skeleton
+[02:21:21] [Server thread/INFO]: DRAGONYMUSYT was shot by Skeleton
+[02:21:23] [Server thread/INFO]: Oicapse[/127.13.175.93:37017] logged in with entity id 20254 at (4.5, 78.0, 10.5)
+[02:21:23] [Server thread/INFO]: Loading config from file...
+[02:21:23] [Server thread/INFO]: Oicapse joined the game
+[02:21:24] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[02:21:24] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[02:21:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[02:21:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[02:21:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[02:21:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:21:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:21:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:22:01] [Server thread/INFO]: [Oicapse: Triggered [register] (set value to 29092004)]
+[02:22:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:22:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:22:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:22:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:22:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:22:16] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[02:22:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:22:39] [Server thread/INFO]: DRAGONYMUSYT lost connection: Disconnected
+[02:22:39] [Server thread/INFO]: DRAGONYMUSYT left the game
+[02:22:39] [Server thread/INFO]: [voicechat] Disconnecting client DRAGONYMUSYT
+[02:24:19] [Server thread/INFO]: [Not Secure] <Oicapse> como activo los fps y el ping?
+[02:24:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:24:28] [Server thread/INFO]: [Not Secure] <BillyVR15> k
+[02:24:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:24:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:24:47] [Server thread/INFO]: [Not Secure] <Oicapse> no es mi lapto la que no tiene tarjeta grafica corazon uwu
+[02:24:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:25:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:25:08] [Server thread/INFO]: BillyVR15 was blown up by Creeper
+[02:25:16] [Server thread/INFO]: [Not Secure] <Oicapse> q bueno al chile
+[02:25:37] [Server thread/INFO]: [Not Secure] <Svonccy> UwU
+[02:25:39] [Server thread/INFO]: [Not Secure] <Svonccy> ola
+[02:25:42] [Server thread/INFO]: [Not Secure] <Svonccy> configuración
+[02:25:50] [Server thread/INFO]: [Not Secure] <Svonccy> graficos
+[02:25:52] [Server thread/INFO]: [Not Secure] <Svonccy> extras
+[02:25:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:25:54] [Server thread/INFO]: [Not Secure] <Svonccy> marcas fps
+[02:25:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:26:42] [Server thread/INFO]: [Not Secure] <Oicapse> thanks
+[02:27:45] [Server thread/INFO]: [Not Secure] <Svonccy> son hacks
+[02:28:42] [Server thread/INFO]: [Svonccy: Teleported Svonccy to Oicapse]
+[02:30:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:31:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:31:15] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:34:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:35:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'

@@ -1,0 +1,836 @@
+{
+  "blazeandcave:animal/which_came_first": {
+    "criteria": {
+      "egg": "2025-05-14 02:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-14 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_farm": {
+    "criteria": {
+      "wooden_hoe": "2025-05-14 02:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch2_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "time_to_farm": "2025-05-14 02:28:02 +0000",
+      "time_to_strike": "2025-05-14 02:29:24 +0000",
+      "benchmarking": "2025-05-14 02:27:40 +0000",
+      "bacap_root": "2025-05-14 02:21:25 +0000",
+      "for_you_my_sweet": "2025-05-14 02:28:07 +0000",
+      "bake_bread": "2025-05-14 02:30:37 +0000",
+      "barking_mad": "2025-05-14 02:23:24 +0000",
+      "monsters_root": "2025-05-14 02:29:24 +0000",
+      "direct_fishing": "2025-05-14 02:30:56 +0000",
+      "the_first_night": "2025-05-14 02:23:16 +0000",
+      "statistics_root": "2025-05-14 02:23:17 +0000",
+      "time_to_mine": "2025-05-14 02:28:51 +0000",
+      "adventure_root": "2025-05-14 02:30:56 +0000",
+      "mining_root": "2025-05-14 02:28:51 +0000",
+      "getting_wood": "2025-05-14 02:23:24 +0000",
+      "building_root": "2025-05-14 02:27:40 +0000",
+      "biomes_root": "2025-05-14 02:30:56 +0000",
+      "farming_root": "2025-05-14 02:28:02 +0000",
+      "just_keep_swimming": "2025-05-14 02:27:22 +0000",
+      "a_seedy_place": "2025-05-14 02:27:27 +0000",
+      "which_came_first": "2025-05-14 02:23:40 +0000",
+      "weaponry_root": "2025-05-14 02:29:24 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/farming_milestone": {
+    "criteria": {
+      "bake_bread": "2025-05-14 02:30:37 +0000",
+      "root": "2025-05-14 02:28:02 +0000",
+      "a_seedy_place": "2025-05-14 02:27:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-14 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch6_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/bake_bread": {
+    "criteria": {
+      "bread": "2025-05-14 02:30:37 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/root": {
+    "criteria": {
+      "hoe": "2025-05-14 02:28:02 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/wooden_hoe": {
+    "criteria": {
+      "requirement": "2025-05-14 02:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-14 02:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/multiclassed": {
+    "criteria": {
+      "sword": "2025-05-14 02:30:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/oak_logs": {
+    "criteria": {
+      "requirement": "2025-05-14 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-14 02:28:06 +0000"
+    },
+    "done": true
+  },
+  "jodek:utility": {
+    "criteria": {
+      "tick": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/root": {
+    "criteria": {
+      "crafting_table": "2025-05-14 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/biomes_milestone": {
+    "criteria": {
+      "just_keep_swimming": "2025-05-14 02:27:22 +0000",
+      "for_you_my_sweet": "2025-05-14 02:28:07 +0000",
+      "root": "2025-05-14 02:30:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/oak_wood": {
+    "criteria": {
+      "requirement": "2025-05-14 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-14 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-14 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "forest": "2025-05-14 02:22:16 +0000",
+      "river": "2025-05-14 02:30:53 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/the_first_night": {
+    "criteria": {
+      "trigger": "2025-05-14 02:23:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/weaponry_milestone": {
+    "criteria": {
+      "root": "2025-05-14 02:29:24 +0000"
+    },
+    "done": false
+  },
+  "2mal3:2re/installed": {
+    "criteria": {
+      "trigger": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/logs": {
+    "criteria": {
+      "requirement": "2025-05-14 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch1_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/yay_i_got_my_wood": {
+    "criteria": {
+      "oak_log": "2025-05-14 02:23:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2025-05-14 02:21:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/root": {
+    "criteria": {
+      "the_first_night": "2025-05-14 02:23:16 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/wooden_sword": {
+    "criteria": {
+      "requirement": "2025-05-14 02:29:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/come_to_the_countryside": {
+    "criteria": {
+      "wheat": "2025-05-14 02:27:26 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/root": {
+    "criteria": {
+      "killed_something": "2025-05-14 02:30:56 +0000"
+    },
+    "done": true
+  },
+  "tpa:first_join": {
+    "criteria": {
+      "tick": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-14 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch5_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-14 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-14 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-14 02:31:11 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/planks": {
+    "criteria": {
+      "requirement": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-14 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_strike": {
+    "criteria": {
+      "wooden_sword": "2025-05-14 02:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-14 02:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-14 02:30:56 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch9_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "auth:tick": {
+    "criteria": {
+      "requirements": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/poppy": {
+    "criteria": {
+      "requirement": "2025-05-14 02:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-14 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-14 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/adventure_milestone": {
+    "criteria": {
+      "root": "2025-05-14 02:30:56 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "jodek:armor_stand_arms": {
+    "criteria": {
+      "tick": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/a_much_more_doable_challenge": {
+    "criteria": {
+      "blindness": "2025-05-14 02:22:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-14 02:21:24 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/animal_milestone": {
+    "criteria": {
+      "direct_fishing": "2025-05-14 02:30:56 +0000",
+      "which_came_first": "2025-05-14 02:23:40 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-05-14 02:23:40 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/flower_power": {
+    "criteria": {
+      "poppy": "2025-05-14 02:28:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-14 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-05-14 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-14 02:23:40 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/bone_meal": {
+    "criteria": {
+      "requirement": "2025-05-14 02:31:27 +0000"
+    },
+    "done": true
+  },
+  "bannerbedsheets:root": {
+    "criteria": {
+      "requirement": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/statistics_milestone": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000",
+      "the_first_night": "2025-05-14 02:23:16 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:weaponry/root": {
+    "criteria": {
+      "sword": "2025-05-14 02:29:24 +0000"
+    },
+    "done": true
+  },
+  "gurkis:bannerbedsheets": {
+    "criteria": {
+      "requirement": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/stack_all_the_items": {
+    "criteria": {
+      "wooden_hoe": "2025-05-14 02:28:02 +0000",
+      "wooden_pickaxe": "2025-05-14 02:28:51 +0000",
+      "wooden_sword": "2025-05-14 02:29:24 +0000"
+    },
+    "done": false
+  },
+  "knize1007:root": {
+    "criteria": {
+      "tick": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/bacap_branch_end": {
+    "criteria": {
+      "crafting_table": "2025-05-14 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch4_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-14 02:31:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/barking_mad": {
+    "criteria": {
+      "oak_wood": "2025-05-14 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/one_with_the_forest": {
+    "criteria": {
+      "forest": "2025-05-14 02:22:16 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/stat_branch8_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_blocks": {
+    "criteria": {
+      "oak_log": "2025-05-14 02:23:24 +0000",
+      "oak_wood": "2025-05-14 02:23:24 +0000",
+      "poppy": "2025-05-14 02:28:06 +0000",
+      "crafting_table": "2025-05-14 02:27:40 +0000",
+      "oak_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_mine": {
+    "criteria": {
+      "wooden_pickaxe": "2025-05-14 02:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-14 02:21:24 +0000"
+    },
+    "done": false
+  },
+  "knize1007:hostilemobs": {
+    "criteria": {
+      "tick": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-14 02:31:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/mining_milestone": {
+    "criteria": {
+      "root": "2025-05-14 02:28:51 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/stat_branch3_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/root": {
+    "criteria": {
+      "pickaxe": "2025-05-14 02:28:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-14 02:21:24 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/just_keep_swimming": {
+    "criteria": {
+      "enter_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-14 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "wooden_hoe": "2025-05-14 02:28:02 +0000",
+      "wheat_seeds": "2025-05-14 02:27:20 +0000",
+      "bread": "2025-05-14 02:30:37 +0000",
+      "egg": "2025-05-14 02:23:40 +0000",
+      "wooden_pickaxe": "2025-05-14 02:28:51 +0000",
+      "bone_meal": "2025-05-14 02:31:27 +0000",
+      "salmon": "2025-05-14 02:31:11 +0000",
+      "wooden_sword": "2025-05-14 02:29:24 +0000",
+      "stick": "2025-05-14 02:27:53 +0000",
+      "wheat": "2025-05-14 02:27:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/monsters_milestone": {
+    "criteria": {
+      "root": "2025-05-14 02:29:24 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:technical/fail_dragon_vs": {
+    "criteria": {
+      "enter_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/building_milestone": {
+    "criteria": {
+      "root": "2025-05-14 02:27:40 +0000",
+      "barking_mad": "2025-05-14 02:23:24 +0000"
+    },
+    "done": false
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/stat_branch7_mid": {
+    "criteria": {
+      "root": "2025-05-14 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/direct_fishing": {
+    "criteria": {
+      "salmon": "2025-05-14 02:30:56 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/wooden_pickaxe": {
+    "criteria": {
+      "requirement": "2025-05-14 02:28:51 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/root": {
+    "criteria": {
+      "sword": "2025-05-14 02:29:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-14 02:21:24 +0000"
+    },
+    "done": false
+  },
+  "gurkis:root": {
+    "criteria": {
+      "requirement": "2025-05-14 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/getting_wood": {
+    "criteria": {
+      "oak_log": "2025-05-14 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/wet_feet": {
+    "criteria": {
+      "river": "2025-05-14 02:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-05-14 02:22:16 +0000",
+      "river": "2025-05-14 02:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-14 02:27:26 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/professor_oak": {
+    "criteria": {
+      "oak_log": "2025-05-14 02:23:24 +0000",
+      "oak_wood": "2025-05-14 02:23:24 +0000",
+      "oak_planks": "2025-05-14 02:27:33 +0000"
+    },
+    "done": false
+  },
+  "2re:recipes/stick": {
+    "criteria": {
+      "requirement": "2025-05-14 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-14 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-14 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/for_you_my_sweet": {
+    "criteria": {
+      "poppy": "2025-05-14 02:28:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

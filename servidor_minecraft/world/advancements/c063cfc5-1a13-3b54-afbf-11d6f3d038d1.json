@@ -104,51 +104,55 @@
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
       "eeuuwww": "2025-05-11 04:48:40 +0000",
-      "shriek_forever_after": "2025-05-11 04:45:32 +0000",
-      "acquire_hardware": "2025-05-12 00:34:29 +0000",
       "benchmarking": "2025-05-10 23:49:26 +0000",
       "bacap_root": "2025-05-10 23:45:28 +0000",
-      "iron_belly": "2025-05-12 00:42:32 +0000",
-      "barking_mad": "2025-05-11 00:57:04 +0000",
-      "hot_topic": "2025-05-12 00:33:52 +0000",
-      "fossil_fuel": "2025-05-14 02:00:31 +0000",
-      "the_first_night": "2025-05-11 01:08:54 +0000",
-      "sir_knight": "2025-05-14 02:02:34 +0000",
       "deep_slate_nine": "2025-05-11 04:45:32 +0000",
       "mining_root": "2025-05-10 23:49:41 +0000",
-      "building_root": "2025-05-10 23:49:26 +0000",
-      "milk_does_your_body_good": "2025-05-12 00:42:56 +0000",
-      "sweet_dreams": "2025-05-12 00:39:09 +0000",
-      "heart_of_darkness": "2025-05-11 01:02:43 +0000",
-      "a_seedy_place": "2025-05-12 00:46:35 +0000",
       "which_came_first": "2025-05-11 00:57:22 +0000",
       "tarzan": "2025-05-11 04:52:00 +0000",
-      "the_sea_calls_you": "2025-05-12 00:41:44 +0000",
       "under_pressure": "2025-05-14 02:03:23 +0000",
       "time_to_chop": "2025-05-11 04:43:11 +0000",
       "not_today_thank_you": "2025-05-14 02:03:24 +0000",
       "spooky_skeleton": "2025-05-14 02:03:13 +0000",
       "viking": "2025-05-11 04:48:29 +0000",
       "the_statue_of_liberty": "2025-05-11 04:47:52 +0000",
-      "animal_root": "2025-05-11 04:44:02 +0000",
-      "for_you_my_sweet": "2025-05-14 02:10:16 +0000",
       "bake_bread": "2025-05-12 00:48:10 +0000",
-      "pushed_around": "2025-05-11 04:45:22 +0000",
-      "shield_luck": "2025-05-14 02:03:24 +0000",
-      "monster_hunter": "2025-05-11 04:48:29 +0000",
       "ew_ew_ew": "2025-05-11 04:48:29 +0000",
-      "statistics_root": "2025-05-11 01:08:55 +0000",
-      "time_to_mine": "2025-05-10 23:49:41 +0000",
       "adventure_root": "2025-05-11 01:01:42 +0000",
       "stone_age": "2025-05-10 23:50:00 +0000",
       "getting_wood": "2025-05-10 23:46:27 +0000",
       "isnt_it_iron_pick": "2025-05-12 00:35:07 +0000",
-      "biomes_root": "2025-05-11 01:01:42 +0000",
       "just_keep_swimming": "2025-05-10 23:46:58 +0000",
+      "spring_in_your_step": "2025-05-14 02:13:38 +0000",
+      "getting_an_upgrade": "2025-05-12 00:30:03 +0000",
+      "shriek_forever_after": "2025-05-11 04:45:32 +0000",
+      "acquire_hardware": "2025-05-12 00:34:29 +0000",
+      "iron_belly": "2025-05-12 00:42:32 +0000",
+      "barking_mad": "2025-05-11 00:57:04 +0000",
+      "hot_topic": "2025-05-12 00:33:52 +0000",
+      "fossil_fuel": "2025-05-14 02:00:31 +0000",
+      "the_first_night": "2025-05-11 01:08:54 +0000",
+      "sir_knight": "2025-05-14 02:02:34 +0000",
+      "building_root": "2025-05-10 23:49:26 +0000",
+      "milk_does_your_body_good": "2025-05-12 00:42:56 +0000",
+      "sweet_dreams": "2025-05-12 00:39:09 +0000",
+      "heart_of_darkness": "2025-05-11 01:02:43 +0000",
+      "a_seedy_place": "2025-05-12 00:46:35 +0000",
+      "the_sea_calls_you": "2025-05-12 00:41:44 +0000",
+      "a_good_start": "2025-05-14 02:17:07 +0000",
+      "animal_root": "2025-05-11 04:44:02 +0000",
+      "for_you_my_sweet": "2025-05-14 02:10:16 +0000",
+      "high_steaks": "2025-05-14 02:19:37 +0000",
+      "pushed_around": "2025-05-11 04:45:22 +0000",
+      "shield_luck": "2025-05-14 02:03:24 +0000",
+      "monster_hunter": "2025-05-11 04:48:29 +0000",
+      "statistics_root": "2025-05-11 01:08:55 +0000",
+      "time_to_mine": "2025-05-10 23:49:41 +0000",
+      "biomes_root": "2025-05-11 01:01:42 +0000",
       "your_door_was_locked": "2025-05-11 04:47:52 +0000",
       "ahoy": "2025-05-12 00:41:43 +0000",
       "bapple": "2025-05-11 04:44:02 +0000",
-      "getting_an_upgrade": "2025-05-12 00:30:03 +0000"
+      "have_a_shearful_day": "2025-05-14 02:18:32 +0000"
     },
     "done": false
   },
@@ -196,6 +200,7 @@
       "old_growth_birch_forest": "2025-05-12 00:40:33 +0000",
       "forest": "2025-05-10 23:45:57 +0000",
       "ocean": "2025-05-12 00:41:43 +0000",
+      "plains": "2025-05-14 02:21:29 +0000",
       "beach": "2025-05-12 00:41:35 +0000",
       "river": "2025-05-10 23:46:57 +0000"
     },
@@ -204,7 +209,8 @@
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
       "old_growth_birch_forest": "2025-05-12 00:40:33 +0000",
-      "forest": "2025-05-10 23:45:57 +0000"
+      "forest": "2025-05-10 23:45:57 +0000",
+      "plains": "2025-05-14 02:21:29 +0000"
     },
     "done": false
   },
@@ -212,6 +218,7 @@
     "criteria": {
       "forest": "2025-05-10 23:45:57 +0000",
       "ocean": "2025-05-12 00:41:43 +0000",
+      "plains": "2025-05-14 02:21:29 +0000",
       "beach": "2025-05-12 00:41:35 +0000",
       "birch_forest": "2025-05-12 00:40:33 +0000",
       "river": "2025-05-10 23:46:57 +0000"
@@ -232,53 +239,60 @@
   },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
-      "birch_planks": "2025-05-12 00:31:25 +0000",
-      "cobweb": "2025-05-11 04:48:40 +0000",
+      "spruce_sapling": "2025-05-14 02:14:13 +0000",
       "furnace": "2025-05-12 00:33:52 +0000",
       "poppy": "2025-05-14 02:10:16 +0000",
-      "crafting_table": "2025-05-10 23:49:26 +0000",
       "oak_sapling": "2025-05-10 23:46:15 +0000",
+      "oxidized_copper": "2025-05-11 04:47:51 +0000",
+      "hay_block": "2025-05-11 04:51:31 +0000",
+      "cobblestone": "2025-05-10 23:50:00 +0000",
+      "oxidized_copper_door": "2025-05-11 04:47:51 +0000",
+      "andesite": "2025-05-14 02:08:47 +0000",
+      "spruce_log": "2025-05-14 02:14:12 +0000",
+      "birch_log": "2025-05-11 04:43:19 +0000",
+      "white_wool": "2025-05-14 02:18:32 +0000",
+      "birch_planks": "2025-05-12 00:31:25 +0000",
+      "cobweb": "2025-05-11 04:48:40 +0000",
+      "crafting_table": "2025-05-10 23:49:26 +0000",
       "oak_planks": "2025-05-10 23:49:32 +0000",
       "dirt": "2025-05-10 23:49:45 +0000",
-      "oxidized_copper": "2025-05-11 04:47:51 +0000",
       "torch": "2025-05-11 04:45:31 +0000",
-      "hay_block": "2025-05-11 04:51:31 +0000",
+      "light_gray_wool": "2025-05-14 02:18:55 +0000",
       "gravel": "2025-05-10 23:49:52 +0000",
       "oak_log": "2025-05-10 23:46:27 +0000",
       "oak_wood": "2025-05-11 00:57:04 +0000",
-      "cobblestone": "2025-05-10 23:50:00 +0000",
-      "oxidized_copper_door": "2025-05-11 04:47:51 +0000",
       "cornflower": "2025-05-14 02:10:16 +0000",
       "birch_sapling": "2025-05-11 04:43:31 +0000",
-      "andesite": "2025-05-14 02:08:47 +0000",
-      "birch_log": "2025-05-11 04:43:19 +0000"
+      "oxeye_daisy": "2025-05-14 02:18:47 +0000"
     },
     "done": false
   },
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
       "water_bucket": "2025-05-12 00:35:30 +0000",
-      "wheat_seeds": "2025-05-12 00:46:31 +0000",
       "raw_iron": "2025-05-12 00:31:06 +0000",
       "shield": "2025-05-14 02:02:34 +0000",
-      "bread": "2025-05-12 00:48:09 +0000",
       "egg": "2025-05-11 00:57:21 +0000",
       "string": "2025-05-11 04:48:28 +0000",
-      "rotten_flesh": "2025-05-12 00:42:16 +0000",
       "arrow": "2025-05-14 02:03:13 +0000",
-      "wooden_pickaxe": "2025-05-10 23:49:41 +0000",
       "milk_bucket": "2025-05-12 00:42:42 +0000",
+      "cooked_beef": "2025-05-14 02:19:30 +0000",
       "beef": "2025-05-14 02:09:55 +0000",
-      "bone": "2025-05-14 02:03:13 +0000",
-      "bucket": "2025-05-12 00:42:38 +0000",
       "iron_ingot": "2025-05-12 00:34:29 +0000",
       "apple": "2025-05-10 23:46:15 +0000",
       "spider_eye": "2025-05-11 04:48:39 +0000",
-      "coal": "2025-05-14 02:00:31 +0000",
+      "shears": "2025-05-14 02:18:30 +0000",
       "iron_pickaxe": "2025-05-12 00:35:07 +0000",
       "stick": "2025-05-10 23:49:33 +0000",
       "wheat": "2025-05-12 00:46:31 +0000",
       "stone_pickaxe": "2025-05-12 00:30:03 +0000",
+      "wheat_seeds": "2025-05-12 00:46:31 +0000",
+      "bread": "2025-05-12 00:48:09 +0000",
+      "rotten_flesh": "2025-05-12 00:42:16 +0000",
+      "wooden_pickaxe": "2025-05-10 23:49:41 +0000",
+      "bone": "2025-05-14 02:03:13 +0000",
+      "bucket": "2025-05-12 00:42:38 +0000",
+      "coal": "2025-05-14 02:00:31 +0000",
       "nautilus_shell": "2025-05-12 00:41:42 +0000",
       "stone_axe": "2025-05-11 04:43:10 +0000"
     },
@@ -299,6 +313,7 @@
   "blazeandcave:building/yay_i_got_my_wood": {
     "criteria": {
       "oak_log": "2025-05-10 23:46:27 +0000",
+      "spruce_log": "2025-05-14 02:14:12 +0000",
       "birch_log": "2025-05-11 04:43:19 +0000"
     },
     "done": false
@@ -453,6 +468,7 @@
   },
   "blazeandcave:bacap/building_milestone": {
     "criteria": {
+      "a_good_start": "2025-05-14 02:17:07 +0000",
       "sweet_dreams": "2025-05-12 00:39:09 +0000",
       "root": "2025-05-10 23:49:26 +0000",
       "barking_mad": "2025-05-11 00:57:04 +0000",
@@ -590,6 +606,7 @@
     "criteria": {
       "water_bucket": "2025-05-12 00:35:30 +0000",
       "shield": "2025-05-14 02:02:34 +0000",
+      "shears": "2025-05-14 02:18:30 +0000",
       "wooden_pickaxe": "2025-05-10 23:49:41 +0000",
       "milk_bucket": "2025-05-12 00:42:42 +0000",
       "iron_pickaxe": "2025-05-12 00:35:07 +0000",
@@ -891,7 +908,9 @@
     "criteria": {
       "milk_does_your_body_good": "2025-05-12 00:42:56 +0000",
       "root": "2025-05-11 04:44:02 +0000",
-      "which_came_first": "2025-05-11 00:57:22 +0000"
+      "high_steaks": "2025-05-14 02:19:37 +0000",
+      "which_came_first": "2025-05-11 00:57:22 +0000",
+      "have_a_shearful_day": "2025-05-14 02:18:32 +0000"
     },
     "done": false
   },
@@ -940,6 +959,7 @@
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
       "root": "2025-05-11 01:08:55 +0000",
+      "spring_in_your_step": "2025-05-14 02:13:38 +0000",
       "the_first_night": "2025-05-11 01:08:54 +0000"
     },
     "done": false
@@ -1060,7 +1080,8 @@
       "apple": "2025-05-11 04:44:01 +0000",
       "spider_eye": "2025-05-11 04:50:11 +0000",
       "bread": "2025-05-12 00:48:12 +0000",
-      "rotten_flesh": "2025-05-12 00:42:31 +0000"
+      "rotten_flesh": "2025-05-12 00:42:31 +0000",
+      "cooked_beef": "2025-05-14 02:19:36 +0000"
     },
     "done": false
   },
@@ -1219,6 +1240,7 @@
   },
   "blazeandcave:redstone/engineer": {
     "criteria": {
+      "white_wool": "2025-05-14 02:18:32 +0000",
       "furnace": "2025-05-12 00:33:52 +0000",
       "string": "2025-05-11 04:48:28 +0000"
     },
@@ -1324,7 +1346,8 @@
   "blazeandcave:farming/meat_lovers": {
     "criteria": {
       "spider_eye": "2025-05-11 04:50:11 +0000",
-      "rotten_flesh": "2025-05-12 00:42:31 +0000"
+      "rotten_flesh": "2025-05-12 00:42:31 +0000",
+      "cooked_beef": "2025-05-14 02:19:36 +0000"
     },
     "done": false
   },
@@ -1444,7 +1467,8 @@
   },
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
-      "birch_planks": "2025-05-12 00:31:25 +0000"
+      "birch_planks": "2025-05-12 00:31:25 +0000",
+      "spruce_log": "2025-05-14 02:17:06 +0000"
     },
     "done": false
   },
@@ -1772,9 +1796,27 @@
     },
     "done": false
   },
+  "2re:recipes/wool": {
+    "criteria": {
+      "requirement": "2025-05-14 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/high_steaks": {
+    "criteria": {
+      "cooked_beef": "2025-05-14 02:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_skeleton": "2025-05-14 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/oxeye_daisy": {
+    "criteria": {
+      "requirement": "2025-05-14 02:18:47 +0000"
     },
     "done": true
   },
@@ -1784,11 +1826,24 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-14 02:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-14 02:10:16 +0000"
     },
     "done": true
+  },
+  "blazeandcave:animal/rainbow_collection": {
+    "criteria": {
+      "white_wool": "2025-05-14 02:18:32 +0000",
+      "light_gray_wool": "2025-05-14 02:18:55 +0000"
+    },
+    "done": false
   },
   "blazeandcave:redstone/under_pressure": {
     "criteria": {
@@ -1802,15 +1857,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-14 02:18:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-14 02:09:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-14 02:18:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/a_good_start": {
+    "criteria": {
+      "spruce_log": "2025-05-14 02:17:06 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/spruce_logs": {
+    "criteria": {
+      "requirement": "2025-05-14 02:14:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-05-14 02:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_the_recipe": "2025-05-14 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-05-14 02:18:32 +0000"
     },
     "done": true
   },
@@ -1844,6 +1935,18 @@
     },
     "done": true
   },
+  "blazeandcave:animal/have_a_shearful_day": {
+    "criteria": {
+      "shears": "2025-05-14 02:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-14 02:18:55 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/black": {
     "criteria": {
       "requirement": "2025-05-14 02:00:31 +0000"
@@ -1856,10 +1959,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-14 02:18:32 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:biomes/flower_power": {
     "criteria": {
       "poppy": "2025-05-14 02:10:16 +0000",
-      "cornflower": "2025-05-14 02:10:16 +0000"
+      "cornflower": "2025-05-14 02:10:16 +0000",
+      "oxeye_daisy": "2025-05-14 02:18:47 +0000"
     },
     "done": false
   },
@@ -1887,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-14 02:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
@@ -1899,9 +2015,21 @@
     },
     "done": true
   },
+  "blazeandcave:building/spruce_lee": {
+    "criteria": {
+      "spruce_log": "2025-05-14 02:14:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-14 02:14:12 +0000"
     },
     "done": true
   },
@@ -1911,9 +2039,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-05-14 02:18:32 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/andesite": {
     "criteria": {
       "requirement": "2025-05-14 02:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-14 02:18:32 +0000"
     },
     "done": true
   },
@@ -1929,6 +2069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-14 02:18:47 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:weaponry/sir_knight": {
     "criteria": {
       "shield": "2025-05-14 02:02:34 +0000"
@@ -1938,6 +2084,24 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-14 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/master_logger": {
+    "criteria": {
+      "spruce_log": "2025-05-14 02:17:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-14 02:18:32 +0000"
     },
     "done": true
   },
@@ -1953,6 +2117,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-14 02:18:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/spring_in_your_step": {
+    "criteria": {
+      "trigger": "2025-05-14 02:13:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
@@ -1962,6 +2138,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-14 02:18:47 +0000"
     },
     "done": true
   },
