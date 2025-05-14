@@ -104,6 +104,7 @@
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
       "eeuuwww": "2025-05-11 04:48:40 +0000",
+      "diamonds": "2025-05-14 03:06:59 +0000",
       "benchmarking": "2025-05-10 23:49:26 +0000",
       "bacap_root": "2025-05-10 23:45:28 +0000",
       "deep_slate_nine": "2025-05-11 04:45:32 +0000",
@@ -119,6 +120,7 @@
       "cowboy": "2025-05-14 02:49:01 +0000",
       "the_statue_of_liberty": "2025-05-11 04:47:52 +0000",
       "bake_bread": "2025-05-12 00:48:10 +0000",
+      "torched": "2025-05-14 03:05:20 +0000",
       "ew_ew_ew": "2025-05-11 04:48:29 +0000",
       "adventure_root": "2025-05-11 01:01:42 +0000",
       "stone_age": "2025-05-10 23:50:00 +0000",
@@ -128,6 +130,7 @@
       "spring_in_your_step": "2025-05-14 02:13:38 +0000",
       "getting_an_upgrade": "2025-05-12 00:30:03 +0000",
       "time_to_farm": "2025-05-14 02:43:28 +0000",
+      "lucky_break": "2025-05-14 02:54:47 +0000",
       "dead_dont_die": "2025-05-14 02:40:11 +0000",
       "shriek_forever_after": "2025-05-11 04:45:32 +0000",
       "acquire_hardware": "2025-05-12 00:34:29 +0000",
@@ -143,11 +146,13 @@
       "heart_of_darkness": "2025-05-11 01:02:43 +0000",
       "a_seedy_place": "2025-05-12 00:46:35 +0000",
       "the_sea_calls_you": "2025-05-12 00:41:44 +0000",
+      "diam_oh_wait_no": "2025-05-14 03:02:34 +0000",
       "a_good_start": "2025-05-14 02:17:07 +0000",
       "animal_root": "2025-05-11 04:44:02 +0000",
       "for_you_my_sweet": "2025-05-14 02:10:16 +0000",
       "high_steaks": "2025-05-14 02:19:37 +0000",
       "pushed_around": "2025-05-11 04:45:22 +0000",
+      "boaty_mcboatface": "2025-05-14 02:53:13 +0000",
       "shield_luck": "2025-05-14 02:03:24 +0000",
       "monster_hunter": "2025-05-11 04:48:29 +0000",
       "statistics_root": "2025-05-11 01:08:55 +0000",
@@ -203,6 +208,7 @@
     "criteria": {
       "old_growth_birch_forest": "2025-05-12 00:40:33 +0000",
       "forest": "2025-05-10 23:45:57 +0000",
+      "lukewarm_ocean": "2025-05-14 02:53:25 +0000",
       "ocean": "2025-05-12 00:41:43 +0000",
       "plains": "2025-05-14 02:21:29 +0000",
       "beach": "2025-05-12 00:41:35 +0000",
@@ -221,6 +227,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-05-10 23:45:57 +0000",
+      "lukewarm_ocean": "2025-05-14 02:53:25 +0000",
       "ocean": "2025-05-12 00:41:43 +0000",
       "plains": "2025-05-14 02:21:29 +0000",
       "beach": "2025-05-12 00:41:35 +0000",
@@ -252,6 +259,7 @@
       "white_bed": "2025-05-14 02:39:31 +0000",
       "cobblestone": "2025-05-10 23:50:00 +0000",
       "oxidized_copper_door": "2025-05-11 04:47:51 +0000",
+      "spruce_planks": "2025-05-14 02:52:56 +0000",
       "andesite": "2025-05-14 02:08:47 +0000",
       "spruce_log": "2025-05-14 02:14:12 +0000",
       "birch_log": "2025-05-11 04:43:19 +0000",
@@ -285,19 +293,25 @@
       "beef": "2025-05-14 02:09:55 +0000",
       "iron_ingot": "2025-05-12 00:34:29 +0000",
       "apple": "2025-05-10 23:46:15 +0000",
+      "spruce_boat": "2025-05-14 02:53:05 +0000",
       "spider_eye": "2025-05-11 04:48:39 +0000",
       "shears": "2025-05-14 02:18:30 +0000",
+      "lapis_lazuli": "2025-05-14 03:02:33 +0000",
       "iron_pickaxe": "2025-05-12 00:35:07 +0000",
       "stick": "2025-05-10 23:49:33 +0000",
       "wheat": "2025-05-12 00:46:31 +0000",
       "stone_pickaxe": "2025-05-12 00:30:03 +0000",
+      "enchanted_book": "2025-05-14 02:54:46 +0000",
       "wooden_hoe": "2025-05-14 02:43:28 +0000",
       "wheat_seeds": "2025-05-12 00:46:31 +0000",
       "bread": "2025-05-12 00:48:09 +0000",
       "rotten_flesh": "2025-05-12 00:42:16 +0000",
       "wooden_pickaxe": "2025-05-10 23:49:41 +0000",
+      "raw_gold": "2025-05-14 03:00:34 +0000",
       "bone": "2025-05-14 02:03:13 +0000",
+      "raw_copper": "2025-05-14 02:55:09 +0000",
       "bucket": "2025-05-12 00:42:38 +0000",
+      "diamond": "2025-05-14 03:06:58 +0000",
       "coal": "2025-05-14 02:00:31 +0000",
       "nautilus_shell": "2025-05-12 00:41:42 +0000",
       "stone_axe": "2025-05-11 04:43:10 +0000"
@@ -359,6 +373,7 @@
   "blazeandcave:biomes/wet_feet": {
     "criteria": {
       "ocean": "2025-05-12 00:41:43 +0000",
+      "lukewarm_ocean": "2025-05-14 02:53:25 +0000",
       "beach": "2025-05-12 00:41:35 +0000",
       "river": "2025-05-10 23:46:57 +0000"
     },
@@ -376,6 +391,7 @@
       "for_you_my_sweet": "2025-05-14 02:10:16 +0000",
       "root": "2025-05-11 01:01:42 +0000",
       "pushed_around": "2025-05-11 04:45:22 +0000",
+      "boaty_mcboatface": "2025-05-14 02:53:13 +0000",
       "tarzan": "2025-05-11 04:52:00 +0000",
       "the_sea_calls_you": "2025-05-12 00:41:44 +0000",
       "ahoy": "2025-05-12 00:41:43 +0000"
@@ -478,6 +494,7 @@
       "sweet_dreams": "2025-05-12 00:39:09 +0000",
       "root": "2025-05-10 23:49:26 +0000",
       "barking_mad": "2025-05-11 00:57:04 +0000",
+      "torched": "2025-05-14 03:05:20 +0000",
       "your_door_was_locked": "2025-05-11 04:47:52 +0000"
     },
     "done": false
@@ -613,13 +630,15 @@
       "water_bucket": "2025-05-12 00:35:30 +0000",
       "wooden_hoe": "2025-05-14 02:43:28 +0000",
       "shield": "2025-05-14 02:02:34 +0000",
+      "spruce_boat": "2025-05-14 02:53:05 +0000",
       "shears": "2025-05-14 02:18:30 +0000",
       "wooden_pickaxe": "2025-05-10 23:49:41 +0000",
       "milk_bucket": "2025-05-12 00:42:42 +0000",
       "iron_pickaxe": "2025-05-12 00:35:07 +0000",
       "wheat": "2025-05-12 00:48:05 +0000",
       "stone_pickaxe": "2025-05-12 00:30:03 +0000",
-      "stone_axe": "2025-05-11 04:43:10 +0000"
+      "stone_axe": "2025-05-11 04:43:10 +0000",
+      "enchanted_book": "2025-05-14 02:54:46 +0000"
     },
     "done": false
   },
@@ -631,18 +650,21 @@
   },
   "blazeandcave:bacap/mining_milestone": {
     "criteria": {
+      "diam_oh_wait_no": "2025-05-14 03:02:34 +0000",
       "eeuuwww": "2025-05-11 04:48:40 +0000",
+      "diamonds": "2025-05-14 03:06:59 +0000",
+      "lucky_break": "2025-05-14 02:54:47 +0000",
       "shriek_forever_after": "2025-05-11 04:45:32 +0000",
       "acquire_hardware": "2025-05-12 00:34:29 +0000",
-      "isnt_it_iron_pick": "2025-05-12 00:35:07 +0000",
       "the_statue_of_liberty": "2025-05-11 04:47:52 +0000",
-      "root": "2025-05-10 23:49:41 +0000",
       "hot_topic": "2025-05-12 00:33:52 +0000",
-      "heart_of_darkness": "2025-05-11 01:02:43 +0000",
       "fossil_fuel": "2025-05-14 02:00:31 +0000",
       "deep_slate_nine": "2025-05-11 04:45:32 +0000",
-      "getting_an_upgrade": "2025-05-12 00:30:03 +0000",
-      "stone_age": "2025-05-10 23:50:00 +0000"
+      "stone_age": "2025-05-10 23:50:00 +0000",
+      "isnt_it_iron_pick": "2025-05-12 00:35:07 +0000",
+      "root": "2025-05-10 23:49:41 +0000",
+      "heart_of_darkness": "2025-05-11 01:02:43 +0000",
+      "getting_an_upgrade": "2025-05-12 00:30:03 +0000"
     },
     "done": false
   },
@@ -942,6 +964,7 @@
   },
   "blazeandcave:challenges/death_from_all": {
     "criteria": {
+      "skeleton": "2025-05-14 03:08:25 +0000",
       "zombie": "2025-05-11 01:01:42 +0000"
     },
     "done": false
@@ -1834,9 +1857,33 @@
     },
     "done": true
   },
+  "2re:recipes/diamond": {
+    "criteria": {
+      "requirement": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_skeleton": "2025-05-14 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-14 03:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
     },
     "done": true
   },
@@ -1846,9 +1893,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-14 03:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
     },
     "done": true
   },
@@ -1864,6 +1929,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
     "criteria": {
       "has_light_gray_wool": "2025-05-14 02:18:55 +0000"
@@ -1876,6 +1953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:animal/rainbow_collection": {
     "criteria": {
       "white_wool": "2025-05-14 02:18:32 +0000",
@@ -1883,9 +1966,51 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:redstone/under_pressure": {
     "criteria": {
       "polished_blackstone_pressure_plate": "2025-05-14 02:03:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/complete_enchanter": {
+    "criteria": {
+      "feather_falling_book": "2025-05-14 02:54:46 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/lucky_break": {
+    "criteria": {
+      "lucky_break": "2025-05-14 02:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
     },
     "done": true
   },
@@ -1901,15 +2026,45 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-14 03:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-14 02:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-14 02:09:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-14 02:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-05-14 02:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
     },
     "done": true
   },
@@ -1922,6 +2077,18 @@
   "2re:recipes/spruce_logs": {
     "criteria": {
       "requirement": "2025-05-14 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-14 03:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
     },
     "done": true
   },
@@ -1949,6 +2116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-05-14 02:10:16 +0000"
@@ -1958,6 +2131,12 @@
   "minecraft:recipes/food/suspicious_stew_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-14 02:10:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
     },
     "done": true
   },
@@ -1985,6 +2164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/black": {
     "criteria": {
       "requirement": "2025-05-14 02:00:31 +0000"
@@ -2000,6 +2185,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-14 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-14 03:06:58 +0000"
     },
     "done": true
   },
@@ -2023,6 +2214,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/torched": {
+    "criteria": {
+      "torch": "2025-05-14 03:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-14 03:02:33 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/cornflower": {
     "criteria": {
       "requirement": "2025-05-14 02:10:16 +0000"
@@ -2035,9 +2244,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-14 02:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
     },
     "done": true
   },
@@ -2055,9 +2276,17 @@
   },
   "blazeandcave:building/spruce_lee": {
     "criteria": {
+      "spruce_boat": "2025-05-14 02:53:05 +0000",
+      "spruce_planks": "2025-05-14 02:52:56 +0000",
       "spruce_log": "2025-05-14 02:14:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
@@ -2101,6 +2330,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
@@ -2119,9 +2360,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:weaponry/sir_knight": {
     "criteria": {
       "shield": "2025-05-14 02:02:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/ultimate_enchanter": {
+    "criteria": {
+      "feather_falling2_book": "2025-05-14 02:54:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/boaty_mcboatface": {
+    "criteria": {
+      "boat": "2025-05-14 02:53:12 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/diam_oh_wait_no": {
+    "criteria": {
+      "coal": "2025-05-14 03:02:33 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/raw_gold": {
+    "criteria": {
+      "requirement": "2025-05-14 03:00:34 +0000"
     },
     "done": true
   },
@@ -2134,6 +2411,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-14 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 02:53:05 +0000"
     },
     "done": true
   },
@@ -2155,6 +2438,12 @@
     },
     "done": true
   },
+  "2re:recipes/blue": {
+    "criteria": {
+      "requirement": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-05-14 02:03:13 +0000"
@@ -2164,6 +2453,30 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-14 03:02:33 +0000"
     },
     "done": true
   },
@@ -2197,6 +2510,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-14 02:52:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-14 03:06:58 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/coal": {
     "criteria": {
       "requirement": "2025-05-14 02:00:31 +0000"
@@ -2208,6 +2533,12 @@
       "gray_white_dots": "2025-05-14 02:49:00 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-14 02:55:09 +0000"
+    },
+    "done": true
   },
   "blazeandcave:biomes/for_you_my_sweet": {
     "criteria": {
