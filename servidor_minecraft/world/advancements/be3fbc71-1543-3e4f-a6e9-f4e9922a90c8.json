@@ -109,10 +109,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-05-14 04:11:19 +0000",
       "log_spam_fixer": "2025-05-14 02:21:24 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
@@ -139,9 +138,12 @@
       "benchmarking": "2025-05-14 02:27:40 +0000",
       "bacap_root": "2025-05-14 02:21:25 +0000",
       "cover_me_with_diamonds": "2025-05-14 03:04:45 +0000",
+      "under_lock_and_key": "2025-05-14 04:14:24 +0000",
+      "meet_the_flintstones": "2025-05-14 04:20:36 +0000",
       "mining_root": "2025-05-14 02:28:51 +0000",
       "time_to_dig": "2025-05-14 03:00:05 +0000",
       "farming_root": "2025-05-14 02:28:02 +0000",
+      "take_aim": "2025-05-14 04:13:32 +0000",
       "aww_man": "2025-05-14 04:07:07 +0000",
       "which_came_first": "2025-05-14 02:23:40 +0000",
       "weaponry_root": "2025-05-14 02:29:24 +0000",
@@ -149,16 +151,21 @@
       "tarzan": "2025-05-14 03:35:12 +0000",
       "not_today_thank_you": "2025-05-14 04:11:12 +0000",
       "spooky_skeleton": "2025-05-14 04:06:17 +0000",
+      "ultra_hardcore": "2025-05-14 04:19:34 +0000",
       "delicious_fish": "2025-05-14 02:42:38 +0000",
       "kelp_me": "2025-05-14 02:49:44 +0000",
       "bake_bread": "2025-05-14 02:30:37 +0000",
       "monsters_root": "2025-05-14 02:29:24 +0000",
       "direct_fishing": "2025-05-14 02:30:56 +0000",
+      "pathways": "2025-05-14 04:22:37 +0000",
       "ew_ew_ew": "2025-05-14 04:06:03 +0000",
+      "bombs_away": "2025-05-14 04:14:31 +0000",
       "adventure_root": "2025-05-14 02:30:56 +0000",
       "stone_age": "2025-05-14 02:33:12 +0000",
+      "aww_it_broke": "2025-05-14 04:26:42 +0000",
       "kilometre_walk": "2025-05-14 03:53:02 +0000",
       "cut_in_half": "2025-05-14 03:03:57 +0000",
+      "stationary_storage": "2025-05-14 04:16:23 +0000",
       "getting_wood": "2025-05-14 02:23:24 +0000",
       "isnt_it_iron_pick": "2025-05-14 03:04:57 +0000",
       "berry_nice": "2025-05-14 04:06:29 +0000",
@@ -167,6 +174,7 @@
       "the_pie": "2025-05-14 03:35:58 +0000",
       "classy_glassy": "2025-05-14 03:11:13 +0000",
       "i_dont_like_sand": "2025-05-14 03:01:16 +0000",
+      "blast_shield": "2025-05-14 04:16:05 +0000",
       "getting_an_upgrade": "2025-05-14 02:34:49 +0000",
       "die_potato": "2025-05-14 04:04:07 +0000",
       "now_youre_thinking_with_portals": "2025-05-14 03:48:23 +0000",
@@ -183,14 +191,18 @@
       "in_a_pickle": "2025-05-14 03:28:55 +0000",
       "the_first_night": "2025-05-14 02:23:16 +0000",
       "sir_knight": "2025-05-14 04:08:14 +0000",
+      "what_a_creep": "2025-05-14 04:23:33 +0000",
       "cow_tipper": "2025-05-14 02:46:17 +0000",
       "my_work_here_is_done": "2025-05-14 03:28:18 +0000",
+      "seeing_red": "2025-05-14 04:13:06 +0000",
+      "redstone_root": "2025-05-14 04:13:06 +0000",
       "building_root": "2025-05-14 02:27:40 +0000",
       "sweet_dreams": "2025-05-14 02:51:30 +0000",
       "heart_of_darkness": "2025-05-14 02:37:20 +0000",
       "just_a_sample": "2025-05-14 03:09:55 +0000",
       "ladder_climbers_inc": "2025-05-14 03:45:13 +0000",
       "a_seedy_place": "2025-05-14 02:27:27 +0000",
+      "keep_your_distance": "2025-05-14 04:23:33 +0000",
       "the_sea_calls_you": "2025-05-14 02:46:38 +0000",
       "diam_oh_wait_no": "2025-05-14 03:16:01 +0000",
       "animal_root": "2025-05-14 02:33:32 +0000",
@@ -202,6 +214,7 @@
       "monster_hunter": "2025-05-14 02:35:20 +0000",
       "statistics_root": "2025-05-14 02:23:17 +0000",
       "time_to_mine": "2025-05-14 02:28:51 +0000",
+      "like_a_cat": "2025-05-14 04:14:31 +0000",
       "creepy_heads": "2025-05-14 04:04:17 +0000",
       "biomes_root": "2025-05-14 02:30:56 +0000",
       "stabcraft": "2025-05-14 03:26:50 +0000",
@@ -212,7 +225,9 @@
   },
   "blazeandcave:potion/a_much_more_doable_challenge": {
     "criteria": {
+      "regeneration": "2025-05-14 04:19:33 +0000",
       "blindness": "2025-05-14 02:22:01 +0000",
+      "absorption": "2025-05-14 04:19:33 +0000",
       "hunger": "2025-05-14 02:35:48 +0000"
     },
     "done": false
@@ -380,29 +395,35 @@
       "furnace": "2025-05-14 02:34:04 +0000",
       "poppy": "2025-05-14 02:28:06 +0000",
       "spruce_sign": "2025-05-14 02:53:43 +0000",
+      "stone_bricks": "2025-05-14 04:16:08 +0000",
       "hay_block": "2025-05-14 03:28:36 +0000",
+      "cracked_stone_bricks": "2025-05-14 04:16:40 +0000",
       "white_bed": "2025-05-14 02:42:52 +0000",
       "stone_slab": "2025-05-14 03:03:57 +0000",
       "chiseled_stone_bricks": "2025-05-14 03:36:55 +0000",
       "dandelion": "2025-05-14 02:55:18 +0000",
       "stone_brick_stairs": "2025-05-14 03:48:48 +0000",
       "cobblestone": "2025-05-14 02:33:12 +0000",
+      "redstone_block": "2025-05-14 04:14:39 +0000",
       "andesite": "2025-05-14 02:33:05 +0000",
       "sea_pickle": "2025-05-14 03:28:55 +0000",
       "coal_block": "2025-05-14 02:53:44 +0000",
       "white_wool": "2025-05-14 03:12:27 +0000",
       "glass": "2025-05-14 03:11:13 +0000",
       "chest": "2025-05-14 03:12:52 +0000",
+      "redstone_torch": "2025-05-14 04:30:46 +0000",
       "cobweb": "2025-05-14 03:37:32 +0000",
       "crafting_table": "2025-05-14 02:27:40 +0000",
       "oak_planks": "2025-05-14 02:27:33 +0000",
       "stone_stairs": "2025-05-14 03:04:11 +0000",
+      "emerald_block": "2025-05-14 04:20:50 +0000",
       "rail": "2025-05-14 03:03:45 +0000",
       "dirt": "2025-05-14 02:32:56 +0000",
       "allium": "2025-05-14 03:28:35 +0000",
       "torch": "2025-05-14 03:36:00 +0000",
       "light_gray_wool": "2025-05-14 03:05:29 +0000",
       "lantern": "2025-05-14 02:53:59 +0000",
+      "gravel": "2025-05-14 04:17:29 +0000",
       "sand": "2025-05-14 03:01:16 +0000",
       "chipped_anvil": "2025-05-14 03:19:13 +0000",
       "gold_block": "2025-05-14 03:08:52 +0000",
@@ -410,6 +431,8 @@
       "oak_wood": "2025-05-14 02:23:24 +0000",
       "raw_iron_block": "2025-05-14 02:54:41 +0000",
       "mossy_stone_brick_stairs": "2025-05-14 03:36:53 +0000",
+      "coarse_dirt": "2025-05-14 04:21:57 +0000",
+      "tnt": "2025-05-14 04:14:30 +0000",
       "polished_andesite": "2025-05-14 03:10:04 +0000"
     },
     "done": false
@@ -417,11 +440,13 @@
   "blazeandcave:bacap/building_milestone": {
     "criteria": {
       "cut_in_half": "2025-05-14 03:03:57 +0000",
+      "stationary_storage": "2025-05-14 04:16:23 +0000",
       "sweet_dreams": "2025-05-14 02:51:30 +0000",
       "root": "2025-05-14 02:27:40 +0000",
       "barking_mad": "2025-05-14 02:23:24 +0000",
       "ladder_climbers_inc": "2025-05-14 03:45:13 +0000",
       "festival_of_lights": "2025-05-14 03:00:13 +0000",
+      "pathways": "2025-05-14 04:22:37 +0000",
       "classy_glassy": "2025-05-14 03:11:13 +0000",
       "i_dont_like_sand": "2025-05-14 03:01:16 +0000",
       "stairs_no": "2025-05-14 03:04:12 +0000",
@@ -476,33 +501,42 @@
     "criteria": {
       "water_bucket": "2025-05-14 03:02:54 +0000",
       "raw_iron": "2025-05-14 02:54:37 +0000",
+      "chainmail_helmet": "2025-05-14 04:15:13 +0000",
       "egg": "2025-05-14 02:23:40 +0000",
       "arrow": "2025-05-14 03:50:44 +0000",
       "iron_chestplate": "2025-05-14 02:56:08 +0000",
       "baked_potato": "2025-05-14 02:46:15 +0000",
+      "diamond_shovel": "2025-05-14 04:29:15 +0000",
       "gold_ingot": "2025-05-14 03:07:19 +0000",
       "iron_nugget": "2025-05-14 02:55:45 +0000",
       "stick": "2025-05-14 02:27:53 +0000",
       "diamond_boots": "2025-05-14 03:04:39 +0000",
       "enchanted_book": "2025-05-14 02:49:41 +0000",
       "wheat_seeds": "2025-05-14 02:27:20 +0000",
+      "stone_shovel": "2025-05-14 04:22:36 +0000",
       "salmon": "2025-05-14 02:31:11 +0000",
       "wooden_sword": "2025-05-14 02:29:24 +0000",
+      "gunpowder": "2025-05-14 04:15:48 +0000",
       "leather": "2025-05-14 02:46:16 +0000",
+      "lime_dye": "2025-05-14 04:19:10 +0000",
       "diamond_sword": "2025-05-14 03:26:49 +0000",
       "bucket": "2025-05-14 03:02:49 +0000",
       "oak_boat": "2025-05-14 02:46:26 +0000",
+      "flint": "2025-05-14 04:20:35 +0000",
       "coal": "2025-05-14 02:52:59 +0000",
       "nautilus_shell": "2025-05-14 03:33:54 +0000",
+      "redstone": "2025-05-14 04:13:05 +0000",
       "emerald": "2025-05-14 02:46:13 +0000",
       "shield": "2025-05-14 04:08:13 +0000",
       "string": "2025-05-14 02:49:43 +0000",
       "book": "2025-05-14 02:52:56 +0000",
       "sweet_berries": "2025-05-14 04:04:09 +0000",
       "bow": "2025-05-14 03:39:09 +0000",
+      "creeper_banner_pattern": "2025-05-14 04:26:15 +0000",
       "iron_ingot": "2025-05-14 02:52:46 +0000",
       "apple": "2025-05-14 02:51:26 +0000",
       "spider_eye": "2025-05-14 04:06:04 +0000",
+      "iron_boots": "2025-05-14 04:14:30 +0000",
       "potato": "2025-05-14 02:46:14 +0000",
       "bone_meal": "2025-05-14 02:31:27 +0000",
       "cooked_cod": "2025-05-14 02:49:53 +0000",
@@ -520,9 +554,12 @@
       "rotten_flesh": "2025-05-14 02:35:20 +0000",
       "wooden_pickaxe": "2025-05-14 02:28:51 +0000",
       "dried_kelp": "2025-05-14 02:50:06 +0000",
+      "chainmail_leggings": "2025-05-14 04:12:44 +0000",
       "bone": "2025-05-14 03:37:09 +0000",
       "kelp": "2025-05-14 02:49:43 +0000",
+      "trial_key": "2025-05-14 04:14:01 +0000",
       "golden_carrot": "2025-05-14 03:39:04 +0000",
+      "prismarine_shard": "2025-05-14 04:11:49 +0000",
       "beetroot": "2025-05-14 03:57:02 +0000",
       "iron_shovel": "2025-05-14 03:00:05 +0000",
       "diamond": "2025-05-14 03:04:44 +0000",
@@ -655,6 +692,7 @@
       "root": "2025-05-14 02:28:02 +0000",
       "the_pie": "2025-05-14 03:35:58 +0000",
       "a_seedy_place": "2025-05-14 02:27:27 +0000",
+      "ultra_hardcore": "2025-05-14 04:19:34 +0000",
       "die_potato": "2025-05-14 04:04:07 +0000"
     },
     "done": false
@@ -820,13 +858,19 @@
       "water_bucket": "2025-05-14 03:02:54 +0000",
       "wooden_hoe": "2025-05-14 02:28:02 +0000",
       "shield": "2025-05-14 04:08:13 +0000",
+      "chainmail_helmet": "2025-05-14 04:15:13 +0000",
+      "stone_shovel": "2025-05-14 04:22:36 +0000",
       "bread": "2025-05-14 03:39:15 +0000",
       "wooden_pickaxe": "2025-05-14 02:28:51 +0000",
       "iron_chestplate": "2025-05-14 02:56:08 +0000",
       "wooden_sword": "2025-05-14 02:29:24 +0000",
+      "chainmail_leggings": "2025-05-14 04:12:44 +0000",
       "bow": "2025-05-14 03:39:09 +0000",
+      "diamond_shovel": "2025-05-14 04:29:15 +0000",
       "diamond_sword": "2025-05-14 03:26:49 +0000",
+      "creeper_banner_pattern": "2025-05-14 04:26:15 +0000",
       "iron_shovel": "2025-05-14 03:00:05 +0000",
+      "iron_boots": "2025-05-14 04:14:30 +0000",
       "oak_boat": "2025-05-14 02:46:26 +0000",
       "iron_pickaxe": "2025-05-14 03:04:57 +0000",
       "diamond_boots": "2025-05-14 03:04:39 +0000",
@@ -887,6 +931,9 @@
       "my_work_here_is_done": "2025-05-14 03:28:18 +0000",
       "cover_me_with_diamonds": "2025-05-14 03:04:45 +0000",
       "stone_age": "2025-05-14 02:33:12 +0000",
+      "aww_it_broke": "2025-05-14 04:26:42 +0000",
+      "meet_the_flintstones": "2025-05-14 04:20:36 +0000",
+      "seeing_red": "2025-05-14 04:13:06 +0000",
       "isnt_it_iron_pick": "2025-05-14 03:04:57 +0000",
       "gold_rush": "2025-05-14 03:07:20 +0000",
       "root": "2025-05-14 02:28:51 +0000",
@@ -918,8 +965,10 @@
   "blazeandcave:bacap/weaponry_milestone": {
     "criteria": {
       "root": "2025-05-14 02:29:24 +0000",
+      "take_aim": "2025-05-14 04:13:32 +0000",
       "shield_luck": "2025-05-14 04:11:12 +0000",
-      "sir_knight": "2025-05-14 04:08:14 +0000"
+      "sir_knight": "2025-05-14 04:08:14 +0000",
+      "bombs_away": "2025-05-14 04:14:31 +0000"
     },
     "done": false
   },
@@ -948,9 +997,12 @@
       "iron_belly": "2025-05-14 02:35:49 +0000",
       "root": "2025-05-14 02:29:24 +0000",
       "aww_man": "2025-05-14 04:07:07 +0000",
+      "what_a_creep": "2025-05-14 04:23:33 +0000",
+      "keep_your_distance": "2025-05-14 04:23:33 +0000",
       "monster_hunter": "2025-05-14 02:35:20 +0000",
       "ew_ew_ew": "2025-05-14 04:06:03 +0000",
       "not_today_thank_you": "2025-05-14 04:11:12 +0000",
+      "blast_shield": "2025-05-14 04:16:05 +0000",
       "spooky_skeleton": "2025-05-14 04:06:17 +0000"
     },
     "done": false
@@ -979,7 +1031,9 @@
   "blazeandcave:weaponry/multiclassed": {
     "criteria": {
       "sword": "2025-05-14 02:30:56 +0000",
-      "pickaxe": "2025-05-14 02:42:57 +0000"
+      "pickaxe": "2025-05-14 02:42:57 +0000",
+      "bow": "2025-05-14 04:13:31 +0000",
+      "tnt": "2025-05-14 04:13:31 +0000"
     },
     "done": false
   },
@@ -998,6 +1052,7 @@
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
       "root": "2025-05-14 02:30:56 +0000",
+      "under_lock_and_key": "2025-05-14 04:14:24 +0000",
       "now_youre_thinking_with_portals": "2025-05-14 03:48:23 +0000"
     },
     "done": false
@@ -1228,6 +1283,7 @@
   "blazeandcave:farming/vegetarian": {
     "criteria": {
       "bread": "2025-05-14 02:33:32 +0000",
+      "golden_apple": "2025-05-14 04:19:33 +0000",
       "sweet_berries": "2025-05-14 04:06:28 +0000",
       "dried_kelp": "2025-05-14 03:35:06 +0000",
       "baked_potato": "2025-05-14 04:04:06 +0000",
@@ -1244,6 +1300,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-05-14 02:33:32 +0000",
+      "golden_apple": "2025-05-14 04:19:33 +0000",
       "rotten_flesh": "2025-05-14 02:35:48 +0000",
       "sweet_berries": "2025-05-14 04:06:28 +0000",
       "dried_kelp": "2025-05-14 03:35:06 +0000",
@@ -1257,9 +1314,13 @@
     "criteria": {
       "white_wool": "2025-05-14 03:12:27 +0000",
       "chest": "2025-05-14 03:12:52 +0000",
+      "redstone_torch": "2025-05-14 04:30:46 +0000",
       "furnace": "2025-05-14 02:34:04 +0000",
       "string": "2025-05-14 02:49:43 +0000",
-      "rail": "2025-05-14 03:03:45 +0000"
+      "redstone_block": "2025-05-14 04:14:39 +0000",
+      "rail": "2025-05-14 03:03:45 +0000",
+      "tnt": "2025-05-14 04:14:30 +0000",
+      "redstone": "2025-05-14 04:13:05 +0000"
     },
     "done": false
   },
@@ -1283,6 +1344,7 @@
   },
   "blazeandcave:mining/moar_tools": {
     "criteria": {
+      "stone_shovel": "2025-05-14 04:22:36 +0000",
       "stone_pickaxe": "2025-05-14 02:34:49 +0000"
     },
     "done": false
@@ -1304,7 +1366,8 @@
       "minecraft:pillager": "2025-05-14 03:35:11 +0000",
       "minecraft:skeleton": "2025-05-14 04:06:16 +0000",
       "minecraft:spider": "2025-05-14 04:06:02 +0000",
-      "minecraft:zombie": "2025-05-14 02:35:20 +0000"
+      "minecraft:zombie": "2025-05-14 02:35:20 +0000",
+      "minecraft:creeper": "2025-05-14 04:23:32 +0000"
     },
     "done": false
   },
@@ -1318,7 +1381,8 @@
     "criteria": {
       "skeleton": "2025-05-14 04:06:16 +0000",
       "zombie": "2025-05-14 02:35:20 +0000",
-      "spider": "2025-05-14 04:06:02 +0000"
+      "spider": "2025-05-14 04:06:02 +0000",
+      "creeper": "2025-05-14 04:23:32 +0000"
     },
     "done": false
   },
@@ -1375,6 +1439,7 @@
   },
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
+      "gravel": "2025-05-14 04:22:14 +0000",
       "white_bed": "2025-05-14 02:42:52 +0000"
     },
     "done": false
@@ -1562,6 +1627,7 @@
       "piercing": "2025-05-14 03:50:44 +0000",
       "fire_protection": "2025-05-14 03:04:39 +0000",
       "unbreaking": "2025-05-14 03:04:29 +0000",
+      "feather_falling": "2025-05-14 04:14:30 +0000",
       "vanishing_curse": "2025-05-14 03:04:57 +0000",
       "protection": "2025-05-14 03:04:29 +0000"
     },
@@ -1569,9 +1635,11 @@
   },
   "blazeandcave:challenges/ultimate_enchanter": {
     "criteria": {
+      "feather_falling4": "2025-05-14 04:14:30 +0000",
       "efficiency1_book": "2025-05-14 02:49:41 +0000",
       "piercing2": "2025-05-14 03:50:44 +0000",
       "depth_strider3": "2025-05-14 03:04:39 +0000",
+      "protection2": "2025-05-14 04:20:50 +0000",
       "vanishing_curse": "2025-05-14 03:04:57 +0000",
       "thorns2": "2025-05-14 03:04:29 +0000",
       "protection3": "2025-05-14 03:04:51 +0000",
@@ -1964,6 +2032,8 @@
     "criteria": {
       "gold_block": "2025-05-14 03:08:52 +0000",
       "raw_iron_block": "2025-05-14 02:54:41 +0000",
+      "emerald_block": "2025-05-14 04:20:50 +0000",
+      "redstone_block": "2025-05-14 04:14:39 +0000",
       "coal_block": "2025-05-14 02:53:44 +0000"
     },
     "done": false
@@ -2269,6 +2339,7 @@
       "depth_strider": "2025-05-14 03:04:39 +0000",
       "fire_protection": "2025-05-14 03:04:39 +0000",
       "unbreaking": "2025-05-14 03:04:29 +0000",
+      "feather_falling": "2025-05-14 04:14:30 +0000",
       "vanishing_curse": "2025-05-14 03:04:57 +0000",
       "protection": "2025-05-14 03:04:29 +0000"
     },
@@ -2900,11 +2971,36 @@
     },
     "done": true
   },
-  "blazeandcave:weaponry/master_shieldsman": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "skeleton": "2025-05-14 04:11:11 +0000"
+      "has_emerald_block": "2025-05-14 04:20:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "root": "2025-05-14 04:13:06 +0000"
     },
     "done": false
+  },
+  "blazeandcave:weaponry/master_shieldsman": {
+    "criteria": {
+      "skeleton": "2025-05-14 04:11:11 +0000",
+      "creeper": "2025-05-14 04:16:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2025-05-14 04:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-14 04:20:35 +0000"
+    },
+    "done": true
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
@@ -2918,9 +3014,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 04:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-05-14 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-14 04:13:05 +0000"
     },
     "done": true
   },
@@ -2943,15 +3051,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-05-14 04:15:48 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:farming/the_pie": {
     "criteria": {
       "pumpkin_pie": "2025-05-14 03:35:57 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-14 04:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lime_bundle": {
+    "criteria": {
+      "has_lime_dye": "2025-05-14 04:19:10 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:monsters/creepy_heads": {
     "criteria": {
       "creeper_head": "2025-05-14 04:04:16 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/stationary_storage": {
+    "criteria": {
+      "chest": "2025-05-14 04:16:22 +0000"
     },
     "done": true
   },
@@ -2964,6 +3096,24 @@
   "blazeandcave:farming/die_potato": {
     "criteria": {
       "baked_potato": "2025-05-14 04:04:06 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/redstone": {
+    "criteria": {
+      "requirement": "2025-05-14 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-14 04:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-14 04:19:10 +0000"
     },
     "done": true
   },
@@ -2982,6 +3132,18 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-05-14 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-14 04:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-14 04:13:05 +0000"
     },
     "done": true
   },
@@ -3027,6 +3189,43 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 04:16:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/moar_broken_tools": {
+    "criteria": {
+      "iron_shovel": "2025-05-14 04:26:41 +0000",
+      "stone_shovel": "2025-05-14 04:28:48 +0000"
+    },
+    "done": false
+  },
+  "2re:recipes/tnt": {
+    "criteria": {
+      "requirement": "2025-05-14 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/fruit_of_the_looms": {
+    "criteria": {
+      "creeper_banner_pattern": "2025-05-14 04:26:15 +0000"
+    },
+    "done": false
+  },
+  "knize1007:shatter_reality": {
+    "criteria": {
+      "requirement": "2025-05-14 04:11:49 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/seeing_red": {
+    "criteria": {
+      "redstone": "2025-05-14 04:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-14 03:39:09 +0000"
@@ -3039,9 +3238,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-14 04:13:05 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/my_work_here_is_done": {
     "criteria": {
       "enter_gravel": "2025-05-14 03:28:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/like_a_cat": {
+    "criteria": {
+      "feather_falling": "2025-05-14 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-14 04:15:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/keep_your_distance": {
+    "criteria": {
+      "creeper": "2025-05-14 04:23:32 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/pathways": {
+    "criteria": {
+      "dirt_path": "2025-05-14 04:22:36 +0000"
     },
     "done": true
   },
@@ -3050,6 +3279,48 @@
       "sea_pickle": "2025-05-14 03:28:55 +0000"
     },
     "done": true
+  },
+  "blazeandcave:farming/ultra_hardcore": {
+    "criteria": {
+      "golden_apple": "2025-05-14 04:19:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/root": {
+    "criteria": {
+      "redstone": "2025-05-14 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-14 04:17:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/even_moar_tools": {
+    "criteria": {
+      "diamond_shovel": "2025-05-14 04:29:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 04:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_lime_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-14 04:19:10 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/enchanting_milestone": {
+    "criteria": {
+      "like_a_cat": "2025-05-14 04:14:31 +0000"
+    },
+    "done": false
   },
   "blazeandcave:monsters/dungeon_crawler": {
     "criteria": {
@@ -3069,9 +3340,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 04:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 04:16:08 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:weaponry/shield_luck": {
     "criteria": {
       "deflected_trident": "2025-05-14 04:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-14 04:13:05 +0000"
     },
     "done": true
   },
@@ -3087,9 +3376,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-14 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-05-14 04:14:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-14 03:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2025-05-14 04:19:10 +0000"
     },
     "done": true
   },
@@ -3105,9 +3412,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 04:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 04:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-14 04:14:39 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/beetroot": {
     "criteria": {
       "requirement": "2025-05-14 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-14 04:13:05 +0000"
     },
     "done": true
   },
@@ -3120,6 +3451,18 @@
   "blazeandcave:biomes/kilometre_walk": {
     "criteria": {
       "outer_pos_z": "2025-05-14 03:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 04:16:08 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/redstone_torch": {
+    "criteria": {
+      "requirement": "2025-05-14 04:30:46 +0000"
     },
     "done": true
   },
@@ -3147,6 +3490,18 @@
     },
     "done": true
   },
+  "blazeandcave:mining/meet_the_flintstones": {
+    "criteria": {
+      "flint": "2025-05-14 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/what_a_creep": {
+    "criteria": {
+      "creeper": "2025-05-14 04:23:32 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:farming/berry_nice": {
     "criteria": {
       "sweet_berries": "2025-05-14 04:06:28 +0000"
@@ -3165,6 +3520,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-05-14 04:13:05 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:mining/eeuuwww": {
     "criteria": {
       "cobweb": "2025-05-14 03:37:32 +0000"
@@ -3174,6 +3535,12 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-05-14 03:28:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/blast_shield": {
+    "criteria": {
+      "deflected_explosion": "2025-05-14 04:16:04 +0000"
     },
     "done": true
   },
@@ -3189,6 +3556,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-14 04:16:08 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/lime_dye": {
+    "criteria": {
+      "requirement": "2025-05-14 04:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-14 04:20:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/weve_broken_our_last_shovel": {
+    "criteria": {
+      "iron_shovel": "2025-05-14 04:26:41 +0000",
+      "stone_shovel": "2025-05-14 04:28:48 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:challenges/i_am_loot": {
     "criteria": {
       "simple_dungeon": "2025-05-14 03:37:06 +0000",
@@ -3202,9 +3594,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_lime_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-14 04:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-14 04:13:05 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/ladder_climbers_inc": {
     "criteria": {
       "enter_ladder": "2025-05-14 03:45:13 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/bombs_away": {
+    "criteria": {
+      "tnt": "2025-05-14 04:14:30 +0000"
     },
     "done": true
   },
@@ -3220,13 +3630,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-14 04:15:48 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/fake_stronghold": {
     "criteria": {
+      "normal": "2025-05-14 04:16:08 +0000",
       "mossy_stairs": "2025-05-14 03:36:53 +0000",
       "normal_stairs": "2025-05-14 03:48:48 +0000",
-      "chiseled": "2025-05-14 03:36:55 +0000"
+      "chiseled": "2025-05-14 03:36:55 +0000",
+      "cracked": "2025-05-14 04:16:40 +0000"
     },
     "done": false
+  },
+  "blazeandcave:mining/aww_it_broke": {
+    "criteria": {
+      "break_tool": "2025-05-14 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-14 04:13:05 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4189
 }
