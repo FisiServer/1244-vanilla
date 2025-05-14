@@ -108,6 +108,7 @@
       "bacap_root": "2025-05-10 23:45:28 +0000",
       "deep_slate_nine": "2025-05-11 04:45:32 +0000",
       "mining_root": "2025-05-10 23:49:41 +0000",
+      "farming_root": "2025-05-14 02:43:28 +0000",
       "which_came_first": "2025-05-11 00:57:22 +0000",
       "tarzan": "2025-05-11 04:52:00 +0000",
       "under_pressure": "2025-05-14 02:03:23 +0000",
@@ -115,6 +116,7 @@
       "not_today_thank_you": "2025-05-14 02:03:24 +0000",
       "spooky_skeleton": "2025-05-14 02:03:13 +0000",
       "viking": "2025-05-11 04:48:29 +0000",
+      "cowboy": "2025-05-14 02:49:01 +0000",
       "the_statue_of_liberty": "2025-05-11 04:47:52 +0000",
       "bake_bread": "2025-05-12 00:48:10 +0000",
       "ew_ew_ew": "2025-05-11 04:48:29 +0000",
@@ -125,6 +127,7 @@
       "just_keep_swimming": "2025-05-10 23:46:58 +0000",
       "spring_in_your_step": "2025-05-14 02:13:38 +0000",
       "getting_an_upgrade": "2025-05-12 00:30:03 +0000",
+      "time_to_farm": "2025-05-14 02:43:28 +0000",
       "dead_dont_die": "2025-05-14 02:40:11 +0000",
       "shriek_forever_after": "2025-05-11 04:45:32 +0000",
       "acquire_hardware": "2025-05-12 00:34:29 +0000",
@@ -288,6 +291,7 @@
       "stick": "2025-05-10 23:49:33 +0000",
       "wheat": "2025-05-12 00:46:31 +0000",
       "stone_pickaxe": "2025-05-12 00:30:03 +0000",
+      "wooden_hoe": "2025-05-14 02:43:28 +0000",
       "wheat_seeds": "2025-05-12 00:46:31 +0000",
       "bread": "2025-05-12 00:48:09 +0000",
       "rotten_flesh": "2025-05-12 00:42:16 +0000",
@@ -607,6 +611,7 @@
   "blazeandcave:challenges/stack_all_the_items": {
     "criteria": {
       "water_bucket": "2025-05-12 00:35:30 +0000",
+      "wooden_hoe": "2025-05-14 02:43:28 +0000",
       "shield": "2025-05-14 02:02:34 +0000",
       "shears": "2025-05-14 02:18:30 +0000",
       "wooden_pickaxe": "2025-05-10 23:49:41 +0000",
@@ -908,6 +913,7 @@
   },
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
+      "cowboy": "2025-05-14 02:49:01 +0000",
       "milk_does_your_body_good": "2025-05-12 00:42:56 +0000",
       "root": "2025-05-11 04:44:02 +0000",
       "high_steaks": "2025-05-14 02:19:37 +0000",
@@ -1090,6 +1096,7 @@
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
       "bake_bread": "2025-05-12 00:48:10 +0000",
+      "root": "2025-05-14 02:43:28 +0000",
       "a_seedy_place": "2025-05-12 00:46:35 +0000",
       "bapple": "2025-05-11 04:44:02 +0000"
     },
@@ -1803,6 +1810,12 @@
     },
     "done": false
   },
+  "blazeandcave:bacap/time_to_farm": {
+    "criteria": {
+      "wooden_hoe": "2025-05-14 02:43:28 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/wool": {
     "criteria": {
       "requirement": "2025-05-14 02:18:32 +0000"
@@ -1836,6 +1849,18 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-14 02:08:47 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/root": {
+    "criteria": {
+      "hoe": "2025-05-14 02:43:28 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/wooden_hoe": {
+    "criteria": {
+      "requirement": "2025-05-14 02:43:28 +0000"
     },
     "done": true
   },
@@ -2058,6 +2083,12 @@
     },
     "done": true
   },
+  "blazeandcave:animal/cowboy": {
+    "criteria": {
+      "tamed_animal": "2025-05-14 02:49:00 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/andesite": {
     "criteria": {
       "requirement": "2025-05-14 02:08:47 +0000"
@@ -2171,6 +2202,12 @@
       "requirement": "2025-05-14 02:00:31 +0000"
     },
     "done": true
+  },
+  "blazeandcave:animal/master_farrier": {
+    "criteria": {
+      "gray_white_dots": "2025-05-14 02:49:00 +0000"
+    },
+    "done": false
   },
   "blazeandcave:biomes/for_you_my_sweet": {
     "criteria": {

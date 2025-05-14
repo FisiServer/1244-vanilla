@@ -198,6 +198,7 @@
       "iron_man": "2025-05-14 02:27:35 +0000",
       "animal_root": "2025-05-11 00:12:04 +0000",
       "for_you_my_sweet": "2025-05-14 02:08:02 +0000",
+      "high_steaks": "2025-05-14 02:44:57 +0000",
       "festival_of_lights": "2025-05-11 01:02:52 +0000",
       "monster_hunter": "2025-05-11 01:11:44 +0000",
       "statistics_root": "2025-05-11 00:08:22 +0000",
@@ -483,6 +484,7 @@
       "crossbow": "2025-05-11 00:41:29 +0000",
       "arrow": "2025-05-14 02:18:02 +0000",
       "iron_chestplate": "2025-05-14 02:27:08 +0000",
+      "cooked_beef": "2025-05-14 02:44:55 +0000",
       "beef": "2025-05-14 02:16:18 +0000",
       "baked_potato": "2025-05-14 02:17:10 +0000",
       "porkchop": "2025-05-11 00:47:08 +0000",
@@ -530,6 +532,7 @@
       "bread": "2025-05-11 00:12:02 +0000",
       "rotten_flesh": "2025-05-11 00:12:45 +0000",
       "wooden_pickaxe": "2025-05-11 00:13:11 +0000",
+      "raw_gold": "2025-05-14 02:42:18 +0000",
       "bone": "2025-05-14 02:18:02 +0000",
       "iron_leggings": "2025-05-14 02:26:54 +0000",
       "prismarine_shard": "2025-05-11 01:01:32 +0000",
@@ -756,16 +759,17 @@
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
       "hey_look_mom": "2025-05-11 01:08:53 +0000",
+      "high_steaks": "2025-05-14 02:44:57 +0000",
+      "direct_fishing": "2025-05-14 02:07:12 +0000",
+      "treasure_hunter": "2025-05-11 01:06:35 +0000",
+      "humble_bundle": "2025-05-11 01:13:54 +0000",
+      "cow_tipper": "2025-05-11 01:13:16 +0000",
       "feeling_sheepish": "2025-05-11 00:51:30 +0000",
       "tactical_fishing": "2025-05-14 02:07:17 +0000",
       "pork_chop": "2025-05-11 00:48:33 +0000",
       "tickle_time": "2025-05-11 00:53:13 +0000",
       "root": "2025-05-11 00:12:04 +0000",
-      "direct_fishing": "2025-05-14 02:07:12 +0000",
-      "treasure_hunter": "2025-05-11 01:06:35 +0000",
       "which_came_first": "2025-05-11 00:39:15 +0000",
-      "humble_bundle": "2025-05-11 01:13:54 +0000",
-      "cow_tipper": "2025-05-11 01:13:16 +0000",
       "poacher": "2025-05-11 01:07:25 +0000"
     },
     "done": false
@@ -774,7 +778,8 @@
     "criteria": {
       "bread": "2025-05-11 00:12:04 +0000",
       "baked_potato": "2025-05-14 02:18:12 +0000",
-      "pumpkin_pie": "2025-05-11 00:41:45 +0000"
+      "pumpkin_pie": "2025-05-11 00:41:45 +0000",
+      "carrot": "2025-05-14 02:44:48 +0000"
     },
     "done": false
   },
@@ -789,8 +794,10 @@
       "cooked_porkchop": "2025-05-11 00:48:33 +0000",
       "bread": "2025-05-11 00:12:04 +0000",
       "cooked_mutton": "2025-05-11 00:51:30 +0000",
+      "cooked_beef": "2025-05-14 02:44:57 +0000",
       "baked_potato": "2025-05-14 02:18:12 +0000",
-      "pumpkin_pie": "2025-05-11 00:41:45 +0000"
+      "pumpkin_pie": "2025-05-11 00:41:45 +0000",
+      "carrot": "2025-05-14 02:44:48 +0000"
     },
     "done": false
   },
@@ -1507,7 +1514,8 @@
   "blazeandcave:farming/meat_lovers": {
     "criteria": {
       "cooked_porkchop": "2025-05-11 00:48:33 +0000",
-      "cooked_mutton": "2025-05-11 00:51:30 +0000"
+      "cooked_mutton": "2025-05-11 00:51:30 +0000",
+      "cooked_beef": "2025-05-14 02:44:57 +0000"
     },
     "done": false
   },
@@ -2604,6 +2612,12 @@
     },
     "done": true
   },
+  "blazeandcave:animal/high_steaks": {
+    "criteria": {
+      "cooked_beef": "2025-05-14 02:44:57 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:biomes/warm_feet": {
     "criteria": {
       "savanna": "2025-05-14 02:07:42 +0000"
@@ -2643,6 +2657,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-14 02:42:18 +0000"
     },
     "done": true
   },
@@ -2754,6 +2774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-14 02:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
@@ -2769,6 +2795,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-14 02:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-14 02:42:18 +0000"
     },
     "done": true
   },
@@ -3058,6 +3090,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/raw_gold": {
+    "criteria": {
+      "requirement": "2025-05-14 02:42:18 +0000"
     },
     "done": true
   },
