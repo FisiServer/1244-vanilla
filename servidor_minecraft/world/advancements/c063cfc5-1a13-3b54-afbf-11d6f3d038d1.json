@@ -125,6 +125,7 @@
       "just_keep_swimming": "2025-05-10 23:46:58 +0000",
       "spring_in_your_step": "2025-05-14 02:13:38 +0000",
       "getting_an_upgrade": "2025-05-12 00:30:03 +0000",
+      "dead_dont_die": "2025-05-14 02:40:11 +0000",
       "shriek_forever_after": "2025-05-11 04:45:32 +0000",
       "acquire_hardware": "2025-05-12 00:34:29 +0000",
       "iron_belly": "2025-05-12 00:42:32 +0000",
@@ -245,6 +246,7 @@
       "oak_sapling": "2025-05-10 23:46:15 +0000",
       "oxidized_copper": "2025-05-11 04:47:51 +0000",
       "hay_block": "2025-05-11 04:51:31 +0000",
+      "white_bed": "2025-05-14 02:39:31 +0000",
       "cobblestone": "2025-05-10 23:50:00 +0000",
       "oxidized_copper_door": "2025-05-11 04:47:51 +0000",
       "andesite": "2025-05-14 02:08:47 +0000",
@@ -1215,6 +1217,7 @@
   },
   "blazeandcave:weaponry/multiclassed": {
     "criteria": {
+      "pickaxe": "2025-05-14 02:38:50 +0000",
       "axe": "2025-05-11 04:48:28 +0000"
     },
     "done": false
@@ -1222,7 +1225,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-14 02:03:13 +0000",
-      "minecraft:spider": "2025-05-11 04:48:28 +0000"
+      "minecraft:spider": "2025-05-11 04:48:28 +0000",
+      "minecraft:zombie": "2025-05-14 02:40:11 +0000"
     },
     "done": false
   },
@@ -1291,6 +1295,7 @@
   "blazeandcave:monsters/night_runner": {
     "criteria": {
       "skeleton": "2025-05-14 02:03:13 +0000",
+      "zombie": "2025-05-14 02:40:11 +0000",
       "spider": "2025-05-11 04:48:28 +0000"
     },
     "done": false
@@ -1323,6 +1328,7 @@
   },
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
+      "dead_dont_die": "2025-05-14 02:40:11 +0000",
       "iron_belly": "2025-05-12 00:42:32 +0000",
       "monster_hunter": "2025-05-11 04:48:29 +0000",
       "ew_ew_ew": "2025-05-11 04:48:29 +0000",
@@ -1468,6 +1474,7 @@
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
       "birch_planks": "2025-05-12 00:31:25 +0000",
+      "white_bed": "2025-05-14 02:39:31 +0000",
       "spruce_log": "2025-05-14 02:17:06 +0000"
     },
     "done": false
@@ -1802,6 +1809,12 @@
     },
     "done": true
   },
+  "blazeandcave:building/rainbow_dreams": {
+    "criteria": {
+      "white_bed": "2025-05-14 02:39:31 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:animal/high_steaks": {
     "criteria": {
       "cooked_beef": "2025-05-14 02:19:36 +0000"
@@ -2090,6 +2103,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-14 02:14:12 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/dead_dont_die": {
+    "criteria": {
+      "zombie": "2025-05-14 02:40:11 +0000"
     },
     "done": true
   },

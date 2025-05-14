@@ -133,12 +133,14 @@
   },
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
+      "diamonds": "2025-05-14 02:37:14 +0000",
       "mapmaker": "2025-05-11 01:02:12 +0000",
       "benchmarking": "2025-05-11 00:11:49 +0000",
       "bacap_root": "2025-05-11 00:05:26 +0000",
       "humble_bundle": "2025-05-11 01:13:54 +0000",
       "gi_geode": "2025-05-11 01:13:45 +0000",
       "deep_slate_nine": "2025-05-14 02:31:10 +0000",
+      "cover_me_with_diamonds": "2025-05-14 02:37:34 +0000",
       "mining_root": "2025-05-11 00:13:11 +0000",
       "unbreakable": "2025-05-11 00:52:47 +0000",
       "aww_man": "2025-05-14 02:25:08 +0000",
@@ -157,6 +159,7 @@
       "bombs_away": "2025-05-11 00:56:57 +0000",
       "adventure_root": "2025-05-11 01:07:25 +0000",
       "stone_age": "2025-05-11 00:42:29 +0000",
+      "aww_it_broke": "2025-05-14 02:33:17 +0000",
       "getting_wood": "2025-05-11 00:11:42 +0000",
       "isnt_it_iron_pick": "2025-05-11 00:43:29 +0000",
       "just_keep_swimming": "2025-05-11 00:07:25 +0000",
@@ -170,12 +173,14 @@
       "die_potato": "2025-05-14 02:18:12 +0000",
       "leveraging_synergy": "2025-05-11 01:02:30 +0000",
       "time_to_strike": "2025-05-11 01:17:07 +0000",
+      "dead_dont_die": "2025-05-14 02:41:32 +0000",
       "acquire_hardware": "2025-05-11 00:43:01 +0000",
       "x_bow": "2025-05-11 00:41:29 +0000",
       "hot_topic": "2025-05-14 02:22:36 +0000",
       "fossil_fuel": "2025-05-11 00:41:12 +0000",
       "treasure_hunter": "2025-05-11 01:06:35 +0000",
       "the_first_night": "2025-05-11 00:08:21 +0000",
+      "what_a_creep": "2025-05-14 02:41:15 +0000",
       "cow_tipper": "2025-05-11 01:13:16 +0000",
       "seeing_red": "2025-05-14 02:19:05 +0000",
       "redstone_root": "2025-05-14 02:19:05 +0000",
@@ -514,6 +519,7 @@
       "lapis_lazuli": "2025-05-11 01:02:00 +0000",
       "iron_pickaxe": "2025-05-11 00:43:28 +0000",
       "wheat": "2025-05-11 00:10:42 +0000",
+      "diamond_chestplate": "2025-05-14 02:37:31 +0000",
       "stone_pickaxe": "2025-05-11 00:43:36 +0000",
       "iron_helmet": "2025-05-14 02:27:21 +0000",
       "pumpkin_pie": "2025-05-11 00:41:26 +0000",
@@ -528,6 +534,7 @@
       "iron_leggings": "2025-05-14 02:26:54 +0000",
       "prismarine_shard": "2025-05-11 01:01:32 +0000",
       "raw_copper": "2025-05-11 01:01:33 +0000",
+      "diamond": "2025-05-14 02:37:13 +0000",
       "sugar_cane": "2025-05-11 00:39:27 +0000",
       "painting": "2025-05-11 01:01:33 +0000",
       "heart_of_the_sea": "2025-05-11 00:56:53 +0000",
@@ -579,6 +586,7 @@
       "sunflower": "2025-05-14 02:08:01 +0000",
       "sand": "2025-05-11 00:56:49 +0000",
       "oak_log": "2025-05-11 00:11:42 +0000",
+      "tuff": "2025-05-14 02:34:39 +0000",
       "tnt": "2025-05-11 00:56:56 +0000"
     },
     "done": false
@@ -857,6 +865,7 @@
       "iron_sword": "2025-05-11 01:17:07 +0000",
       "salmon_bucket": "2025-05-14 02:07:17 +0000",
       "iron_pickaxe": "2025-05-11 00:43:28 +0000",
+      "diamond_chestplate": "2025-05-14 02:37:31 +0000",
       "leather_helmet": "2025-05-11 00:52:46 +0000",
       "stone_pickaxe": "2025-05-11 00:43:36 +0000",
       "iron_helmet": "2025-05-14 02:27:21 +0000",
@@ -874,13 +883,16 @@
   "blazeandcave:bacap/mining_milestone": {
     "criteria": {
       "diam_oh_wait_no": "2025-05-11 01:02:00 +0000",
+      "diamonds": "2025-05-14 02:37:14 +0000",
       "acquire_hardware": "2025-05-11 00:43:01 +0000",
       "iron_man": "2025-05-14 02:27:35 +0000",
       "hot_topic": "2025-05-14 02:22:36 +0000",
       "fossil_fuel": "2025-05-11 00:41:12 +0000",
       "gi_geode": "2025-05-11 01:13:45 +0000",
       "deep_slate_nine": "2025-05-14 02:31:10 +0000",
+      "cover_me_with_diamonds": "2025-05-14 02:37:34 +0000",
       "stone_age": "2025-05-11 00:42:29 +0000",
+      "aww_it_broke": "2025-05-14 02:33:17 +0000",
       "seeing_red": "2025-05-14 02:19:05 +0000",
       "isnt_it_iron_pick": "2025-05-11 00:43:29 +0000",
       "gold_rush": "2025-05-11 00:56:59 +0000",
@@ -1101,6 +1113,7 @@
   "blazeandcave:building/rock_collection": {
     "criteria": {
       "cobblestone": "2025-05-11 00:42:29 +0000",
+      "tuff": "2025-05-14 02:34:39 +0000",
       "cobbled_deepslate": "2025-05-14 02:31:50 +0000"
     },
     "done": false
@@ -2236,7 +2249,8 @@
   },
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
-      "sand": "2025-05-11 01:07:32 +0000"
+      "sand": "2025-05-11 01:07:32 +0000",
+      "cobbled_deepslate": "2025-05-14 02:34:01 +0000"
     },
     "done": false
   },
@@ -2261,7 +2275,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-14 02:18:02 +0000",
-      "minecraft:enderman": "2025-05-11 01:11:44 +0000"
+      "minecraft:enderman": "2025-05-11 01:11:44 +0000",
+      "minecraft:zombie": "2025-05-14 02:41:32 +0000",
+      "minecraft:creeper": "2025-05-14 02:41:15 +0000"
     },
     "done": false
   },
@@ -2286,14 +2302,18 @@
   "blazeandcave:monsters/night_runner": {
     "criteria": {
       "skeleton": "2025-05-14 02:18:02 +0000",
+      "zombie": "2025-05-14 02:41:32 +0000",
+      "creeper": "2025-05-14 02:41:15 +0000",
       "enderman": "2025-05-11 01:11:44 +0000"
     },
     "done": false
   },
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
+      "dead_dont_die": "2025-05-14 02:41:32 +0000",
       "root": "2025-05-11 01:17:07 +0000",
       "aww_man": "2025-05-14 02:25:08 +0000",
+      "what_a_creep": "2025-05-14 02:41:15 +0000",
       "monster_hunter": "2025-05-11 01:11:44 +0000",
       "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
       "spooky_skeleton": "2025-05-14 02:18:03 +0000"
@@ -2560,6 +2580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
@@ -2572,15 +2598,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:biomes/warm_feet": {
     "criteria": {
       "savanna": "2025-05-14 02:07:42 +0000"
     },
     "done": false
   },
+  "2re:recipes/diamond": {
+    "criteria": {
+      "requirement": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
     },
     "done": true
   },
@@ -2590,9 +2646,33 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-14 02:37:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
     },
     "done": true
   },
@@ -2608,6 +2688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/redstone": {
     "criteria": {
       "requirement": "2025-05-14 02:19:05 +0000"
@@ -2619,6 +2705,24 @@
       "cobbled_deepslate": "2025-05-14 02:31:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
   },
   "blazeandcave:biomes/theres_a_zombie_on_the_lawn": {
     "criteria": {
@@ -2641,6 +2745,12 @@
   "blazeandcave:monsters/spooky_skeleton": {
     "criteria": {
       "skeleton": "2025-05-14 02:18:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
     },
     "done": true
   },
@@ -2674,6 +2784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/sunflower": {
     "criteria": {
       "requirement": "2025-05-14 02:08:01 +0000"
@@ -2685,6 +2801,24 @@
       "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/moar_broken_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-14 02:33:16 +0000"
+    },
+    "done": false
   },
   "blazeandcave:mining/seeing_red": {
     "criteria": {
@@ -2716,6 +2850,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
@@ -2734,9 +2874,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/raw_iron": {
     "criteria": {
       "requirement": "2025-05-14 02:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-14 02:37:13 +0000"
     },
     "done": true
   },
@@ -2765,6 +2923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/torched": {
     "criteria": {
       "torch": "2025-05-14 02:31:01 +0000"
@@ -2777,6 +2941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-14 02:19:05 +0000"
@@ -2786,6 +2956,12 @@
   "2re:recipes/red": {
     "criteria": {
       "requirement": "2025-05-14 02:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
     },
     "done": true
   },
@@ -2810,6 +2986,12 @@
   "blazeandcave:mining/deep_slate_nine": {
     "criteria": {
       "deepslate_level": "2025-05-14 02:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
     },
     "done": true
   },
@@ -2855,11 +3037,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:animal/aquarium": {
     "criteria": {
       "salmon_bucket": "2025-05-14 02:07:18 +0000"
     },
     "done": false
+  },
+  "blazeandcave:monsters/what_a_creep": {
+    "criteria": {
+      "creeper": "2025-05-14 02:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
@@ -2873,6 +3073,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-14 02:17:58 +0000"
@@ -2882,6 +3100,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-14 02:31:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/dead_dont_die": {
+    "criteria": {
+      "zombie": "2025-05-14 02:41:32 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/blue": {
+    "criteria": {
+      "requirement": "2025-05-14 02:37:13 +0000"
     },
     "done": true
   },
@@ -2909,6 +3139,12 @@
     },
     "done": true
   },
+  "blazeandcave:building/tuff_stuff": {
+    "criteria": {
+      "tuff": "2025-05-14 02:34:39 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:animal/direct_fishing": {
     "criteria": {
       "salmon": "2025-05-14 02:07:12 +0000"
@@ -2918,6 +3154,12 @@
   "2re:recipes/furnace": {
     "criteria": {
       "requirement": "2025-05-14 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-05-14 02:34:39 +0000"
     },
     "done": true
   },
@@ -2951,9 +3193,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-14 02:37:13 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/dirt": {
     "criteria": {
       "requirement": "2025-05-14 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/aww_it_broke": {
+    "criteria": {
+      "break_tool": "2025-05-14 02:33:16 +0000"
     },
     "done": true
   },

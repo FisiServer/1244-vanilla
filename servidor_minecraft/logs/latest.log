@@ -593,3 +593,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02:31:15] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [02:34:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [02:35:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:35:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:35:40] [Server thread/INFO]: Svonccy was slain by Oicapse
+[02:35:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:35:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:35:51] [Server thread/INFO]: [Not Secure] <BillyVR15> que verguenza joy
+[02:36:01] [Server thread/INFO]: Oicapse was slain by Zombie
+[02:36:08] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[02:36:18] [Server thread/INFO]: [Not Secure] <Svonccy> xd
+[02:36:41] [Server thread/INFO]: Oicapse was shot by Skeleton
+[02:36:47] [Server thread/INFO]: [Not Secure] <Oicapse> :c
+[02:36:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:36:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:37:00] [Server thread/INFO]: [Svonccy: Teleported Svonccy to Oicapse]
+[02:37:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:37:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:37:27] [Server thread/INFO]: Oicapse was shot by Skeleton
+[02:37:50] [Server thread/INFO]: [Not Secure] <Svonccy> duerme billy la ptm
+[02:37:59] [Server thread/INFO]: [Not Secure] <BillyVR15> no traje cama
+[02:38:05] [Server thread/INFO]: [Not Secure] <Svonccy> >:C
+[02:38:15] [Server thread/INFO]: [Not Secure] <BillyVR15> mejor configura de una vez bien el servidor
+[02:38:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:39:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:39:25] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:39:26] [Server thread/INFO]: [Not Secure] <Oicapse> joy de mrd
+[02:39:54] [Server thread/INFO]: [Not Secure] <Svonccy> ya toy durmiendo
+[02:39:59] [Server thread/INFO]: [Not Secure] <Svonccy> ya está el voice xd
+[02:39:59] [Server thread/INFO]: [Not Secure] <Svonccy> oi
+[02:40:00] [Server thread/INFO]: [Not Secure] <BillyVR15> a?
+[02:40:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:40:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:41:27] [Server thread/INFO]: Oicapse was shot by Skeleton
+[02:41:42] [Server thread/INFO]: [Not Secure] <Svonccy> manca
+[02:42:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:42:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:43:08] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:43:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:43:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:43:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:43:22] [Server thread/INFO]: [Not Secure] <Svonccy> mi cama
+[02:44:04] [Server thread/INFO]: [Not Secure] <Svonccy> M I C A M A
+[02:44:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:44:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:44:25] [Server thread/INFO]: Oicapse lost connection: Timed out
+[02:44:25] [Server thread/INFO]: Oicapse left the game
+[02:44:25] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[02:44:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:44:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:44:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:44:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:44:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:44:42] [Server thread/INFO]: Oicapse[/127.13.175.93:42021] logged in with entity id 35616 at (108.37303412210623, 64.0, 171.04378361252137)
+[02:44:42] [Server thread/INFO]: Loading config from file...
+[02:44:42] [Server thread/INFO]: Oicapse joined the game
+[02:44:42] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[02:44:42] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[02:44:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[02:44:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[02:44:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[02:44:54] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[02:44:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:45:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
