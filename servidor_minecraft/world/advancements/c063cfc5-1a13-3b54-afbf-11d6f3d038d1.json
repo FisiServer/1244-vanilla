@@ -295,6 +295,7 @@
       "hay_block": "2025-05-11 04:51:31 +0000",
       "white_bed": "2025-05-14 02:39:31 +0000",
       "red_wool": "2025-05-14 03:50:19 +0000",
+      "oak_stairs": "2025-05-14 05:27:23 +0000",
       "cobblestone": "2025-05-10 23:50:00 +0000",
       "oxidized_copper_door": "2025-05-11 04:47:51 +0000",
       "spruce_planks": "2025-05-14 02:52:56 +0000",
@@ -436,6 +437,7 @@
   },
   "blazeandcave:building/professor_oak": {
     "criteria": {
+      "oak_stairs": "2025-05-14 05:27:23 +0000",
       "oak_log": "2025-05-10 23:46:27 +0000",
       "oak_wood": "2025-05-11 00:57:04 +0000",
       "oak_planks": "2025-05-10 23:49:32 +0000",
@@ -1632,6 +1634,7 @@
       "oak_log": "2025-05-14 04:18:03 +0000",
       "oak_wood": "2025-05-14 04:16:14 +0000",
       "cobblestone": "2025-05-14 04:30:20 +0000",
+      "oak_planks": "2025-05-14 05:27:19 +0000",
       "spruce_planks": "2025-05-14 05:00:22 +0000",
       "white_bed": "2025-05-14 02:39:31 +0000",
       "spruce_log": "2025-05-14 02:17:06 +0000"
@@ -3361,15 +3364,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "blazeandcave:statistics/sneaky_snitch": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
+      "trigger": "2025-05-14 04:50:44 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "blazeandcave:building/stairs_no": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
+      "stairs": "2025-05-14 04:51:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/ah_my_old_enemy": {
+    "criteria": {
+      "spruce_stairs": "2025-05-14 05:00:25 +0000",
+      "oak_stairs": "2025-05-14 05:27:23 +0000",
+      "cobblestone_stairs": "2025-05-14 04:51:33 +0000"
     },
     "done": false
   },
@@ -3379,102 +3390,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-14 05:07:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
   "blazeandcave:building/stripper": {
     "criteria": {
       "stripped_oak_log": "2025-05-14 05:04:49 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
+      "has_stripped_logs": "2025-05-14 05:07:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-05-14 05:07:10 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:building/stairs_no": {
-    "criteria": {
-      "stairs": "2025-05-14 04:51:33 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:statistics/sneaky_snitch": {
-    "criteria": {
-      "trigger": "2025-05-14 04:50:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:09:37 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:building/ah_my_old_enemy": {
-    "criteria": {
-      "spruce_stairs": "2025-05-14 05:00:25 +0000",
-      "cobblestone_stairs": "2025-05-14 04:51:33 +0000"
-    },
-    "done": false
   },
   "DataVersion": 4189
 }
