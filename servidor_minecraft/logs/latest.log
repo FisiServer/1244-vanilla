@@ -477,3 +477,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:19:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
 [22:19:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Svonccy (c063cfc5-1a13-3b54-afbf-11d6f3d038d1) successfully connected to voice chat
 [22:20:15] [Server thread/INFO]: [Svonccy: Triggered [login] (set value to 4321)]
+[22:31:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
