@@ -124,6 +124,7 @@
       "time_to_farm": "2025-05-14 02:43:28 +0000",
       "time_to_strike": "2025-05-14 03:37:30 +0000",
       "dead_dont_die": "2025-05-14 02:40:11 +0000",
+      "out_for_a_stroll": "2025-05-15 22:56:36 +0000",
       "iron_belly": "2025-05-12 00:42:32 +0000",
       "barking_mad": "2025-05-11 00:57:04 +0000",
       "fossil_fuel": "2025-05-14 02:00:31 +0000",
@@ -195,6 +196,7 @@
       "boaty_mcboatface": "2025-05-14 02:53:13 +0000",
       "laps_in_the_pool": "2025-05-15 16:28:54 +0000",
       "monster_hunter": "2025-05-11 04:48:29 +0000",
+      "lead_the_way": "2025-05-15 22:58:09 +0000",
       "en_garde": "2025-05-15 22:21:40 +0000",
       "your_door_was_locked": "2025-05-11 04:47:52 +0000",
       "bapple": "2025-05-11 04:44:02 +0000"
@@ -298,6 +300,7 @@
       "oak_sapling": "2025-05-10 23:46:15 +0000",
       "spruce_door": "2025-05-14 05:56:14 +0000",
       "tripwire_hook": "2025-05-14 03:55:53 +0000",
+      "spruce_sign": "2025-05-15 23:00:16 +0000",
       "oxidized_copper": "2025-05-11 04:47:51 +0000",
       "hay_block": "2025-05-11 04:51:31 +0000",
       "white_bed": "2025-05-14 02:39:31 +0000",
@@ -369,6 +372,7 @@
       "nautilus_shell": "2025-05-12 00:41:42 +0000",
       "stone_axe": "2025-05-11 04:43:10 +0000",
       "shield": "2025-05-14 02:02:34 +0000",
+      "iron_hoe": "2025-05-15 23:01:45 +0000",
       "string": "2025-05-11 04:48:28 +0000",
       "light_gray_dye": "2025-05-14 03:51:11 +0000",
       "milk_bucket": "2025-05-12 00:42:42 +0000",
@@ -376,6 +380,7 @@
       "apple": "2025-05-10 23:46:15 +0000",
       "spider_eye": "2025-05-11 04:48:39 +0000",
       "iron_boots": "2025-05-14 03:35:54 +0000",
+      "potato": "2025-05-15 23:03:15 +0000",
       "lapis_lazuli": "2025-05-14 03:02:33 +0000",
       "diamond_axe": "2025-05-14 04:14:11 +0000",
       "iron_pickaxe": "2025-05-12 00:35:07 +0000",
@@ -397,7 +402,8 @@
       "iron_shovel": "2025-05-14 03:53:01 +0000",
       "diamond": "2025-05-14 03:06:58 +0000",
       "sugar_cane": "2025-05-15 16:41:25 +0000",
-      "charcoal": "2025-05-14 05:01:29 +0000"
+      "charcoal": "2025-05-14 05:01:29 +0000",
+      "carrot": "2025-05-15 23:03:11 +0000"
     },
     "done": false
   },
@@ -729,6 +735,7 @@
     "criteria": {
       "water_bucket": "2025-05-12 00:35:30 +0000",
       "shield": "2025-05-14 02:02:34 +0000",
+      "iron_hoe": "2025-05-15 23:01:45 +0000",
       "saddle": "2025-05-14 03:56:21 +0000",
       "iron_chestplate": "2025-05-14 03:35:13 +0000",
       "milk_bucket": "2025-05-12 00:42:42 +0000",
@@ -1064,6 +1071,7 @@
       "high_steaks": "2025-05-14 02:19:37 +0000",
       "which_came_first": "2025-05-11 00:57:22 +0000",
       "cow_tipper": "2025-05-14 03:31:23 +0000",
+      "lead_the_way": "2025-05-15 22:58:09 +0000",
       "have_a_shearful_day": "2025-05-14 02:18:32 +0000"
     },
     "done": false
@@ -1118,6 +1126,7 @@
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
       "sneaky_snitch": "2025-05-14 04:50:45 +0000",
+      "out_for_a_stroll": "2025-05-15 22:56:36 +0000",
       "root": "2025-05-11 01:08:55 +0000",
       "spring_in_your_step": "2025-05-14 02:13:38 +0000",
       "the_first_night": "2025-05-11 01:08:54 +0000",
@@ -1963,7 +1972,9 @@
   },
   "blazeandcave:farming/come_to_the_countryside": {
     "criteria": {
-      "wheat": "2025-05-12 00:46:34 +0000"
+      "potatoes": "2025-05-15 23:04:45 +0000",
+      "wheat": "2025-05-12 00:46:34 +0000",
+      "carrots": "2025-05-15 23:03:38 +0000"
     },
     "done": false
   },
@@ -2054,6 +2065,7 @@
   "blazeandcave:weaponry/master_shieldsman": {
     "criteria": {
       "skeleton": "2025-05-14 02:03:24 +0000",
+      "zombie": "2025-05-15 23:04:52 +0000",
       "creeper": "2025-05-15 22:53:35 +0000"
     },
     "done": false
@@ -2225,6 +2237,7 @@
       "spruce_planks": "2025-05-14 02:52:56 +0000",
       "spruce_door": "2025-05-14 05:56:14 +0000",
       "spruce_trapdoor": "2025-05-14 04:59:28 +0000",
+      "spruce_sign": "2025-05-15 23:00:16 +0000",
       "spruce_log": "2025-05-14 02:14:12 +0000"
     },
     "done": false
@@ -3499,7 +3512,8 @@
   },
   "blazeandcave:challenges/i_am_loot": {
     "criteria": {
-      "village_savanna_house": "2025-05-15 16:31:00 +0000"
+      "village_savanna_house": "2025-05-15 16:31:00 +0000",
+      "village_fisher": "2025-05-15 23:02:28 +0000"
     },
     "done": false
   },
@@ -3529,74 +3543,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-15 22:55:07 +0000",
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "requirement": "2025-05-15 23:04:49 +0000",
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 22:54:23 +0000"
+      "log_spam_fixer": "2025-05-15 23:04:23 +0000"
     },
     "done": false
   },
@@ -3605,6 +3619,12 @@
       "creeper": "2025-05-15 22:52:01 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-05-15 23:05:03 +0000"
+    },
+    "done": false
   },
   "blazeandcave:building/slabs_for_days": {
     "criteria": {
@@ -3618,9 +3638,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-15 23:03:15 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/en_garde": {
     "criteria": {
       "fence": "2025-05-15 22:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-15 23:03:15 +0000"
     },
     "done": true
   },
@@ -3647,6 +3679,36 @@
       "iron_shovel": "2025-05-15 22:28:16 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-15 23:03:15 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/out_for_a_stroll": {
+    "criteria": {
+      "trigger": "2025-05-15 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-15 23:03:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/follow_the_leader": {
+    "criteria": {
+      "horse": "2025-05-15 22:58:08 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:animal/lead_the_way": {
+    "criteria": {
+      "lead": "2025-05-15 22:58:08 +0000"
+    },
+    "done": true
   },
   "blazeandcave:mining/aww_it_broke": {
     "criteria": {
