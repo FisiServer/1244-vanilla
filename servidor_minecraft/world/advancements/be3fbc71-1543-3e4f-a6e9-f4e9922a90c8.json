@@ -3860,75 +3860,16 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "blazeandcave:adventure/filthy_rich": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
+      "emeralds": "2025-05-14 05:27:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "blazeandcave:mining/where_are_all_your_clothes": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-14 05:51:46 +0000"
+      "iron_chestplate": "2025-05-14 05:47:38 +0000",
+      "iron_helmet": "2025-05-14 05:30:45 +0000"
     },
     "done": false
   },
@@ -3944,16 +3885,15 @@
     },
     "done": true
   },
-  "blazeandcave:building/let_there_be_light": {
+  "blazeandcave:redstone/master_engineer": {
     "criteria": {
-      "torch": "2025-05-14 05:44:27 +0000"
+      "string": "2025-05-14 05:41:15 +0000"
     },
     "done": false
   },
-  "blazeandcave:mining/where_are_all_your_clothes": {
+  "blazeandcave:building/let_there_be_light": {
     "criteria": {
-      "iron_chestplate": "2025-05-14 05:47:38 +0000",
-      "iron_helmet": "2025-05-14 05:30:45 +0000"
+      "torch": "2025-05-14 05:44:27 +0000"
     },
     "done": false
   },
@@ -3963,15 +3903,75 @@
     },
     "done": true
   },
-  "blazeandcave:adventure/filthy_rich": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "emeralds": "2025-05-14 05:27:26 +0000"
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
     },
-    "done": true
+    "done": false
   },
-  "blazeandcave:redstone/master_engineer": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "string": "2025-05-14 05:41:15 +0000"
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
     },
     "done": false
   },

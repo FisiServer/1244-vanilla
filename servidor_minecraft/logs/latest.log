@@ -470,3 +470,137 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16:33:27] [Server thread/INFO]: Villager class_1646['Villager'/337, l='ServerLevel[world]', x=-904.40, y=59.23, z=721.22] died, message: 'Villager was slain by Zombie Villager'
 [16:33:43] [Server thread/INFO]: Villager class_1646['Villager'/335, l='ServerLevel[world]', x=-906.41, y=59.00, z=722.73] died, message: 'Villager was slain by Zombie Villager'
 [16:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
+[16:40:25] [Server thread/INFO]: Villager class_1646['Farmer'/309, l='ServerLevel[world]', x=-911.07, y=66.00, z=745.11] died, message: 'Farmer was slain by Zombie'
+[16:40:33] [Server thread/INFO]: Villager class_1646['Librarian'/1588, l='ServerLevel[world]', x=-1029.49, y=-8.44, z=707.51] died, message: 'Librarian suffocated in a wall'
+[16:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:43:01] [Server thread/INFO]: Oicapse[/127.13.175.93:36855] logged in with entity id 3750 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:43:01] [Server thread/INFO]: Loading config from file...
+[16:43:01] [Server thread/INFO]: Oicapse joined the game
+[16:43:02] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:43:02] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:43:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[16:43:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[16:43:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[16:43:31] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:43:31] [Server thread/INFO]: Oicapse left the game
+[16:43:31] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[16:43:35] [Server thread/INFO]: BillyVR15[/127.179.181.55:48345] logged in with entity id 4002 at (2030.3264230894276, 77.5, -481.61126898376017)
+[16:43:35] [Server thread/INFO]: Loading config from file...
+[16:43:35] [Server thread/INFO]: BillyVR15 joined the game
+[16:43:37] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[16:43:37] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[16:43:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[16:43:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[16:43:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[16:43:50] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[16:44:09] [Server thread/INFO]: Oicapse[/127.13.175.93:33785] logged in with entity id 4556 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:44:09] [Server thread/INFO]: Loading config from file...
+[16:44:09] [Server thread/INFO]: Oicapse joined the game
+[16:44:10] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:44:10] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:44:25] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[16:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[16:44:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[16:44:39] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:44:39] [Server thread/INFO]: Oicapse left the game
+[16:44:39] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[16:44:43] [Server thread/INFO]: [Not Secure] <Svonccy> f
+[16:44:46] [Server thread/INFO]: [Not Secure] <BillyVR15> ese internet
+[16:45:04] [Server thread/INFO]: [Not Secure] <BillyVR15> ya joy ven
+[16:45:13] [Server thread/INFO]: [BillyVR15: Triggered [TPA] (set value to 12)]
+[16:45:14] [Server thread/INFO]: [Not Secure] <Svonccy> no
+[16:45:15] [Server thread/INFO]: [BillyVR15: Triggered [tpa.want_tp_to] (set value to 1)]
+[16:45:21] [Server thread/INFO]: [Svonccy: Triggered [tpa.accept_tp]]
+[16:45:22] [Server thread/INFO]: Oicapse[/127.13.175.93:39165] logged in with entity id 5365 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:45:22] [Server thread/INFO]: Loading config from file...
+[16:45:22] [Server thread/INFO]: Oicapse joined the game
+[16:45:23] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:45:23] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:45:25] [Server thread/INFO]: [Not Secure] <Svonccy> q
+[16:45:42] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[16:45:47] [Server thread/INFO]: [Svonccy: Triggered [TPA] (added 12 to value)]
+[16:45:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:45:52] [Server thread/INFO]: [Svonccy: Triggered [TPA] (added 1 to value)]
+[16:45:52] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:45:52] [Server thread/INFO]: Oicapse left the game
+[16:45:52] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[16:45:58] [Server thread/INFO]: [Svonccy: Triggered [TPA] (added 1 to value)]
+[16:46:01] [Server thread/INFO]: [Svonccy: Triggered [tpa.want_tp_to] (set value to 2)]
+[16:46:02] [Server thread/INFO]: [BillyVR15: Triggered [tpa.accept_tp]]
+[16:46:30] [Server thread/INFO]: Oicapse[/127.13.175.93:48213] logged in with entity id 5993 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:46:30] [Server thread/INFO]: Loading config from file...
+[16:46:30] [Server thread/INFO]: Oicapse joined the game
+[16:46:31] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:46:31] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:47:00] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:47:00] [Server thread/INFO]: Oicapse left the game
+[16:47:00] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[16:47:26] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[16:47:26] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[16:47:26] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[16:47:26] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[16:47:26] [Server thread/WARN]: BillyVR15 moved too quickly! 1.164479290034933,-1.6754387601295093,-9.961874068254247
+[16:47:53] [Server thread/WARN]: Tried to over-fill a container
+[16:48:00] [Server thread/INFO]: Oicapse[/127.13.175.93:41963] logged in with entity id 7868 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:48:00] [Server thread/INFO]: Loading config from file...
+[16:48:00] [Server thread/INFO]: Oicapse joined the game
+[16:48:00] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:48:00] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:48:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:48:30] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:48:30] [Server thread/INFO]: Oicapse left the game
+[16:48:30] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[16:49:09] [Server thread/INFO]: Oicapse[/127.13.175.93:37385] logged in with entity id 8444 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:49:09] [Server thread/INFO]: Loading config from file...
+[16:49:09] [Server thread/INFO]: Oicapse joined the game
+[16:49:09] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:49:09] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:49:21] [Server thread/INFO]: [Not Secure] <BillyVR15> y no se rinde
+[16:49:37] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[16:49:39] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:49:39] [Server thread/INFO]: Oicapse left the game
+[16:49:39] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[16:49:56] [Server thread/INFO]: [Not Secure] <Svonccy> jsjaj debe tener los shaders activos
+[16:50:16] [Server thread/INFO]: Oicapse[/127.13.175.93:55361] logged in with entity id 9244 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:50:16] [Server thread/INFO]: Loading config from file...
+[16:50:16] [Server thread/INFO]: Oicapse joined the game
+[16:50:17] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:50:17] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:50:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:50:32] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[16:50:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:50:46] [Server thread/INFO]: BillyVR15 lost connection: Disconnected
+[16:50:46] [Server thread/INFO]: BillyVR15 left the game
+[16:50:46] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[16:50:46] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:50:46] [Server thread/INFO]: Oicapse left the game
+[16:50:46] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[16:52:47] [Server thread/INFO]: Oicapse[/127.13.175.93:57409] logged in with entity id 10041 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:52:47] [Server thread/INFO]: Loading config from file...
+[16:52:47] [Server thread/INFO]: Oicapse joined the game
+[16:52:48] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:52:48] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:53:13] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[16:53:17] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:53:17] [Server thread/INFO]: Oicapse left the game
+[16:53:17] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[16:54:37] [Server thread/INFO]: Oicapse[/127.13.175.93:56905] logged in with entity id 10511 at (-341.464495431138, 26.0, 1063.798883173059)
+[16:54:37] [Server thread/INFO]: Loading config from file...
+[16:54:37] [Server thread/INFO]: Oicapse joined the game
+[16:54:38] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[16:54:38] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[16:55:08] [Server thread/INFO]: Oicapse lost connection: Timed out
+[16:55:08] [Server thread/INFO]: Oicapse left the game
+[16:55:08] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[17:02:22] [Server thread/INFO]: Oicapse[/127.13.175.93:56901] logged in with entity id 11553 at (-341.464495431138, 26.0, 1063.798883173059)
+[17:02:22] [Server thread/INFO]: Loading config from file...
+[17:02:22] [Server thread/INFO]: Oicapse joined the game
+[17:02:22] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[17:02:22] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[17:02:36] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[17:02:39] [Server thread/INFO]: [Not Secure] <Oicapse> hola
+[17:02:52] [Server thread/INFO]: Oicapse lost connection: Timed out
+[17:02:52] [Server thread/INFO]: Oicapse left the game
+[17:02:52] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
