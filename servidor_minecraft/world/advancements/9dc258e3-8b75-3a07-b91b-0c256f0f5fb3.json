@@ -212,8 +212,10 @@
       "pork_chop": "2025-05-11 00:48:33 +0000",
       "biomes_root": "2025-05-11 01:07:25 +0000",
       "there_has_to_be_another_way": "2025-05-14 15:50:18 +0000",
+      "ooh_baby": "2025-05-15 18:03:54 +0000",
       "ahoy": "2025-05-11 00:52:23 +0000",
       "stairs_no": "2025-05-14 02:12:48 +0000",
+      "so_good": "2025-05-15 18:08:42 +0000",
       "diamonds": "2025-05-14 02:37:14 +0000",
       "eeuuwww": "2025-05-14 15:49:34 +0000",
       "steals_on_wheels": "2025-05-14 15:53:37 +0000",
@@ -667,6 +669,7 @@
       "iron_horse_armor": "2025-05-11 01:02:05 +0000",
       "clock": "2025-05-14 15:52:12 +0000",
       "diamond_sword": "2025-05-14 03:46:37 +0000",
+      "cooked_chicken": "2025-05-15 18:08:21 +0000",
       "diamond_horse_armor": "2025-05-14 03:11:43 +0000",
       "compass": "2025-05-14 15:52:13 +0000",
       "flint": "2025-05-14 04:53:06 +0000",
@@ -976,6 +979,7 @@
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
       "hey_look_mom": "2025-05-11 01:08:53 +0000",
+      "so_good": "2025-05-15 18:08:42 +0000",
       "foal_play": "2025-05-14 04:40:33 +0000",
       "cowboy": "2025-05-14 03:10:26 +0000",
       "leader_of_the_pack": "2025-05-14 03:17:30 +0000",
@@ -1020,6 +1024,7 @@
       "cooked_porkchop": "2025-05-11 00:48:33 +0000",
       "bread": "2025-05-11 00:12:04 +0000",
       "golden_apple": "2025-05-14 03:30:37 +0000",
+      "cooked_chicken": "2025-05-15 18:08:42 +0000",
       "cooked_mutton": "2025-05-11 00:51:30 +0000",
       "cooked_beef": "2025-05-14 02:44:57 +0000",
       "baked_potato": "2025-05-14 02:18:12 +0000",
@@ -1794,6 +1799,7 @@
   "blazeandcave:farming/meat_lovers": {
     "criteria": {
       "cooked_porkchop": "2025-05-11 00:48:33 +0000",
+      "cooked_chicken": "2025-05-15 18:08:42 +0000",
       "cooked_mutton": "2025-05-11 00:51:30 +0000",
       "cooked_beef": "2025-05-14 02:44:57 +0000"
     },
@@ -2680,6 +2686,7 @@
       "root": "2025-05-11 01:17:07 +0000",
       "there_has_to_be_another_way": "2025-05-14 15:50:18 +0000",
       "aww_man": "2025-05-14 02:25:08 +0000",
+      "ooh_baby": "2025-05-15 18:03:54 +0000",
       "frosty": "2025-05-14 03:30:45 +0000",
       "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
       "blast_shield": "2025-05-15 18:00:36 +0000",
@@ -5203,76 +5210,87 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-15 18:03:34 +0000",
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:12:54 +0000"
     },
     "done": false
+  },
+  "blazeandcave:monsters/ooh_baby": {
+    "criteria": {
+      "zombie": "2025-05-15 18:03:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/so_good": {
+    "criteria": {
+      "cooked_chicken": "2025-05-15 18:08:42 +0000"
+    },
+    "done": true
   },
   "blazeandcave:enchanting/root": {
     "criteria": {
@@ -5285,6 +5303,12 @@
       "has_lapis": "2025-05-15 17:58:34 +0000"
     },
     "done": true
+  },
+  "blazeandcave:monsters/baby_baby_baby_noo": {
+    "criteria": {
+      "zombie": "2025-05-15 18:03:54 +0000"
+    },
+    "done": false
   },
   "blazeandcave:monsters/blast_shield": {
     "criteria": {

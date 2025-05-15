@@ -576,3 +576,11 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [18:07:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [18:07:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [18:07:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[18:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[18:13:42] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[18:16:00] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[18:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2880ms or 57 ticks behind
+[18:17:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[18:18:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[18:18:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[18:18:54] [Server thread/INFO]: Villager class_1646['Villager'/18568, l='ServerLevel[world]', x=2653.17, y=39.05, z=-542.70] died, message: 'Villager drowned'
