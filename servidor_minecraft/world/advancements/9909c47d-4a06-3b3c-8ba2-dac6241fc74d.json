@@ -149,16 +149,22 @@
       "meet_the_flintstones": "2025-05-15 02:43:27 +0000",
       "mining_root": "2025-05-14 15:43:38 +0000",
       "ice_bucket_challenge": "2025-05-14 16:05:23 +0000",
+      "take_aim": "2025-05-15 03:00:39 +0000",
       "aww_man": "2025-05-14 15:44:57 +0000",
       "weaponry_root": "2025-05-14 15:44:20 +0000",
       "suit_up": "2025-05-14 15:54:09 +0000",
+      "tarzan": "2025-05-15 02:55:29 +0000",
       "respecting_the_remnants": "2025-05-14 16:06:27 +0000",
+      "marine_marauder": "2025-05-15 03:18:26 +0000",
       "time_to_chop": "2025-05-14 15:44:29 +0000",
       "not_today_thank_you": "2025-05-14 16:02:39 +0000",
       "spooky_skeleton": "2025-05-14 16:03:14 +0000",
       "ultra_hardcore": "2025-05-15 02:25:40 +0000",
       "viking": "2025-05-14 15:47:59 +0000",
+      "kelp_me": "2025-05-15 03:13:40 +0000",
+      "bow_spammer": "2025-05-15 03:06:06 +0000",
       "wooly": "2025-05-15 02:29:54 +0000",
+      "a_watery_grave": "2025-05-15 02:59:18 +0000",
       "bake_bread": "2025-05-14 15:43:30 +0000",
       "monsters_root": "2025-05-14 15:44:20 +0000",
       "torched": "2025-05-14 15:49:30 +0000",
@@ -171,12 +177,15 @@
       "kilometre_walk": "2025-05-15 02:49:02 +0000",
       "poisonous_ew": "2025-05-14 16:12:58 +0000",
       "getting_wood": "2025-05-14 15:41:22 +0000",
+      "tridented_shield": "2025-05-15 03:12:34 +0000",
       "good_lookin_treasure": "2025-05-14 16:25:27 +0000",
       "isnt_it_iron_pick": "2025-05-14 16:07:04 +0000",
       "just_keep_swimming": "2025-05-14 15:42:24 +0000",
       "gold_rush": "2025-05-15 02:01:58 +0000",
       "spring_in_your_step": "2025-05-15 02:45:29 +0000",
       "overpowered": "2025-05-15 02:01:53 +0000",
+      "the_pie": "2025-05-15 03:08:42 +0000",
+      "youll_never_take_me_alive_copper": "2025-05-15 03:19:35 +0000",
       "getting_an_upgrade": "2025-05-14 15:44:14 +0000",
       "time_to_strike": "2025-05-14 15:44:20 +0000",
       "dead_dont_die": "2025-05-14 15:47:19 +0000",
@@ -187,13 +196,16 @@
       "barking_mad": "2025-05-14 15:41:22 +0000",
       "hot_topic": "2025-05-14 15:51:39 +0000",
       "fossil_fuel": "2025-05-14 15:47:36 +0000",
+      "smooth_operator": "2025-05-15 03:01:56 +0000",
       "the_first_night": "2025-05-14 15:42:54 +0000",
       "sir_knight": "2025-05-14 15:55:22 +0000",
       "cow_tipper": "2025-05-15 02:32:44 +0000",
+      "laser_sharks": "2025-05-15 03:01:31 +0000",
       "building_root": "2025-05-14 15:43:21 +0000",
       "sweet_dreams": "2025-05-14 16:01:40 +0000",
       "heart_of_darkness": "2025-05-14 15:47:36 +0000",
       "ladder_climbers_inc": "2025-05-15 02:42:09 +0000",
+      "point_blank": "2025-05-15 03:07:11 +0000",
       "loser": "2025-05-14 15:48:48 +0000",
       "change_of_sheets": "2025-05-14 15:43:15 +0000",
       "the_sea_calls_you": "2025-05-15 02:29:08 +0000",
@@ -209,8 +221,10 @@
       "time_to_mine": "2025-05-14 15:43:38 +0000",
       "feeling_sheepish": "2025-05-15 02:41:46 +0000",
       "bacon": "2025-05-15 02:30:01 +0000",
+      "pork_chop": "2025-05-15 03:08:00 +0000",
       "biomes_root": "2025-05-14 15:44:57 +0000",
       "there_has_to_be_another_way": "2025-05-14 15:46:06 +0000",
+      "stabcraft": "2025-05-15 02:54:02 +0000",
       "ahoy": "2025-05-15 02:29:10 +0000",
       "bapple": "2025-05-14 15:58:05 +0000"
     },
@@ -222,6 +236,7 @@
       "regeneration": "2025-05-15 02:25:39 +0000",
       "blindness": "2025-05-14 15:39:47 +0000",
       "absorption": "2025-05-15 02:25:39 +0000",
+      "water_breathing": "2025-05-15 03:17:43 +0000",
       "darkness": "2025-05-14 16:04:17 +0000",
       "hunger": "2025-05-15 02:00:34 +0000"
     },
@@ -233,9 +248,13 @@
       "forest": "2025-05-14 15:40:05 +0000",
       "ocean": "2025-05-15 02:29:07 +0000",
       "dark_forest": "2025-05-15 02:47:04 +0000",
+      "windswept_savanna": "2025-05-15 02:50:26 +0000",
+      "plains": "2025-05-15 02:49:44 +0000",
       "beach": "2025-05-14 16:17:56 +0000",
       "birch_forest": "2025-05-15 02:43:19 +0000",
-      "river": "2025-05-14 15:42:24 +0000"
+      "river": "2025-05-14 15:42:24 +0000",
+      "windswept_gravelly_hills": "2025-05-15 02:51:15 +0000",
+      "swamp": "2025-05-15 02:55:25 +0000"
     },
     "done": false
   },
@@ -244,6 +263,7 @@
       "old_growth_birch_forest": "2025-05-15 02:23:36 +0000",
       "forest": "2025-05-14 15:40:05 +0000",
       "dark_forest": "2025-05-15 02:47:04 +0000",
+      "plains": "2025-05-15 02:49:44 +0000",
       "birch_forest": "2025-05-15 02:43:19 +0000"
     },
     "done": false
@@ -251,11 +271,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-05-14 15:40:05 +0000",
+      "windswept_hills": "2025-05-15 02:51:15 +0000",
       "ocean": "2025-05-15 02:29:07 +0000",
       "dark_forest": "2025-05-15 02:47:04 +0000",
+      "plains": "2025-05-15 02:49:44 +0000",
+      "savanna": "2025-05-15 02:50:26 +0000",
       "beach": "2025-05-14 16:17:56 +0000",
       "birch_forest": "2025-05-15 02:23:36 +0000",
-      "river": "2025-05-14 15:42:24 +0000"
+      "river": "2025-05-14 15:42:24 +0000",
+      "swamp": "2025-05-15 02:55:25 +0000"
     },
     "done": false
   },
@@ -378,7 +402,9 @@
       "just_keep_swimming": "2025-05-14 15:42:24 +0000",
       "root": "2025-05-14 15:44:57 +0000",
       "pushed_around": "2025-05-14 16:10:06 +0000",
+      "smooth_operator": "2025-05-15 03:01:56 +0000",
       "boaty_mcboatface": "2025-05-15 02:48:48 +0000",
+      "tarzan": "2025-05-15 02:55:29 +0000",
       "the_sea_calls_you": "2025-05-15 02:29:08 +0000",
       "ahoy": "2025-05-15 02:29:10 +0000"
     },
@@ -568,6 +594,7 @@
       "raw_iron": "2025-05-14 15:47:25 +0000",
       "arrow": "2025-05-14 16:03:14 +0000",
       "iron_chestplate": "2025-05-14 15:53:58 +0000",
+      "cooked_beef": "2025-05-15 03:15:36 +0000",
       "beef": "2025-05-15 02:32:46 +0000",
       "porkchop": "2025-05-15 02:30:03 +0000",
       "iron_axe": "2025-05-15 02:46:05 +0000",
@@ -575,11 +602,13 @@
       "gold_ingot": "2025-05-15 02:01:58 +0000",
       "iron_sword": "2025-05-14 15:54:14 +0000",
       "stick": "2025-05-14 15:43:21 +0000",
+      "diamond_boots": "2025-05-15 03:17:32 +0000",
       "enchanted_book": "2025-05-14 16:25:47 +0000",
       "mutton": "2025-05-15 02:29:56 +0000",
       "suspicious_stew": "2025-05-14 16:07:21 +0000",
       "glow_berries": "2025-05-14 16:07:36 +0000",
       "leather": "2025-05-15 02:32:44 +0000",
+      "diamond_sword": "2025-05-15 02:54:02 +0000",
       "cooked_chicken": "2025-05-15 02:22:25 +0000",
       "flint": "2025-05-15 02:43:27 +0000",
       "coal": "2025-05-14 15:47:36 +0000",
@@ -587,8 +616,10 @@
       "emerald": "2025-05-14 16:06:27 +0000",
       "shield": "2025-05-14 15:55:22 +0000",
       "chicken": "2025-05-14 15:47:54 +0000",
+      "copper_ingot": "2025-05-15 03:19:34 +0000",
       "string": "2025-05-14 15:49:00 +0000",
       "cooked_mutton": "2025-05-15 02:36:35 +0000",
+      "bow": "2025-05-15 02:53:30 +0000",
       "stone_sword": "2025-05-14 15:44:19 +0000",
       "iron_ingot": "2025-05-14 15:53:49 +0000",
       "apple": "2025-05-14 15:42:55 +0000",
@@ -604,6 +635,7 @@
       "brick": "2025-05-14 16:06:27 +0000",
       "stone_pickaxe": "2025-05-14 15:44:13 +0000",
       "iron_helmet": "2025-05-14 16:01:38 +0000",
+      "pumpkin_pie": "2025-05-15 03:08:42 +0000",
       "black_dye": "2025-05-14 15:58:09 +0000",
       "potion": "2025-05-14 16:25:27 +0000",
       "bread": "2025-05-14 15:43:29 +0000",
@@ -613,8 +645,10 @@
       "tnt_minecart": "2025-05-14 16:08:17 +0000",
       "bone": "2025-05-14 16:03:14 +0000",
       "iron_leggings": "2025-05-14 16:01:32 +0000",
+      "kelp": "2025-05-15 03:13:40 +0000",
       "trial_key": "2025-05-14 16:18:44 +0000",
       "golden_carrot": "2025-05-15 02:01:46 +0000",
+      "prismarine_shard": "2025-05-15 03:04:34 +0000",
       "diamond": "2025-05-14 16:17:12 +0000",
       "enchanted_golden_apple": "2025-05-15 02:01:52 +0000",
       "bolt_armor_trim_smithing_template": "2025-05-14 16:25:26 +0000"
@@ -824,7 +858,9 @@
   },
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
+      "kelp_me": "2025-05-15 03:13:40 +0000",
       "bake_bread": "2025-05-14 15:43:30 +0000",
+      "the_pie": "2025-05-15 03:08:42 +0000",
       "bapple": "2025-05-14 15:58:05 +0000",
       "24_carrot_gold": "2025-05-15 02:03:09 +0000",
       "ultra_hardcore": "2025-05-15 02:25:40 +0000"
@@ -835,19 +871,24 @@
     "criteria": {
       "shield": "2025-05-14 15:55:22 +0000",
       "potion": "2025-05-14 16:25:27 +0000",
+      "bread": "2025-05-15 02:55:01 +0000",
       "suspicious_stew": "2025-05-14 16:07:21 +0000",
       "string": "2025-05-15 01:58:11 +0000",
       "wooden_pickaxe": "2025-05-14 15:43:37 +0000",
       "iron_chestplate": "2025-05-14 15:53:58 +0000",
       "tnt_minecart": "2025-05-14 16:08:17 +0000",
       "iron_leggings": "2025-05-14 16:01:32 +0000",
+      "bow": "2025-05-15 02:53:30 +0000",
       "stone_sword": "2025-05-14 15:44:19 +0000",
+      "diamond_sword": "2025-05-15 02:54:02 +0000",
       "iron_axe": "2025-05-15 02:46:05 +0000",
       "spruce_boat": "2025-05-15 02:48:44 +0000",
       "iron_boots": "2025-05-14 15:54:06 +0000",
       "iron_sword": "2025-05-14 15:54:14 +0000",
       "iron_pickaxe": "2025-05-14 16:07:04 +0000",
       "diamond_chestplate": "2025-05-14 16:17:08 +0000",
+      "wheat": "2025-05-15 02:54:30 +0000",
+      "diamond_boots": "2025-05-15 03:17:32 +0000",
       "stone_pickaxe": "2025-05-14 15:44:13 +0000",
       "iron_helmet": "2025-05-14 16:01:38 +0000",
       "stone_axe": "2025-05-14 15:44:29 +0000",
@@ -895,6 +936,8 @@
       "gold_rush": "2025-05-15 02:01:58 +0000",
       "root": "2025-05-14 15:43:38 +0000",
       "heart_of_darkness": "2025-05-14 15:47:36 +0000",
+      "youll_never_take_me_alive_copper": "2025-05-15 03:19:35 +0000",
+      "stabcraft": "2025-05-15 02:54:02 +0000",
       "suit_up": "2025-05-14 15:54:09 +0000",
       "getting_an_upgrade": "2025-05-14 15:44:14 +0000"
     },
@@ -1054,7 +1097,10 @@
   },
   "blazeandcave:bacap/weaponry_milestone": {
     "criteria": {
+      "bow_spammer": "2025-05-15 03:06:06 +0000",
       "root": "2025-05-14 15:44:20 +0000",
+      "take_aim": "2025-05-15 03:00:39 +0000",
+      "point_blank": "2025-05-15 03:07:11 +0000",
       "shield_luck": "2025-05-14 15:55:58 +0000",
       "sir_knight": "2025-05-14 15:55:22 +0000",
       "loser": "2025-05-14 15:48:48 +0000",
@@ -1066,14 +1112,16 @@
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
       "dead_dont_die": "2025-05-14 15:47:19 +0000",
-      "poisonous_ew": "2025-05-14 16:12:58 +0000",
+      "a_watery_grave": "2025-05-15 02:59:18 +0000",
       "iron_belly": "2025-05-15 02:00:34 +0000",
-      "root": "2025-05-14 15:44:20 +0000",
-      "there_has_to_be_another_way": "2025-05-14 15:46:06 +0000",
-      "aww_man": "2025-05-14 15:44:57 +0000",
       "spider_smasher": "2025-05-15 01:58:11 +0000",
       "monster_hunter": "2025-05-14 15:46:06 +0000",
       "ew_ew_ew": "2025-05-14 15:53:14 +0000",
+      "poisonous_ew": "2025-05-14 16:12:58 +0000",
+      "tridented_shield": "2025-05-15 03:12:34 +0000",
+      "root": "2025-05-14 15:44:20 +0000",
+      "there_has_to_be_another_way": "2025-05-14 15:46:06 +0000",
+      "aww_man": "2025-05-14 15:44:57 +0000",
       "not_today_thank_you": "2025-05-14 16:02:39 +0000",
       "spooky_skeleton": "2025-05-14 16:03:14 +0000"
     },
@@ -1089,6 +1137,7 @@
     "criteria": {
       "feeling_sheepish": "2025-05-15 02:41:46 +0000",
       "bacon": "2025-05-15 02:30:01 +0000",
+      "pork_chop": "2025-05-15 03:08:00 +0000",
       "wooly": "2025-05-15 02:29:54 +0000",
       "root": "2025-05-14 15:44:36 +0000",
       "cow_tipper": "2025-05-15 02:32:44 +0000"
@@ -1101,6 +1150,7 @@
       "bread": "2025-05-14 15:44:36 +0000",
       "golden_apple": "2025-05-15 02:25:39 +0000",
       "glow_berries": "2025-05-15 01:57:55 +0000",
+      "pumpkin_pie": "2025-05-15 03:17:05 +0000",
       "golden_carrot": "2025-05-15 02:03:09 +0000"
     },
     "done": false
@@ -1113,12 +1163,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-15 03:07:59 +0000",
       "apple": "2025-05-14 15:58:05 +0000",
       "bread": "2025-05-14 15:44:36 +0000",
       "golden_apple": "2025-05-15 02:25:39 +0000",
       "rotten_flesh": "2025-05-15 02:00:34 +0000",
       "cooked_mutton": "2025-05-15 02:41:45 +0000",
       "glow_berries": "2025-05-15 01:57:55 +0000",
+      "pumpkin_pie": "2025-05-15 03:17:05 +0000",
       "golden_carrot": "2025-05-15 02:03:09 +0000"
     },
     "done": false
@@ -1146,6 +1198,7 @@
       "skeleton": "2025-05-14 16:01:01 +0000",
       "zombie": "2025-05-14 15:47:50 +0000",
       "cave_spider": "2025-05-14 16:28:55 +0000",
+      "drowned": "2025-05-15 03:11:04 +0000",
       "spider": "2025-05-14 16:16:37 +0000",
       "creeper": "2025-05-14 15:44:56 +0000"
     },
@@ -1153,6 +1206,7 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
+      "laser_sharks": "2025-05-15 03:01:31 +0000",
       "good_lookin_treasure": "2025-05-14 16:25:27 +0000",
       "root": "2025-05-14 15:44:57 +0000",
       "overpowered": "2025-05-15 02:01:53 +0000",
@@ -1166,6 +1220,8 @@
     "criteria": {
       "sword": "2025-05-14 15:46:06 +0000",
       "pickaxe": "2025-05-14 15:53:07 +0000",
+      "bow": "2025-05-15 03:00:38 +0000",
+      "tnt": "2025-05-15 03:00:38 +0000",
       "axe": "2025-05-14 15:47:58 +0000"
     },
     "done": false
@@ -1174,8 +1230,10 @@
     "criteria": {
       "minecraft:cave_spider": "2025-05-14 16:12:57 +0000",
       "minecraft:skeleton": "2025-05-14 16:03:14 +0000",
+      "minecraft:guardian": "2025-05-15 03:01:30 +0000",
       "minecraft:spider": "2025-05-14 15:53:14 +0000",
       "minecraft:zombie": "2025-05-14 15:47:19 +0000",
+      "minecraft:drowned": "2025-05-15 02:59:17 +0000",
       "minecraft:zombie_villager": "2025-05-14 15:46:06 +0000"
     },
     "done": false
@@ -1191,6 +1249,7 @@
       "skeleton": "2025-05-14 16:03:14 +0000",
       "zombie": "2025-05-14 15:47:19 +0000",
       "zombie_villager": "2025-05-14 15:46:06 +0000",
+      "drowned": "2025-05-15 02:59:17 +0000",
       "spider": "2025-05-14 15:53:14 +0000"
     },
     "done": false
@@ -1299,6 +1358,7 @@
   },
   "blazeandcave:weaponry/axeman": {
     "criteria": {
+      "iron_axe": "2025-05-15 02:53:29 +0000",
       "stone_axe": "2025-05-14 15:47:58 +0000"
     },
     "done": false
@@ -1619,7 +1679,8 @@
   "blazeandcave:weaponry/master_shieldsman": {
     "criteria": {
       "skeleton": "2025-05-14 16:02:38 +0000",
-      "zombie": "2025-05-14 15:55:57 +0000"
+      "zombie": "2025-05-14 15:55:57 +0000",
+      "drowned": "2025-05-15 03:12:33 +0000"
     },
     "done": false
   },
@@ -1917,6 +1978,7 @@
   },
   "blazeandcave:farming/a_gluttonous_diet": {
     "criteria": {
+      "bread": "2025-05-15 02:55:01 +0000",
       "suspicious_stew": "2025-05-14 16:07:21 +0000"
     },
     "done": false
@@ -2054,9 +2116,11 @@
     "criteria": {
       "efficiency": "2025-05-14 16:17:20 +0000",
       "fortune": "2025-05-14 16:17:20 +0000",
+      "smite": "2025-05-15 03:08:48 +0000",
       "protection": "2025-05-14 16:08:58 +0000",
       "unbreaking_book": "2025-05-14 16:25:47 +0000",
       "projectile_protection": "2025-05-14 16:08:59 +0000",
+      "sharpness": "2025-05-15 03:08:48 +0000",
       "protection_book": "2025-05-15 01:58:19 +0000"
     },
     "done": false
@@ -2075,7 +2139,9 @@
       "protection2_book": "2025-05-15 01:58:19 +0000",
       "projectile_protection4": "2025-05-14 16:08:59 +0000",
       "protection2": "2025-05-14 16:08:58 +0000",
+      "smite2": "2025-05-15 03:08:48 +0000",
       "fortune2": "2025-05-14 16:17:20 +0000",
+      "sharpness2": "2025-05-15 03:08:48 +0000",
       "fortune3": "2025-05-15 02:15:55 +0000",
       "efficiency3": "2025-05-14 16:17:20 +0000"
     },
@@ -2108,7 +2174,8 @@
   },
   "blazeandcave:monsters/dungeon_crawler": {
     "criteria": {
-      "cave_spider": "2025-05-14 16:12:57 +0000"
+      "cave_spider": "2025-05-14 16:12:57 +0000",
+      "guardian": "2025-05-15 03:01:30 +0000"
     },
     "done": false
   },
@@ -2512,6 +2579,7 @@
   },
   "blazeandcave:farming/meat_lovers": {
     "criteria": {
+      "cooked_porkchop": "2025-05-15 03:07:59 +0000",
       "rotten_flesh": "2025-05-15 02:00:34 +0000",
       "cooked_mutton": "2025-05-15 02:41:45 +0000"
     },
@@ -2753,73 +2821,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "requirement": "2025-05-15 03:18:58 +0000",
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
+      "log_spam_fixer": "2025-05-15 03:18:37 +0000"
     },
     "done": false
   },
@@ -2841,9 +2910,33 @@
     },
     "done": true
   },
+  "blazeandcave:biomes/warm_feet": {
+    "criteria": {
+      "windswept_savanna": "2025-05-15 02:50:26 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/high_feet": {
+    "criteria": {
+      "windswept_gravelly_hills": "2025-05-15 02:51:15 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/youll_never_take_me_alive_copper": {
+    "criteria": {
+      "copper_ingot": "2025-05-15 03:19:34 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:biomes/the_sea_calls_you": {
     "criteria": {
       "ocean": "2025-05-15 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
     },
     "done": true
   },
@@ -2865,9 +2958,33 @@
     },
     "done": true
   },
+  "blazeandcave:farming/the_pie": {
+    "criteria": {
+      "pumpkin_pie": "2025-05-15 03:08:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-05-15 03:19:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-15 03:00:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/kelp_me": {
+    "criteria": {
+      "kelp": "2025-05-15 03:13:40 +0000"
     },
     "done": true
   },
@@ -2877,9 +2994,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/marine_marauder": {
+    "criteria": {
+      "water_breathing": "2025-05-15 03:18:25 +0000"
     },
     "done": true
   },
@@ -2895,9 +3024,27 @@
     },
     "done": true
   },
+  "blazeandcave:monsters/tridented_shield": {
+    "criteria": {
+      "deflected_trident": "2025-05-15 03:12:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-15 03:13:40 +0000"
     },
     "done": true
   },
@@ -2913,6 +3060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-15 02:48:44 +0000"
@@ -2925,9 +3078,51 @@
     },
     "done": true
   },
+  "2re:recipes/green": {
+    "criteria": {
+      "requirement": "2025-05-15 03:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/town_planner": {
+    "criteria": {
+      "smoker": "2025-05-15 03:11:50 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/smooth_operator": {
+    "criteria": {
+      "smooth_operator": "2025-05-15 03:01:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/stripper": {
+    "criteria": {
+      "stripped_oak_log": "2025-05-15 02:53:33 +0000"
+    },
+    "done": false
+  },
+  "knize1007:shatter_reality": {
+    "criteria": {
+      "requirement": "2025-05-15 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-15 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/stabcraft": {
+    "criteria": {
+      "diamond_sword": "2025-05-15 02:54:02 +0000"
     },
     "done": true
   },
@@ -2937,9 +3132,29 @@
     },
     "done": true
   },
+  "blazeandcave:biomes/overgrown": {
+    "criteria": {
+      "swamp": "2025-05-15 02:55:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/where_are_all_your_clothes": {
+    "criteria": {
+      "iron_boots": "2025-05-15 03:11:15 +0000",
+      "iron_leggings": "2025-05-15 03:19:24 +0000",
+      "iron_helmet": "2025-05-15 03:10:29 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:monsters/a_watery_grave": {
+    "criteria": {
+      "drowned": "2025-05-15 02:59:17 +0000"
     },
     "done": true
   },
@@ -2973,6 +3188,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-15 03:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-15 03:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-15 02:43:27 +0000"
@@ -2991,9 +3218,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2025-05-15 03:17:18 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:animal/wooly": {
     "criteria": {
       "sheep": "2025-05-15 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/point_blank": {
+    "criteria": {
+      "point_blank": "2025-05-15 03:07:10 +0000"
     },
     "done": true
   },
@@ -3009,9 +3248,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/pork_chop": {
+    "criteria": {
+      "cooked_porkchop": "2025-05-15 03:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:animal/feeling_sheepish": {
     "criteria": {
       "cooked_mutton": "2025-05-15 02:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
     },
     "done": true
   },
@@ -3051,6 +3314,12 @@
     },
     "done": true
   },
+  "blazeandcave:biomes/tarzan": {
+    "criteria": {
+      "enter_vine": "2025-05-15 02:55:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-15 02:29:56 +0000"
@@ -3060,6 +3329,12 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
     },
     "done": true
   },
@@ -3081,9 +3356,21 @@
     },
     "done": true
   },
+  "blazeandcave:bacap/potion_milestone": {
+    "criteria": {
+      "marine_marauder": "2025-05-15 03:18:26 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:building/ladder_climbers_inc": {
     "criteria": {
       "enter_ladder": "2025-05-15 02:42:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/bow_spammer": {
+    "criteria": {
+      "bow_spammer": "2025-05-15 03:06:06 +0000"
     },
     "done": true
   },
@@ -3102,6 +3389,12 @@
   "blazeandcave:animal/bacon": {
     "criteria": {
       "pig": "2025-05-15 02:30:00 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/laser_sharks": {
+    "criteria": {
+      "guardian": "2025-05-15 03:01:30 +0000"
     },
     "done": true
   },
