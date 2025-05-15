@@ -1234,3 +1234,5 @@ java.lang.Throwable
 [22:06:47] [Server thread/DEBUG] [REI] Player Svonccy has outdated displays version 0 [latest version: 6D6EC54E00000001], sending reset packet request.
 [22:19:50] [Server thread/DEBUG] [REI] Player Svonccy has outdated displays version 0 [latest version: 6D6EC54E00000001]
 [22:19:50] [Server thread/DEBUG] [REI] Player Svonccy has outdated displays version 0 [latest version: 6D6EC54E00000001], sending reset packet request.
+[23:13:04] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 6D6EC54E00000001]
+[23:13:04] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 6D6EC54E00000001], sending reset packet request.

@@ -1063,3 +1063,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:05:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [23:05:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [23:05:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:07:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:07:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:07:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:07:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:07:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:13:04] [Server thread/WARN]: Ignored advancement 'tpa:first_join' in progress file ./world/advancements/9dc258e3-8b75-3a07-b91b-0c256f0f5fb3.json - it doesn't exist anymore?
+[23:13:04] [Server thread/INFO]: BillyVR15[/127.179.181.55:51321] logged in with entity id 27747 at (2547.7441667488592, 16.0, -464.95028165369104)
+[23:13:04] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '9dc258e3-8b75-3a07-b91b-0c256f0f5fb3'.
+[23:13:04] [Server thread/INFO]: Loading config from file...
+[23:13:04] [Server thread/INFO]: BillyVR15 joined the game
+[23:13:04] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '9dc258e3-8b75-3a07-b91b-0c256f0f5fb3'.
+[23:13:06] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[23:13:06] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[23:13:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[23:13:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[23:13:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[23:13:17] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[23:13:18] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:13:18] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:13:29] [Server thread/INFO]: [BillyVR15: Triggered [TPA] (set value to 12)]
+[23:14:30] [Server thread/INFO]: [Not Secure] <BillyVR15> 🤡
+[23:14:38] [Server thread/INFO]: [Not Secure] <BillyVR15> joy que fue con el tpa?
+[23:14:40] [Server thread/INFO]: [Not Secure] <Svonccy> ya hay tpa
+[23:14:44] [Server thread/INFO]: [Not Secure] <Svonccy> el de siempre
