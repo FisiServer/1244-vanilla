@@ -582,3 +582,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02:23:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [02:23:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [02:23:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:23:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:23:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d timed out
+[02:23:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Sgirano
+[02:23:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Sgirano
+[02:24:03] [Server thread/INFO]: Sgirano was slain by Zombie
+[02:24:13] [Server thread/INFO]: Sgirano lost connection: Timed out
+[02:24:13] [Server thread/INFO]: Sgirano left the game
+[02:24:13] [Server thread/INFO]: [voicechat] Disconnecting client Sgirano
+[02:25:07] [Server thread/INFO]: Sgirano[/127.172.100.106:35801] logged in with entity id 6362 at (356.4731114805054, 71.0, 46.86732790244449)
+[02:25:07] [Server thread/INFO]: Loading config from file...
+[02:25:07] [Server thread/INFO]: Sgirano joined the game
+[02:25:07] [Server thread/INFO]: [voicechat] Received secret request of Sgirano (18)
+[02:25:07] [Server thread/INFO]: [voicechat] Sent secret to Sgirano
+[02:25:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[02:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[02:25:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[02:25:25] [Server thread/INFO]: [Sgirano: Triggered [login] (set value to 2004)]
+[02:25:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:25:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:25:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:26:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:26:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:26:16] [Server thread/INFO]: Villager class_1646['Farmer'/6670, l='ServerLevel[world]', x=408.40, y=70.00, z=71.35] died, message: 'Farmer was slain by Zombie'
+[02:26:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:27:11] [Server thread/INFO]: Villager class_1646['Farmer'/6693, l='ServerLevel[world]', x=342.59, y=71.00, z=57.70] died, message: 'Farmer was slain by Zombie'
+[02:27:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:27:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:28:28] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:28:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:28:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:28:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:31:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:32:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:32:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[02:32:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
