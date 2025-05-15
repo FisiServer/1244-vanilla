@@ -1187,3 +1187,140 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:25:44] [Server thread/INFO]: [Not Secure] <Svonccy> ta siguiendo un caballo random
 [23:25:48] [Server thread/INFO]: [Not Secure] <BillyVR15> xxdd
 [23:25:49] [Server thread/INFO]: [Not Secure] <Svonccy> q le pasa a la ia de los mobs xd
+[23:29:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:38:31] [Server thread/INFO]: Villager class_1646['Fisherman'/48972, l='ServerLevel[world]', x=1305.39, y=-9.00, z=-249.37] died, message: 'Fisherman was slain by Zombie'
+[23:39:04] [Server thread/INFO]: Villager class_1646['Leatherworker'/48930, l='ServerLevel[world]', x=1273.30, y=-12.00, z=-261.86] died, message: 'Leatherworker was slain by Zombie'
+[23:39:13] [Server thread/INFO]: Villager class_1646['Shepherd'/48860, l='ServerLevel[world]', x=1272.75, y=-12.00, z=-258.24] died, message: 'Shepherd was slain by Zombie Villager'
+[23:39:19] [Server thread/INFO]: Villager class_1646['Librarian'/48861, l='ServerLevel[world]', x=1268.90, y=-12.00, z=-264.30] died, message: 'Librarian was slain by Zombie Villager'
+[23:39:24] [Server thread/INFO]: Villager class_1646['Librarian'/48863, l='ServerLevel[world]', x=1271.70, y=-12.00, z=-262.33] died, message: 'Librarian was slain by Zombie Villager'
+[23:39:35] [Server thread/INFO]: Villager class_1646['Fisherman'/48857, l='ServerLevel[world]', x=1259.70, y=-21.00, z=-266.30] died, message: 'Fisherman was slain by Zombie Villager'
+[23:39:41] [Server thread/INFO]: Villager class_1646['Toolsmith'/48859, l='ServerLevel[world]', x=1269.30, y=-21.00, z=-276.49] died, message: 'Toolsmith was slain by Zombie Villager'
+[23:39:50] [Server thread/INFO]: BillyVR15 drowned
+[23:39:50] [Server thread/INFO]: Created new backpack backup file for BillyVR15 with unique ID travelersbackpack.lapis_15.05.2025-23.39.50.dat
+[23:39:57] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[23:40:17] [Server thread/INFO]: [Not Secure] <Svonccy> jsjsjsj
+[23:41:38] [Server thread/INFO]: [Not Secure] <BillyVR15> mato a un ahogado con tridente y me quedé a medio corazón
+[23:41:50] [Server thread/INFO]: [Not Secure] <BillyVR15> el oxígeno: chau baby
+[23:41:58] [Server thread/INFO]: [Not Secure] <Svonccy> jasjsj quien en su sano juici
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 10.32787787939526,0.0,1.1971228646704049
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 10.725714822210762,0.0,1.2383674855846039
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 11.123571294257204,0.0,1.2794464921947224
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 11.521445722590613,0.0,1.3203726293752425
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 11.919336687836221,0.0,1.3611573679785351
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 12.317242916281998,0.0,1.4018110317713877
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 12.715163261587179,0.0,1.442342912143772
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 13.113096312065522,0.0,1.4827651874405774
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 13.511041173453691,0.0,1.5230850016121167
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 13.908997044640046,0.0,1.5633087846790659
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 14.306962824644472,0.0,1.603446139754226
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 14.704937522584942,0.0,1.6435057096388164
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.102920622922,0.0,1.6834914562938366
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.500911285415725,0.0,1.7234107620439545
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.898909130104641,0.0,1.7632664548870594
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.296913438769025,0.0,1.8030648961153588
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.69492356501121,0.0,1.8428118108917033
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 17.09293892707325,0.0,1.8825123518624878
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 17.490959377627348,0.0,1.9221673398494659
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 17.888984407824182,0.0,1.961781330152121
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 18.287013559699346,0.0,2.0013584225398517
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 18.685046421084962,0.0,2.0409023068050374
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 19.08308262102986,0.0,2.080416303760728
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 10.347146244117027,0.0,1.0431051090858432
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 10.74519349211937,0.0,1.0825193503719674
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 11.143243016273289,0.0,1.1219128520896788
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 11.54129458896358,0.0,1.1612876881962961
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 11.93934800533657,0.0,1.2006457252533664
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 12.337403081023979,0.0,1.2399886431662708
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 12.735459650094299,0.0,1.2793179538497839
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 13.093710552767163,0.0,1.3147143325272737
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 13.416136356631398,0.0,1.3465710724930773
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 13.706319572421933,0.0,1.3752421377027986
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 13.96748445971491,0.0,1.4010460957079545
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 14.202532852051945,0.0,1.4242696572973728
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 14.414076399551277,0.0,1.445170862174166
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 14.604465587257096,0.0,1.463981946064962
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 14.775815851653078,0.0,1.4809119211182065
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 14.93003108552415,0.0,1.4961488982624473
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.068824792331384,0.0,1.509862177329012
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.193739125148795,0.0,1.5222041281619454
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.306162021706257,0.0,1.5333118836173298
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.407342625927583,0.0,1.5433088632623821
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.498405167314445,0.0,1.5523061447045734
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.580361452391514,0.0,1.5604036977880469
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.654122107006913,0.0,1.5676914953700702
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.720506694402161,0.0,1.5742505130201607
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.780252821475187,0.0,1.5801536287488602
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.834024334416426,0.0,1.5854664327639512
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.882418694781506,0.0,1.5902479562508915
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.925973617956288,0.0,1.5945513272750986
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 15.965173047775181,0.0,1.5984243610943167
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.00045253367756,0.0,1.6019100914392652
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.032204070148566,0.0,1.605047248666608
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.100587462657472,0.0,1.61179137559634
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.201939524727152,0.0,1.6217817751722237
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.33296338861544,0.0,1.6346938200522345
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.490691873433093,0.0,1.650235345636304
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.672454516450443,0.0,1.668143403791305
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 16.87584790127454,0.0,1.6881813412037445
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! 17.098708953208927,0.0,1.7101361698971118
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.33909090507848,0.0,-1.7338162006976177
+[23:41:59] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -17.082945444773088,0.0,-1.7085300608596867
+[23:42:00] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -16.812612827251314,0.0,-1.681798422926363
+[23:42:00] [Server thread/WARN]: Oak Boat (vehicle of BillyVR15) moved too quickly! -16.529511768573002,0.0,-1.6537658367416839
+[23:42:03] [Server thread/INFO]: [Not Secure] <Svonccy> muere ahogado
+[23:42:04] [Server thread/INFO]: [Not Secure] <Svonccy> xDDD
+[23:42:15] [Server thread/INFO]: [Not Secure] <BillyVR15> xd
+[23:42:22] [Server thread/INFO]: [Not Secure] <BillyVR15> tenía mochila de calamar
+[23:42:31] [Server thread/INFO]: [Not Secure] <BillyVR15> pero lo cambié por una de lapiz
+[23:43:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:29] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:37] [Server thread/INFO]: [Not Secure] <Svonccy> ya vi al esqueleto con escudo
+[23:43:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:39] [Server thread/INFO]: [Not Secure] <Svonccy> q miedo
+[23:43:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:43:57] [Server thread/INFO]: BillyVR15 was killed by Witch using magic
+[23:44:02] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[23:44:02] [Server thread/INFO]: [Not Secure] <Svonccy> waos
+[23:44:07] [Server thread/INFO]: [Not Secure] <BillyVR15> ni bien me vió
+[23:46:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:46:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:46:47] [Server thread/INFO]: Villager class_1646['Fisherman'/55969, l='ServerLevel[world]', x=779.52, y=-8.05, z=-506.51] died, message: 'Fisherman drowned'
+[23:46:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:49:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:49:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:49:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:52:04] [Server thread/INFO]: [Not Secure] <Svonccy> waos
+[23:54:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:54:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:55:18] [Server thread/INFO]: [Not Secure] <BillyVR15> caballo de 13,38
+[23:55:22] [Server thread/INFO]: [Not Secure] <Svonccy> ._.
+[23:55:29] [Server thread/INFO]: [Not Secure] <BillyVR15> salto 3
+[23:55:29] [Server thread/INFO]: [Not Secure] <Svonccy> increible
