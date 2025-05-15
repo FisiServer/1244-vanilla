@@ -145,6 +145,8 @@
       "fortunate_son": "2025-05-15 02:15:55 +0000",
       "under_lock_and_key": "2025-05-14 16:25:25 +0000",
       "24_carrot_gold": "2025-05-15 02:03:09 +0000",
+      "smokin_hot": "2025-05-15 02:42:04 +0000",
+      "meet_the_flintstones": "2025-05-15 02:43:27 +0000",
       "mining_root": "2025-05-14 15:43:38 +0000",
       "ice_bucket_challenge": "2025-05-14 16:05:23 +0000",
       "aww_man": "2025-05-14 15:44:57 +0000",
@@ -166,12 +168,14 @@
       "adventure_root": "2025-05-14 15:44:57 +0000",
       "stone_age": "2025-05-14 15:43:43 +0000",
       "aww_it_broke": "2025-05-14 16:03:23 +0000",
+      "kilometre_walk": "2025-05-15 02:49:02 +0000",
       "poisonous_ew": "2025-05-14 16:12:58 +0000",
       "getting_wood": "2025-05-14 15:41:22 +0000",
       "good_lookin_treasure": "2025-05-14 16:25:27 +0000",
       "isnt_it_iron_pick": "2025-05-14 16:07:04 +0000",
       "just_keep_swimming": "2025-05-14 15:42:24 +0000",
       "gold_rush": "2025-05-15 02:01:58 +0000",
+      "spring_in_your_step": "2025-05-15 02:45:29 +0000",
       "overpowered": "2025-05-15 02:01:53 +0000",
       "getting_an_upgrade": "2025-05-14 15:44:14 +0000",
       "time_to_strike": "2025-05-14 15:44:20 +0000",
@@ -189,6 +193,7 @@
       "building_root": "2025-05-14 15:43:21 +0000",
       "sweet_dreams": "2025-05-14 16:01:40 +0000",
       "heart_of_darkness": "2025-05-14 15:47:36 +0000",
+      "ladder_climbers_inc": "2025-05-15 02:42:09 +0000",
       "loser": "2025-05-14 15:48:48 +0000",
       "change_of_sheets": "2025-05-14 15:43:15 +0000",
       "the_sea_calls_you": "2025-05-15 02:29:08 +0000",
@@ -197,10 +202,12 @@
       "animal_root": "2025-05-14 15:44:36 +0000",
       "pushed_around": "2025-05-14 16:10:06 +0000",
       "your_daily_fix": "2025-05-15 02:28:20 +0000",
+      "boaty_mcboatface": "2025-05-15 02:48:48 +0000",
       "shield_luck": "2025-05-14 15:55:58 +0000",
       "monster_hunter": "2025-05-14 15:46:06 +0000",
       "statistics_root": "2025-05-14 15:42:55 +0000",
       "time_to_mine": "2025-05-14 15:43:38 +0000",
+      "feeling_sheepish": "2025-05-15 02:41:46 +0000",
       "bacon": "2025-05-15 02:30:01 +0000",
       "biomes_root": "2025-05-14 15:44:57 +0000",
       "there_has_to_be_another_way": "2025-05-14 15:46:06 +0000",
@@ -225,7 +232,9 @@
       "old_growth_birch_forest": "2025-05-15 02:23:36 +0000",
       "forest": "2025-05-14 15:40:05 +0000",
       "ocean": "2025-05-15 02:29:07 +0000",
+      "dark_forest": "2025-05-15 02:47:04 +0000",
       "beach": "2025-05-14 16:17:56 +0000",
+      "birch_forest": "2025-05-15 02:43:19 +0000",
       "river": "2025-05-14 15:42:24 +0000"
     },
     "done": false
@@ -233,7 +242,9 @@
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
       "old_growth_birch_forest": "2025-05-15 02:23:36 +0000",
-      "forest": "2025-05-14 15:40:05 +0000"
+      "forest": "2025-05-14 15:40:05 +0000",
+      "dark_forest": "2025-05-15 02:47:04 +0000",
+      "birch_forest": "2025-05-15 02:43:19 +0000"
     },
     "done": false
   },
@@ -241,6 +252,7 @@
     "criteria": {
       "forest": "2025-05-14 15:40:05 +0000",
       "ocean": "2025-05-15 02:29:07 +0000",
+      "dark_forest": "2025-05-15 02:47:04 +0000",
       "beach": "2025-05-14 16:17:56 +0000",
       "birch_forest": "2025-05-15 02:23:36 +0000",
       "river": "2025-05-14 15:42:24 +0000"
@@ -305,6 +317,7 @@
       "waxed_copper_bulb": "2025-05-14 16:15:04 +0000",
       "hay_block": "2025-05-14 15:42:51 +0000",
       "yellow_bed": "2025-05-14 15:43:15 +0000",
+      "smoker": "2025-05-15 02:42:03 +0000",
       "deepslate_bricks": "2025-05-15 02:04:33 +0000",
       "cobblestone": "2025-05-14 15:43:43 +0000",
       "cake": "2025-05-15 02:01:43 +0000",
@@ -347,6 +360,7 @@
       "sweet_dreams": "2025-05-14 16:01:40 +0000",
       "root": "2025-05-14 15:43:21 +0000",
       "barking_mad": "2025-05-14 15:41:22 +0000",
+      "ladder_climbers_inc": "2025-05-15 02:42:09 +0000",
       "torched": "2025-05-14 15:49:30 +0000",
       "change_of_sheets": "2025-05-14 15:43:15 +0000"
     },
@@ -360,9 +374,11 @@
   },
   "blazeandcave:bacap/biomes_milestone": {
     "criteria": {
+      "kilometre_walk": "2025-05-15 02:49:02 +0000",
       "just_keep_swimming": "2025-05-14 15:42:24 +0000",
       "root": "2025-05-14 15:44:57 +0000",
       "pushed_around": "2025-05-14 16:10:06 +0000",
+      "boaty_mcboatface": "2025-05-15 02:48:48 +0000",
       "the_sea_calls_you": "2025-05-15 02:29:08 +0000",
       "ahoy": "2025-05-15 02:29:10 +0000"
     },
@@ -487,6 +503,7 @@
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
       "root": "2025-05-14 15:42:55 +0000",
+      "spring_in_your_step": "2025-05-15 02:45:29 +0000",
       "the_first_night": "2025-05-14 15:42:54 +0000"
     },
     "done": false
@@ -553,6 +570,8 @@
       "iron_chestplate": "2025-05-14 15:53:58 +0000",
       "beef": "2025-05-15 02:32:46 +0000",
       "porkchop": "2025-05-15 02:30:03 +0000",
+      "iron_axe": "2025-05-15 02:46:05 +0000",
+      "spruce_boat": "2025-05-15 02:48:44 +0000",
       "gold_ingot": "2025-05-15 02:01:58 +0000",
       "iron_sword": "2025-05-14 15:54:14 +0000",
       "stick": "2025-05-14 15:43:21 +0000",
@@ -562,6 +581,7 @@
       "glow_berries": "2025-05-14 16:07:36 +0000",
       "leather": "2025-05-15 02:32:44 +0000",
       "cooked_chicken": "2025-05-15 02:22:25 +0000",
+      "flint": "2025-05-15 02:43:27 +0000",
       "coal": "2025-05-14 15:47:36 +0000",
       "stone_axe": "2025-05-14 15:44:29 +0000",
       "emerald": "2025-05-14 16:06:27 +0000",
@@ -822,6 +842,8 @@
       "tnt_minecart": "2025-05-14 16:08:17 +0000",
       "iron_leggings": "2025-05-14 16:01:32 +0000",
       "stone_sword": "2025-05-14 15:44:19 +0000",
+      "iron_axe": "2025-05-15 02:46:05 +0000",
+      "spruce_boat": "2025-05-15 02:48:44 +0000",
       "iron_boots": "2025-05-14 15:54:06 +0000",
       "iron_sword": "2025-05-14 15:54:14 +0000",
       "iron_pickaxe": "2025-05-14 16:07:04 +0000",
@@ -864,8 +886,10 @@
       "fossil_fuel": "2025-05-14 15:47:36 +0000",
       "deep_slate_nine": "2025-05-14 16:04:18 +0000",
       "cover_me_with_diamonds": "2025-05-14 16:17:13 +0000",
+      "smokin_hot": "2025-05-15 02:42:04 +0000",
       "stone_age": "2025-05-14 15:43:43 +0000",
       "aww_it_broke": "2025-05-14 16:03:23 +0000",
+      "meet_the_flintstones": "2025-05-15 02:43:27 +0000",
       "isnt_it_iron_pick": "2025-05-14 16:07:04 +0000",
       "ice_bucket_challenge": "2025-05-14 16:05:23 +0000",
       "gold_rush": "2025-05-15 02:01:58 +0000",
@@ -1063,6 +1087,7 @@
   },
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
+      "feeling_sheepish": "2025-05-15 02:41:46 +0000",
       "bacon": "2025-05-15 02:30:01 +0000",
       "wooly": "2025-05-15 02:29:54 +0000",
       "root": "2025-05-14 15:44:36 +0000",
@@ -1092,6 +1117,7 @@
       "bread": "2025-05-14 15:44:36 +0000",
       "golden_apple": "2025-05-15 02:25:39 +0000",
       "rotten_flesh": "2025-05-15 02:00:34 +0000",
+      "cooked_mutton": "2025-05-15 02:41:45 +0000",
       "glow_berries": "2025-05-15 01:57:55 +0000",
       "golden_carrot": "2025-05-15 02:03:09 +0000"
     },
@@ -1714,7 +1740,8 @@
   "blazeandcave:mining/moar_broken_tools": {
     "criteria": {
       "shield": "2025-05-14 16:03:22 +0000",
-      "iron_sword": "2025-05-15 02:05:31 +0000"
+      "iron_sword": "2025-05-15 02:05:31 +0000",
+      "stone_axe": "2025-05-15 02:45:37 +0000"
     },
     "done": false
   },
@@ -2393,6 +2420,7 @@
   },
   "blazeandcave:building/spruce_lee": {
     "criteria": {
+      "spruce_boat": "2025-05-15 02:48:44 +0000",
       "spruce_planks": "2025-05-15 01:57:36 +0000",
       "spruce_log": "2025-05-14 16:28:13 +0000"
     },
@@ -2484,7 +2512,8 @@
   },
   "blazeandcave:farming/meat_lovers": {
     "criteria": {
-      "rotten_flesh": "2025-05-15 02:00:34 +0000"
+      "rotten_flesh": "2025-05-15 02:00:34 +0000",
+      "cooked_mutton": "2025-05-15 02:41:45 +0000"
     },
     "done": false
   },
@@ -2724,79 +2753,85 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 02:38:34 +0000"
+      "log_spam_fixer": "2025-05-15 02:48:34 +0000"
     },
     "done": false
   },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-15 02:43:27 +0000"
     },
     "done": true
   },
@@ -2824,15 +2859,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-15 02:32:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
     },
     "done": true
   },
@@ -2851,6 +2910,18 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-15 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/smokin_hot": {
+    "criteria": {
+      "smoker": "2025-05-15 02:42:03 +0000"
     },
     "done": true
   },
@@ -2902,9 +2973,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-15 02:43:27 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:animal/cow_tipper": {
     "criteria": {
       "leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
     },
     "done": true
   },
@@ -2914,9 +2997,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-15 02:30:03 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/feeling_sheepish": {
+    "criteria": {
+      "cooked_mutton": "2025-05-15 02:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_pos_x": "2025-05-15 02:49:01 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/meet_the_flintstones": {
+    "criteria": {
+      "flint": "2025-05-15 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/boaty_mcboatface": {
+    "criteria": {
+      "boat": "2025-05-15 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
     },
     "done": true
   },
@@ -2938,15 +3069,33 @@
     },
     "done": true
   },
+  "blazeandcave:challenges/i_am_loot": {
+    "criteria": {
+      "village_fletcher": "2025-05-15 02:43:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-05-15 02:29:56 +0000"
     },
     "done": true
   },
+  "blazeandcave:building/ladder_climbers_inc": {
+    "criteria": {
+      "enter_ladder": "2025-05-15 02:42:08 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:biomes/ahoy": {
     "criteria": {
       "shipwreck": "2025-05-15 02:29:09 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/spring_in_your_step": {
+    "criteria": {
+      "trigger": "2025-05-15 02:45:28 +0000"
     },
     "done": true
   },
