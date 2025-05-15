@@ -540,3 +540,26 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [17:46:06] [Worker-Main-3/WARN]: Empty height range: [-55 absolute--60 absolute]
 [17:46:06] [Worker-Main-3/WARN]: Empty height range: [-55 absolute--60 absolute]
 [17:46:06] [Worker-Main-3/WARN]: Empty height range: [-55 absolute--60 absolute]
+[17:50:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[17:50:33] [Server thread/INFO]: BillyVR15 lost connection: Disconnected
+[17:50:33] [Server thread/INFO]: BillyVR15 left the game
+[17:50:33] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[17:50:51] [Server thread/INFO]: BillyVR15[/127.179.181.55:45713] logged in with entity id 5914 at (22.782315518325774, 67.0, -537.1062567389656)
+[17:50:51] [Server thread/INFO]: Loading config from file...
+[17:50:51] [Server thread/INFO]: BillyVR15 joined the game
+[17:50:51] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[17:50:51] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[17:50:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[17:50:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[17:50:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[17:50:55] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[17:51:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[17:53:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[17:54:31] [Server thread/INFO]: Sgirano was slain by Cave Spider
+[17:54:31] [Server thread/INFO]: Created new backpack backup file for Sgirano with unique ID travelersbackpack.squid_15.05.2025-17.54.31.dat
+[17:54:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[17:55:05] [Server thread/INFO]: Sgirano was slain by Cave Spider
+[17:55:28] [Server thread/INFO]: Villager class_1646['Vagabond'/6016, l='ServerLevel[world]', x=-36.68, y=64.00, z=-620.77] died, message: 'Vagabond was slain by Zombie'
+[17:55:28] [Server thread/INFO]: Named entity class_1646['Vagabond'/6016, l='ServerLevel[world]', x=-36.68, y=64.00, z=-620.77] died: Vagabond was slain by Zombie
+[17:56:08] [Server thread/INFO]: Sgirano was slain by Cave Spider
+[17:56:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'

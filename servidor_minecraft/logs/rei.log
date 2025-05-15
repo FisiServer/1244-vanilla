@@ -1228,3 +1228,5 @@ java.lang.Throwable
 [17:39:16] [Server thread/DEBUG] [REI] Player Sgirano has outdated displays version 0 [latest version: 7F238BF100000001], sending reset packet request.
 [17:41:31] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 7F238BF100000001]
 [17:41:31] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 7F238BF100000001], sending reset packet request.
+[17:50:51] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 7F238BF100000001]
+[17:50:51] [Server thread/DEBUG] [REI] Player BillyVR15 has outdated displays version 0 [latest version: 7F238BF100000001], sending reset packet request.
