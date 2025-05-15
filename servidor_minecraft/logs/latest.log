@@ -604,3 +604,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17:02:52] [Server thread/INFO]: Oicapse lost connection: Timed out
 [17:02:52] [Server thread/INFO]: Oicapse left the game
 [17:02:52] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[17:08:46] [Server thread/INFO]: BillyVR15[/127.179.181.55:58413] logged in with entity id 12417 at (-446.3261548630967, 63.0, 94.50783331294731)
+[17:08:46] [Server thread/INFO]: Loading config from file...
+[17:08:46] [Server thread/INFO]: BillyVR15 joined the game
+[17:08:46] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[17:08:46] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[17:08:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[17:08:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[17:08:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[17:10:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 timed out
+[17:10:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player BillyVR15
+[17:10:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to BillyVR15
+[17:10:46] [Server thread/INFO]: BillyVR15 lost connection: Timed out
+[17:10:46] [Server thread/INFO]: BillyVR15 left the game
+[17:10:46] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[17:11:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[17:11:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[17:12:25] [Server thread/INFO]: Svonccy lost connection: Disconnected
+[17:12:25] [Server thread/INFO]: Svonccy left the game
+[17:12:25] [Server thread/INFO]: [voicechat] Disconnecting client Svonccy
+[17:12:28] [Server thread/INFO]: BillyVR15[/127.179.181.55:47739] logged in with entity id 14031 at (-446.3261548630967, 63.0, 94.50783331294731)
+[17:12:28] [Server thread/INFO]: Loading config from file...
+[17:12:28] [Server thread/INFO]: BillyVR15 joined the game
+[17:12:30] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[17:12:30] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[17:12:40] [Server thread/INFO]: BillyVR15 lost connection: Disconnected
+[17:12:40] [Server thread/INFO]: BillyVR15 left the game
+[17:12:40] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[17:13:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
