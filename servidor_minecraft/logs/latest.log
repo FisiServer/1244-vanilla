@@ -445,3 +445,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16:24:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
 [16:24:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Svonccy (c063cfc5-1a13-3b54-afbf-11d6f3d038d1) successfully connected to voice chat
 [16:25:20] [Server thread/INFO]: [Svonccy: Triggered [login] (set value to 4321)]
+[16:28:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:29:31] [Worker-Main-4/WARN]: Empty height range: [-55 absolute--60 absolute]
+[16:29:31] [Worker-Main-4/WARN]: Empty height range: [-55 absolute--60 absolute]
+[16:29:31] [Worker-Main-4/WARN]: Empty height range: [-55 absolute--60 absolute]
+[16:29:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:30:18] [Server thread/WARN]: Svonccy moved too quickly! -7.1538111486494245,-0.23152379758701613,6.989580181985161
+[16:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21542ms or 430 ticks behind
+[16:30:40] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[16:30:47] [Server thread/WARN]: Svonccy moved too quickly! -0.36748593474203517,1.0244240882136921,-10.089558991892204
+[16:30:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:30:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:30:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[16:30:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16215ms or 324 ticks behind
+[16:31:15] [Server thread/INFO]: Villager class_1646['Villager'/336, l='ServerLevel[world]', x=-911.08, y=59.00, z=745.30] died, message: 'Villager was slain by Zombie'
+[16:31:36] [Server thread/INFO]: Villager class_1646['Villager'/308, l='ServerLevel[world]', x=-916.24, y=58.00, z=749.18] died, message: 'Villager was slain by Zombie'
+[16:31:47] [Server thread/INFO]: Villager class_1646['Fisherman'/342, l='ServerLevel[world]', x=-914.26, y=59.00, z=745.30] died, message: 'Fisherman was slain by Zombie Villager'
+[16:32:02] [Server thread/INFO]: Villager class_1646['Weaponsmith'/381, l='ServerLevel[world]', x=-907.63, y=59.00, z=732.58] died, message: 'Weaponsmith was slain by Zombie Villager'
+[16:32:07] [Server thread/INFO]: Villager class_1646['Villager'/339, l='ServerLevel[world]', x=-909.37, y=59.00, z=728.28] died, message: 'Villager was slain by Zombie Villager'
+[16:32:15] [Server thread/INFO]: Villager class_1646['Villager'/340, l='ServerLevel[world]', x=-908.08, y=59.23, z=724.89] died, message: 'Villager was slain by Zombie Villager'
+[16:32:41] [Server thread/INFO]: Villager class_1646['Shepherd'/375, l='ServerLevel[world]', x=-911.68, y=59.00, z=738.09] died, message: 'Shepherd was slain by Zombie Villager'
+[16:33:01] [Server thread/INFO]: Villager class_1646['Villager'/338, l='ServerLevel[world]', x=-918.60, y=58.00, z=753.14] died, message: 'Villager was slain by Zombie Villager'
+[16:33:03] [Server thread/INFO]: Villager class_1646['Cartographer'/1272, l='ServerLevel[world]', x=-911.17, y=59.00, z=760.54] died, message: 'Cartographer was slain by Zombie Villager'
+[16:33:27] [Server thread/INFO]: Villager class_1646['Villager'/337, l='ServerLevel[world]', x=-904.40, y=59.23, z=721.22] died, message: 'Villager was slain by Zombie Villager'
+[16:33:43] [Server thread/INFO]: Villager class_1646['Villager'/335, l='ServerLevel[world]', x=-906.41, y=59.00, z=722.73] died, message: 'Villager was slain by Zombie Villager'
+[16:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind

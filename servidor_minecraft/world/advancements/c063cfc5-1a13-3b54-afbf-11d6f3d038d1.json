@@ -173,6 +173,7 @@
       "milk_does_your_body_good": "2025-05-12 00:42:56 +0000",
       "sweet_dreams": "2025-05-12 00:39:09 +0000",
       "heart_of_darkness": "2025-05-11 01:02:43 +0000",
+      "ladder_climbers_inc": "2025-05-15 16:30:57 +0000",
       "a_seedy_place": "2025-05-12 00:46:35 +0000",
       "the_sea_calls_you": "2025-05-12 00:41:44 +0000",
       "diam_oh_wait_no": "2025-05-14 03:02:34 +0000",
@@ -180,10 +181,12 @@
       "iron_man": "2025-05-14 03:37:02 +0000",
       "animal_root": "2025-05-11 04:44:02 +0000",
       "for_you_my_sweet": "2025-05-14 02:10:16 +0000",
+      "quicksand": "2025-05-15 16:29:35 +0000",
       "high_steaks": "2025-05-14 02:19:37 +0000",
       "pushed_around": "2025-05-11 04:45:22 +0000",
       "boaty_mcboatface": "2025-05-14 02:53:13 +0000",
       "shield_luck": "2025-05-14 02:03:24 +0000",
+      "laps_in_the_pool": "2025-05-15 16:28:54 +0000",
       "monster_hunter": "2025-05-11 04:48:29 +0000",
       "statistics_root": "2025-05-11 01:08:55 +0000",
       "time_to_mine": "2025-05-10 23:49:41 +0000",
@@ -290,6 +293,7 @@
       "spruce_sapling": "2025-05-14 02:14:13 +0000",
       "furnace": "2025-05-12 00:33:52 +0000",
       "poppy": "2025-05-14 02:10:16 +0000",
+      "soul_sand": "2025-05-15 16:29:34 +0000",
       "oak_sapling": "2025-05-10 23:46:15 +0000",
       "spruce_door": "2025-05-14 05:56:14 +0000",
       "tripwire_hook": "2025-05-14 03:55:53 +0000",
@@ -378,6 +382,7 @@
       "iron_helmet": "2025-05-14 03:34:15 +0000",
       "pumpkin_pie": "2025-05-14 03:59:59 +0000",
       "wooden_hoe": "2025-05-14 02:43:28 +0000",
+      "pufferfish": "2025-05-15 16:28:53 +0000",
       "bread": "2025-05-12 00:48:09 +0000",
       "rotten_flesh": "2025-05-12 00:42:16 +0000",
       "wooden_pickaxe": "2025-05-10 23:49:41 +0000",
@@ -580,6 +585,7 @@
       "camping_out": "2025-05-14 04:07:15 +0000",
       "sweet_dreams": "2025-05-12 00:39:09 +0000",
       "root": "2025-05-10 23:49:26 +0000",
+      "ladder_climbers_inc": "2025-05-15 16:30:57 +0000",
       "classy_glassy": "2025-05-14 03:39:40 +0000",
       "i_dont_like_sand": "2025-05-14 03:38:41 +0000",
       "your_door_was_locked": "2025-05-11 04:47:52 +0000",
@@ -1107,6 +1113,7 @@
       "root": "2025-05-11 01:08:55 +0000",
       "spring_in_your_step": "2025-05-14 02:13:38 +0000",
       "the_first_night": "2025-05-11 01:08:54 +0000",
+      "laps_in_the_pool": "2025-05-15 16:28:54 +0000",
       "horse_training": "2025-05-14 04:14:41 +0000"
     },
     "done": false
@@ -3435,75 +3442,123 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-14 16:44:28 +0000"
+      "log_spam_fixer": "2025-05-15 16:34:30 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-15 16:29:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/quicksand": {
+    "criteria": {
+      "soul_sand": "2025-05-15 16:29:34 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/soul_sand": {
+    "criteria": {
+      "requirement": "2025-05-15 16:29:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/laps_in_the_pool": {
+    "criteria": {
+      "trigger": "2025-05-15 16:28:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/nether_milestone": {
+    "criteria": {
+      "quicksand": "2025-05-15 16:29:35 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/i_am_loot": {
+    "criteria": {
+      "village_savanna_house": "2025-05-15 16:31:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-15 16:29:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/ladder_climbers_inc": {
+    "criteria": {
+      "enter_ladder": "2025-05-15 16:30:57 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4189
 }
