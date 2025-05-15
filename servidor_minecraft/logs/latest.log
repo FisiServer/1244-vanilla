@@ -466,3 +466,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:08:32] [Server thread/INFO]: Svonccy left the game
 [22:08:32] [Server thread/INFO]: [voicechat] Disconnecting client Svonccy
 [22:09:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:19:50] [Server thread/INFO]: Svonccy[/127.98.116.40:35939] logged in with entity id 400 at (-753.1252531448135, 70.0, 607.8035772223932)
+[22:19:50] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[22:19:50] [Server thread/INFO]: Loading config from file...
+[22:19:50] [Server thread/INFO]: Svonccy joined the game
+[22:19:50] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[22:19:51] [Server thread/INFO]: [voicechat] Received secret request of Svonccy (18)
+[22:19:51] [Server thread/INFO]: [voicechat] Sent secret to Svonccy
+[22:19:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[22:19:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[22:19:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Svonccy (c063cfc5-1a13-3b54-afbf-11d6f3d038d1) successfully connected to voice chat
+[22:20:15] [Server thread/INFO]: [Svonccy: Triggered [login] (set value to 4321)]
