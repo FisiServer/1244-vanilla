@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "tpa:first_join": {
-    "criteria": {
-      "tick": "2025-05-10 23:45:26 +0000"
-    },
-    "done": true
-  },
   "auth:tick": {
     "criteria": {
       "requirements": "2025-05-10 23:45:26 +0000"
@@ -3443,77 +3437,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "blazeandcave:statistics/laps_in_the_pool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
+      "trigger": "2025-05-15 16:28:53 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 17:11:36 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
@@ -3527,33 +3455,15 @@
     },
     "done": true
   },
-  "blazeandcave:farming/sugar_sugar": {
-    "criteria": {
-      "sugar_cane": "2025-05-15 16:41:25 +0000"
-    },
-    "done": true
-  },
   "2re:recipes/soul_sand": {
     "criteria": {
       "requirement": "2025-05-15 16:29:34 +0000"
     },
     "done": true
   },
-  "2re:recipes/sugar_cane": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "requirement": "2025-05-15 16:41:25 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:statistics/laps_in_the_pool": {
-    "criteria": {
-      "trigger": "2025-05-15 16:28:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-05-15 16:41:25 +0000"
+      "has_soul_sand": "2025-05-15 16:29:34 +0000"
     },
     "done": true
   },
@@ -3563,9 +3473,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+  "blazeandcave:building/ladder_climbers_inc": {
     "criteria": {
-      "has_sugar_cane": "2025-05-15 16:41:25 +0000"
+      "enter_ladder": "2025-05-15 16:30:57 +0000"
     },
     "done": true
   },
@@ -3575,17 +3485,101 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "blazeandcave:farming/sugar_sugar": {
     "criteria": {
-      "has_soul_sand": "2025-05-15 16:29:34 +0000"
+      "sugar_cane": "2025-05-15 16:41:25 +0000"
     },
     "done": true
   },
-  "blazeandcave:building/ladder_climbers_inc": {
+  "2re:recipes/sugar_cane": {
     "criteria": {
-      "enter_ladder": "2025-05-15 16:30:57 +0000"
+      "requirement": "2025-05-15 16:41:25 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-15 16:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-15 16:41:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 22:07:47 +0000"
+    },
+    "done": false
   },
   "DataVersion": 4189
 }
