@@ -145,6 +145,7 @@
       "deep_slate_nine": "2025-05-14 02:31:10 +0000",
       "under_lock_and_key": "2025-05-14 04:07:00 +0000",
       "24_carrot_gold": "2025-05-15 03:24:34 +0000",
+      "enchanting_root": "2025-05-15 17:59:51 +0000",
       "mining_root": "2025-05-11 00:13:11 +0000",
       "full_stomach": "2025-05-14 04:20:01 +0000",
       "time_to_dig": "2025-05-14 03:12:54 +0000",
@@ -175,6 +176,7 @@
       "spring_in_your_step": "2025-05-14 02:06:29 +0000",
       "overpowered": "2025-05-14 16:20:55 +0000",
       "the_pie": "2025-05-11 00:41:26 +0000",
+      "blast_shield": "2025-05-15 18:00:36 +0000",
       "getting_an_upgrade": "2025-05-11 00:43:36 +0000",
       "now_youre_thinking_with_portals": "2025-05-14 04:53:04 +0000",
       "leveraging_synergy": "2025-05-11 01:02:30 +0000",
@@ -787,6 +789,7 @@
       "lantern": "2025-05-11 01:02:49 +0000",
       "smithing_table": "2025-05-14 03:15:23 +0000",
       "sunflower": "2025-05-14 02:08:01 +0000",
+      "lapis_block": "2025-05-15 17:56:40 +0000",
       "dark_prismarine": "2025-05-14 05:01:18 +0000",
       "ladder": "2025-05-15 16:48:39 +0000",
       "granite": "2025-05-14 04:35:08 +0000",
@@ -1097,6 +1100,7 @@
       "shears": "2025-05-14 04:38:15 +0000",
       "diamond_helmet": "2025-05-15 02:47:08 +0000",
       "iron_sword": "2025-05-11 01:17:07 +0000",
+      "lapis_lazuli": "2025-05-15 17:56:24 +0000",
       "iron_pickaxe": "2025-05-11 00:43:28 +0000",
       "diamond_chestplate": "2025-05-14 02:37:31 +0000",
       "diamond_boots": "2025-05-14 15:54:43 +0000",
@@ -1999,6 +2003,7 @@
       "projectile_protection_book": "2025-05-11 01:14:01 +0000",
       "vanishing_curse": "2025-05-14 04:21:54 +0000",
       "unbreaking_book": "2025-05-14 16:25:30 +0000",
+      "sharpness": "2025-05-15 17:59:52 +0000",
       "power": "2025-05-11 01:06:36 +0000"
     },
     "done": false
@@ -2021,6 +2026,7 @@
       "protection3": "2025-05-14 04:21:54 +0000",
       "efficiency5_book": "2025-05-14 15:54:15 +0000",
       "thorns3": "2025-05-11 00:52:47 +0000",
+      "sharpness4": "2025-05-15 17:59:52 +0000",
       "binding_curse": "2025-05-14 04:53:09 +0000",
       "efficiency3_book": "2025-05-11 01:14:01 +0000",
       "vanishing_curse": "2025-05-14 04:21:54 +0000",
@@ -2054,6 +2060,7 @@
     "criteria": {
       "heavy_metal": "2025-05-14 03:26:48 +0000",
       "curses": "2025-05-14 04:53:09 +0000",
+      "root": "2025-05-15 17:59:51 +0000",
       "unbreakable": "2025-05-11 00:52:47 +0000",
       "librarian": "2025-05-14 04:12:43 +0000",
       "super_efficient": "2025-05-14 15:54:15 +0000"
@@ -2675,6 +2682,7 @@
       "aww_man": "2025-05-14 02:25:08 +0000",
       "frosty": "2025-05-14 03:30:45 +0000",
       "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
+      "blast_shield": "2025-05-15 18:00:36 +0000",
       "spooky_skeleton": "2025-05-14 02:18:03 +0000",
       "bogged_down": "2025-05-14 15:50:32 +0000"
     },
@@ -3821,7 +3829,8 @@
     "criteria": {
       "copper_block": "2025-05-14 04:23:34 +0000",
       "iron_block": "2025-05-14 03:26:24 +0000",
-      "diamond_block": "2025-05-14 16:13:46 +0000"
+      "diamond_block": "2025-05-14 16:13:46 +0000",
+      "lapis_block": "2025-05-15 17:56:40 +0000"
     },
     "done": false
   },
@@ -4628,7 +4637,8 @@
   "blazeandcave:weaponry/master_shieldsman": {
     "criteria": {
       "zombie": "2025-05-14 15:48:31 +0000",
-      "drowned": "2025-05-15 03:27:46 +0000"
+      "drowned": "2025-05-15 03:27:46 +0000",
+      "creeper": "2025-05-15 18:00:35 +0000"
     },
     "done": false
   },
@@ -5193,75 +5203,106 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "requirement": "2025-05-15 18:03:34 +0000",
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:52:52 +0000"
+      "log_spam_fixer": "2025-05-15 18:02:52 +0000"
     },
     "done": false
+  },
+  "blazeandcave:enchanting/root": {
+    "criteria": {
+      "enchanted_item": "2025-05-15 17:59:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis_smithing": {
+    "criteria": {
+      "has_lapis": "2025-05-15 17:58:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/blast_shield": {
+    "criteria": {
+      "deflected_explosion": "2025-05-15 18:00:35 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/lapis_block": {
+    "criteria": {
+      "requirement": "2025-05-15 17:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-15 17:56:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4189
 }
