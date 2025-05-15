@@ -151,6 +151,7 @@
       "not_today_thank_you": "2025-05-14 16:02:39 +0000",
       "spooky_skeleton": "2025-05-14 16:03:14 +0000",
       "ultra_hardcore": "2025-05-15 02:25:40 +0000",
+      "local_brewery": "2025-05-15 17:40:01 +0000",
       "click": "2025-05-14 16:13:44 +0000",
       "ew_ew_ew": "2025-05-14 15:53:14 +0000",
       "bombs_away": "2025-05-14 16:08:29 +0000",
@@ -195,6 +196,7 @@
       "ice_bucket_challenge": "2025-05-14 16:05:23 +0000",
       "weaponry_root": "2025-05-14 15:44:20 +0000",
       "respecting_the_remnants": "2025-05-14 16:06:27 +0000",
+      "under_pressure": "2025-05-15 17:40:34 +0000",
       "time_to_chop": "2025-05-14 15:44:29 +0000",
       "viking": "2025-05-14 15:47:59 +0000",
       "kelp_me": "2025-05-15 03:13:40 +0000",
@@ -348,6 +350,7 @@
       "damaged_anvil": "2025-05-14 16:07:09 +0000",
       "bone_block": "2025-05-14 16:05:35 +0000",
       "polished_deepslate": "2025-05-14 16:08:37 +0000",
+      "brewing_stand": "2025-05-15 17:40:01 +0000",
       "waxed_copper_bulb": "2025-05-14 16:15:04 +0000",
       "hay_block": "2025-05-14 15:42:51 +0000",
       "yellow_bed": "2025-05-14 15:43:15 +0000",
@@ -640,6 +643,7 @@
       "spider_eye": "2025-05-14 16:12:40 +0000",
       "tipped_arrow": "2025-05-15 03:31:53 +0000",
       "iron_boots": "2025-05-14 15:54:06 +0000",
+      "potato": "2025-05-15 17:40:57 +0000",
       "lapis_lazuli": "2025-05-15 02:15:55 +0000",
       "ender_pearl": "2025-05-15 02:19:22 +0000",
       "miner_pottery_sherd": "2025-05-14 16:06:27 +0000",
@@ -1898,6 +1902,7 @@
     "criteria": {
       "all_aboard": "2025-05-14 16:06:16 +0000",
       "mobile_explosion": "2025-05-14 16:08:18 +0000",
+      "under_pressure": "2025-05-15 17:40:34 +0000",
       "click": "2025-05-14 16:13:44 +0000"
     },
     "done": false
@@ -2848,77 +2853,96 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "blazeandcave:farming/ultra_hardcore": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "golden_apple": "2025-05-15 02:25:39 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/saplings": {
+    "criteria": {
+      "requirement": "2025-05-15 02:26:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/your_daily_fix": {
+    "criteria": {
+      "iron_golem": "2025-05-15 02:28:19 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/the_sea_calls_you": {
+    "criteria": {
+      "ocean": "2025-05-15 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/raidin_master": {
+    "criteria": {
+      "shipwreck": "2025-05-15 02:29:09 +0000",
+      "village_plains": "2025-05-15 03:36:11 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "blazeandcave:biomes/ahoy": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "shipwreck": "2025-05-15 02:29:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "blazeandcave:animal/wooly": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "sheep": "2025-05-15 02:29:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "has_mutton": "2025-05-15 02:29:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "has_mutton": "2025-05-15 02:29:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "has_mutton": "2025-05-15 02:29:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "blazeandcave:animal/bacon": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "pig": "2025-05-15 02:30:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "has_porkchop": "2025-05-15 02:30:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "has_porkchop": "2025-05-15 02:30:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "travelersbackpack:recipes/misc/pig": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "has_porkchop": "2025-05-15 02:30:03 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
+      "has_porkchop": "2025-05-15 02:30:03 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 03:36:39 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
@@ -2926,9 +2950,107 @@
     },
     "done": true
   },
-  "blazeandcave:potion/furious_ammunition": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "wind_charged": "2025-05-15 03:31:53 +0000"
+      "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/cow_tipper": {
+    "criteria": {
+      "leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/leather": {
+    "criteria": {
+      "requirement": "2025-05-15 02:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-15 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-15 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-15 02:32:46 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/dirt": {
+    "criteria": {
+      "requirement": "2025-05-15 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/feeling_sheepish": {
+    "criteria": {
+      "cooked_mutton": "2025-05-15 02:41:45 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/smokin_hot": {
+    "criteria": {
+      "smoker": "2025-05-15 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/ladder_climbers_inc": {
+    "criteria": {
+      "enter_ladder": "2025-05-15 02:42:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/i_am_loot": {
+    "criteria": {
+      "village_plains_house": "2025-05-15 17:40:10 +0000",
+      "village_fletcher": "2025-05-15 02:43:22 +0000",
+      "village_temple": "2025-05-15 03:36:24 +0000"
     },
     "done": false
   },
@@ -2938,9 +3060,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "has_mutton": "2025-05-15 02:29:56 +0000"
+      "has_flint": "2025-05-15 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/meet_the_flintstones": {
+    "criteria": {
+      "flint": "2025-05-15 02:43:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/spring_in_your_step": {
+    "criteria": {
+      "trigger": "2025-05-15 02:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-15 02:48:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/boaty_mcboatface": {
+    "criteria": {
+      "boat": "2025-05-15 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_pos_x": "2025-05-15 02:49:01 +0000"
     },
     "done": true
   },
@@ -2957,196 +3163,9 @@
     },
     "done": false
   },
-  "blazeandcave:mining/youll_never_take_me_alive_copper": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "copper_ingot": "2025-05-15 03:19:34 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/the_sea_calls_you": {
-    "criteria": {
-      "ocean": "2025-05-15 02:29:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-15 03:30:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/your_daily_fix": {
-    "criteria": {
-      "iron_golem": "2025-05-15 02:28:19 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/raidin_master": {
-    "criteria": {
-      "shipwreck": "2025-05-15 02:29:09 +0000",
-      "village_plains": "2025-05-15 03:36:11 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/the_pie": {
-    "criteria": {
-      "pumpkin_pie": "2025-05-15 03:08:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-05-15 02:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-15 03:00:38 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/kelp_me": {
-    "criteria": {
-      "kelp": "2025-05-15 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:potion/marine_marauder": {
-    "criteria": {
-      "water_breathing": "2025-05-15 03:18:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-05-15 02:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/tridented_shield": {
-    "criteria": {
-      "deflected_trident": "2025-05-15 03:12:33 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2025-05-15 02:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-05-15 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-05-15 02:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-05-15 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/i_hereby_dub_thee": {
-    "criteria": {
-      "name_tag": "2025-05-15 03:19:52 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/hard_mode_activated": {
-    "criteria": {
-      "trial_omen": "2025-05-15 03:23:04 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/smokin_hot": {
-    "criteria": {
-      "smoker": "2025-05-15 02:42:03 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/green": {
-    "criteria": {
-      "requirement": "2025-05-15 03:13:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-05-15 02:32:44 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/town_planner": {
-    "criteria": {
-      "smoker": "2025-05-15 03:11:50 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:biomes/smooth_operator": {
-    "criteria": {
-      "smooth_operator": "2025-05-15 03:01:55 +0000"
+      "has_bow": "2025-05-15 02:53:30 +0000"
     },
     "done": true
   },
@@ -3156,33 +3175,9 @@
     },
     "done": false
   },
-  "blazeandcave:biomes/free_diver": {
-    "criteria": {
-      "trigger": "2025-05-15 03:24:57 +0000"
-    },
-    "done": true
-  },
-  "knize1007:shatter_reality": {
-    "criteria": {
-      "requirement": "2025-05-15 03:04:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-15 02:53:30 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:mining/stabcraft": {
     "criteria": {
       "diamond_sword": "2025-05-15 02:54:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-05-15 02:30:03 +0000"
     },
     "done": true
   },
@@ -3192,9 +3187,81 @@
     },
     "done": false
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "blazeandcave:biomes/tarzan": {
     "criteria": {
-      "has_leather": "2025-05-15 02:32:44 +0000"
+      "enter_vine": "2025-05-15 02:55:28 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/a_watery_grave": {
+    "criteria": {
+      "drowned": "2025-05-15 02:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-15 03:00:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/laser_sharks": {
+    "criteria": {
+      "guardian": "2025-05-15 03:01:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/smooth_operator": {
+    "criteria": {
+      "smooth_operator": "2025-05-15 03:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "knize1007:shatter_reality": {
+    "criteria": {
+      "requirement": "2025-05-15 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/bow_spammer": {
+    "criteria": {
+      "bow_spammer": "2025-05-15 03:06:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/point_blank": {
+    "criteria": {
+      "point_blank": "2025-05-15 03:07:10 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/pork_chop": {
+    "criteria": {
+      "cooked_porkchop": "2025-05-15 03:07:59 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/the_pie": {
+    "criteria": {
+      "pumpkin_pie": "2025-05-15 03:08:42 +0000"
     },
     "done": true
   },
@@ -3207,51 +3274,33 @@
     },
     "done": false
   },
-  "blazeandcave:monsters/a_watery_grave": {
+  "blazeandcave:adventure/town_planner": {
     "criteria": {
-      "drowned": "2025-05-15 02:59:17 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/saplings": {
-    "criteria": {
-      "requirement": "2025-05-15 02:26:57 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:enchanting/scuba_gear": {
-    "criteria": {
-      "aqua_affinity_book": "2025-05-15 03:24:57 +0000"
+      "smoker": "2025-05-15 03:11:50 +0000"
     },
     "done": false
   },
-  "travelersbackpack:recipes/misc/pig": {
+  "blazeandcave:monsters/tridented_shield": {
     "criteria": {
-      "has_porkchop": "2025-05-15 02:30:03 +0000"
+      "deflected_trident": "2025-05-15 03:12:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "blazeandcave:farming/kelp_me": {
     "criteria": {
-      "has_beef": "2025-05-15 02:32:46 +0000"
+      "kelp": "2025-05-15 03:13:40 +0000"
     },
     "done": true
   },
-  "blazeandcave:farming/ultra_hardcore": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "golden_apple": "2025-05-15 02:25:39 +0000"
+      "has_kelp": "2025-05-15 03:13:40 +0000"
     },
     "done": true
   },
-  "2re:recipes/prismarine_crystals": {
+  "2re:recipes/green": {
     "criteria": {
-      "requirement": "2025-05-15 03:24:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-05-15 02:32:44 +0000"
+      "requirement": "2025-05-15 03:13:40 +0000"
     },
     "done": true
   },
@@ -3267,184 +3316,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-05-15 02:43:27 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/cow_tipper": {
-    "criteria": {
-      "leather": "2025-05-15 02:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/squid_smithing": {
     "criteria": {
       "has_squid": "2025-05-15 03:17:18 +0000"
     },
     "done": true
   },
-  "blazeandcave:animal/wooly": {
+  "blazeandcave:potion/marine_marauder": {
     "criteria": {
-      "sheep": "2025-05-15 02:29:54 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:weaponry/point_blank": {
-    "criteria": {
-      "point_blank": "2025-05-15 03:07:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-05-15 02:30:03 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:statistics/laps_in_the_pool": {
-    "criteria": {
-      "trigger": "2025-05-15 03:26:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/pork_chop": {
-    "criteria": {
-      "cooked_porkchop": "2025-05-15 03:07:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-15 03:04:34 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/feeling_sheepish": {
-    "criteria": {
-      "cooked_mutton": "2025-05-15 02:41:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/copper_trapdoor": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/kilometre_walk": {
-    "criteria": {
-      "outer_pos_x": "2025-05-15 02:49:01 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-05-15 03:30:38 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/meet_the_flintstones": {
-    "criteria": {
-      "flint": "2025-05-15 02:43:27 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/boaty_mcboatface": {
-    "criteria": {
-      "boat": "2025-05-15 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-15 02:48:44 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/tarzan": {
-    "criteria": {
-      "enter_vine": "2025-05-15 02:55:28 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:enchanting/fiery": {
-    "criteria": {
-      "fire_protection": "2025-05-15 03:20:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-05-15 02:29:56 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_leather": "2025-05-15 02:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/copper_door": {
-    "criteria": {
-      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/leather": {
-    "criteria": {
-      "requirement": "2025-05-15 02:32:44 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:challenges/i_am_loot": {
-    "criteria": {
-      "village_fletcher": "2025-05-15 02:43:22 +0000",
-      "village_temple": "2025-05-15 03:36:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-05-15 02:29:56 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/do_you_want_to_trade": {
-    "criteria": {
-      "village": "2025-05-15 03:36:11 +0000"
+      "water_breathing": "2025-05-15 03:18:25 +0000"
     },
     "done": true
   },
@@ -3454,27 +3334,63 @@
     },
     "done": false
   },
-  "blazeandcave:building/ladder_climbers_inc": {
+  "blazeandcave:mining/youll_never_take_me_alive_copper": {
     "criteria": {
-      "enter_ladder": "2025-05-15 02:42:08 +0000"
+      "copper_ingot": "2025-05-15 03:19:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
-      "has_cod": "2025-05-15 03:30:38 +0000"
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
     },
     "done": true
   },
-  "blazeandcave:weaponry/bow_spammer": {
+  "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
-      "bow_spammer": "2025-05-15 03:06:06 +0000"
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
     },
     "done": true
   },
-  "blazeandcave:biomes/ahoy": {
+  "minecraft:recipes/tools/brush": {
     "criteria": {
-      "shipwreck": "2025-05-15 02:29:09 +0000"
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-15 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/i_hereby_dub_thee": {
+    "criteria": {
+      "name_tag": "2025-05-15 03:19:52 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/fiery": {
+    "criteria": {
+      "fire_protection": "2025-05-15 03:20:25 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/hard_mode_activated": {
+    "criteria": {
+      "trial_omen": "2025-05-15 03:23:04 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/prismarine_crystals": {
+    "criteria": {
+      "requirement": "2025-05-15 03:24:54 +0000"
     },
     "done": true
   },
@@ -3484,15 +3400,39 @@
     },
     "done": true
   },
-  "blazeandcave:statistics/spring_in_your_step": {
+  "blazeandcave:biomes/free_diver": {
     "criteria": {
-      "trigger": "2025-05-15 02:45:28 +0000"
+      "trigger": "2025-05-15 03:24:57 +0000"
     },
     "done": true
   },
-  "blazeandcave:animal/bacon": {
+  "blazeandcave:enchanting/scuba_gear": {
     "criteria": {
-      "pig": "2025-05-15 02:30:00 +0000"
+      "aqua_affinity_book": "2025-05-15 03:24:57 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/laps_in_the_pool": {
+    "criteria": {
+      "trigger": "2025-05-15 03:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-15 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-05-15 03:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-15 03:30:38 +0000"
     },
     "done": true
   },
@@ -3502,21 +3442,124 @@
     },
     "done": true
   },
-  "blazeandcave:adventure/laser_sharks": {
+  "blazeandcave:potion/furious_ammunition": {
     "criteria": {
-      "guardian": "2025-05-15 03:01:30 +0000"
+      "wind_charged": "2025-05-15 03:31:53 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/do_you_want_to_trade": {
+    "criteria": {
+      "village": "2025-05-15 03:36:11 +0000"
     },
     "done": true
   },
-  "2re:recipes/dirt": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "requirement": "2025-05-15 02:33:17 +0000"
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-15 17:42:56 +0000",
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_beef": "2025-05-15 02:32:46 +0000"
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-15 17:42:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "brewing_stand": "2025-05-15 17:40:01 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/under_pressure": {
+    "criteria": {
+      "oak_pressure_plate": "2025-05-15 17:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-15 17:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-15 17:40:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/nether_milestone": {
+    "criteria": {
+      "local_brewery": "2025-05-15 17:40:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-15 17:40:57 +0000"
     },
     "done": true
   },
