@@ -107,6 +107,7 @@
       "under_lock_and_key": "2025-05-16 00:29:42 +0000",
       "24_carrot_gold": "2025-05-16 00:30:30 +0000",
       "smokin_hot": "2025-05-16 05:35:31 +0000",
+      "enchanting_root": "2025-05-16 21:00:45 +0000",
       "mining_root": "2025-05-10 23:49:41 +0000",
       "full_stomach": "2025-05-16 19:59:42 +0000",
       "time_to_dig": "2025-05-14 03:53:02 +0000",
@@ -179,6 +180,7 @@
       "mannequin": "2025-05-16 05:42:31 +0000",
       "strike_a_light": "2025-05-14 03:54:51 +0000",
       "the_mighty_jungle": "2025-05-14 03:21:48 +0000",
+      "galileo_figaro": "2025-05-16 21:02:27 +0000",
       "meet_the_flintstones": "2025-05-14 03:54:10 +0000",
       "mollusc_man": "2025-05-14 05:42:36 +0000",
       "ice_bucket_challenge": "2025-05-16 06:33:12 +0000",
@@ -521,6 +523,7 @@
       "iron_shovel": "2025-05-14 03:53:01 +0000",
       "diamond": "2025-05-14 03:06:58 +0000",
       "sugar_cane": "2025-05-15 16:41:25 +0000",
+      "spyglass": "2025-05-16 21:02:25 +0000",
       "charcoal": "2025-05-14 05:01:29 +0000",
       "carrot": "2025-05-15 23:03:11 +0000"
     },
@@ -906,6 +909,7 @@
       "sugar_cane": "2025-05-16 19:43:07 +0000",
       "golden_helmet": "2025-05-16 00:15:38 +0000",
       "leather_leggings": "2025-05-16 01:07:35 +0000",
+      "spyglass": "2025-05-16 21:02:25 +0000",
       "flint_and_steel": "2025-05-14 03:54:49 +0000",
       "stone_axe": "2025-05-11 04:43:10 +0000",
       "music_disc_far": "2025-05-16 00:27:51 +0000",
@@ -934,6 +938,7 @@
       "my_work_here_is_done": "2025-05-14 03:21:33 +0000",
       "iconic_merchandising_prop": "2025-05-14 03:37:51 +0000",
       "strike_a_light": "2025-05-14 03:54:51 +0000",
+      "galileo_figaro": "2025-05-16 21:02:27 +0000",
       "smokin_hot": "2025-05-16 05:35:31 +0000",
       "meet_the_flintstones": "2025-05-14 03:54:10 +0000",
       "seeing_red": "2025-05-16 00:31:49 +0000",
@@ -3006,6 +3011,7 @@
     "criteria": {
       "pick_like_silk": "2025-05-14 03:26:33 +0000",
       "heavy_metal": "2025-05-16 02:00:06 +0000",
+      "root": "2025-05-16 21:00:45 +0000",
       "librarian": "2025-05-16 19:44:01 +0000"
     },
     "done": false
@@ -5159,74 +5165,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-16 20:53:41 +0000",
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
@@ -5242,9 +5247,21 @@
     },
     "done": true
   },
+  "blazeandcave:mining/galileo_figaro": {
+    "criteria": {
+      "spyglass": "2025-05-16 21:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-05-16 20:25:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/root": {
+    "criteria": {
+      "enchanted_item": "2025-05-16 21:00:45 +0000"
     },
     "done": true
   },

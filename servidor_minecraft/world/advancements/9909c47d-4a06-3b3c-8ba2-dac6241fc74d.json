@@ -298,11 +298,13 @@
       "what_a_pane": "2025-05-16 02:25:06 +0000",
       "iron_man": "2025-05-14 16:01:43 +0000",
       "pushed_around": "2025-05-14 16:10:06 +0000",
+      "super_efficient": "2025-05-16 21:01:23 +0000",
       "boaty_mcboatface": "2025-05-15 02:48:48 +0000",
       "laps_in_the_pool": "2025-05-15 03:26:31 +0000",
       "monster_hunter": "2025-05-14 15:46:06 +0000",
       "the_great_blocky_reef": "2025-05-16 19:43:39 +0000",
       "riot_shield": "2025-05-15 18:08:29 +0000",
+      "like_a_cat": "2025-05-16 20:56:11 +0000",
       "feeling_sheepish": "2025-05-15 02:41:46 +0000",
       "creepy_heads": "2025-05-16 02:26:40 +0000",
       "my_eyes": "2025-05-16 01:03:41 +0000",
@@ -914,7 +916,8 @@
       "diamond": "2025-05-14 16:17:12 +0000",
       "enchanted_golden_apple": "2025-05-15 02:01:52 +0000",
       "bolt_armor_trim_smithing_template": "2025-05-14 16:25:26 +0000",
-      "dune_armor_trim": "2025-05-16 20:31:02 +0000"
+      "dune_armor_trim": "2025-05-16 20:31:02 +0000",
+      "carrot": "2025-05-16 20:59:07 +0000"
     },
     "done": false
   },
@@ -1492,7 +1495,8 @@
       "golden_apple": "2025-05-15 02:25:39 +0000",
       "glow_berries": "2025-05-15 01:57:55 +0000",
       "pumpkin_pie": "2025-05-15 03:17:05 +0000",
-      "golden_carrot": "2025-05-15 02:03:09 +0000"
+      "golden_carrot": "2025-05-15 02:03:09 +0000",
+      "carrot": "2025-05-16 21:01:44 +0000"
     },
     "done": false
   },
@@ -1514,7 +1518,8 @@
       "glow_berries": "2025-05-15 01:57:55 +0000",
       "cooked_beef": "2025-05-16 01:01:39 +0000",
       "pumpkin_pie": "2025-05-15 03:17:05 +0000",
-      "golden_carrot": "2025-05-15 02:03:09 +0000"
+      "golden_carrot": "2025-05-15 02:03:09 +0000",
+      "carrot": "2025-05-16 21:01:44 +0000"
     },
     "done": false
   },
@@ -2506,6 +2511,7 @@
       "smite": "2025-05-15 03:08:48 +0000",
       "unbreaking": "2025-05-16 01:59:13 +0000",
       "flame_book": "2025-05-15 18:11:07 +0000",
+      "feather_falling": "2025-05-16 20:56:10 +0000",
       "protection": "2025-05-14 16:08:58 +0000",
       "projectile_protection": "2025-05-14 16:08:59 +0000",
       "knockback": "2025-05-16 02:39:22 +0000",
@@ -2558,6 +2564,7 @@
       "quick_charge1_book": "2025-05-15 18:10:54 +0000",
       "smite2": "2025-05-15 03:08:48 +0000",
       "aqua_affinity_book": "2025-05-15 03:24:57 +0000",
+      "feather_falling1": "2025-05-16 20:56:10 +0000",
       "unbreaking2_book": "2025-05-14 16:25:47 +0000",
       "knockback2_book": "2025-05-15 18:11:07 +0000",
       "fire_protection1": "2025-05-15 03:20:25 +0000",
@@ -2571,11 +2578,13 @@
       "protection2": "2025-05-14 16:08:58 +0000",
       "protection3": "2025-05-16 01:59:08 +0000",
       "unbreaking3": "2025-05-16 01:59:13 +0000",
+      "unbreaking2": "2025-05-16 20:56:15 +0000",
       "sharpness3": "2025-05-16 19:26:39 +0000",
       "power4_book": "2025-05-15 18:11:07 +0000",
       "aqua_affinity": "2025-05-16 01:59:08 +0000",
       "sharpness2": "2025-05-15 03:08:48 +0000",
       "knockback1": "2025-05-16 02:39:22 +0000",
+      "efficiency5": "2025-05-16 21:01:22 +0000",
       "fortune2": "2025-05-14 16:17:20 +0000",
       "efficiency4_book": "2025-05-15 18:18:09 +0000",
       "fire_protection4": "2025-05-16 01:59:13 +0000",
@@ -2594,6 +2603,7 @@
   "blazeandcave:enchanting/master_enchanter": {
     "criteria": {
       "riptide_book": "2025-05-16 20:31:43 +0000",
+      "efficiency": "2025-05-16 21:01:22 +0000",
       "fortune": "2025-05-15 02:15:55 +0000",
       "fire_protection": "2025-05-16 01:59:13 +0000",
       "silk_touch_book": "2025-05-16 20:45:29 +0000",
@@ -3260,9 +3270,11 @@
   },
   "blazeandcave:bacap/enchanting_milestone": {
     "criteria": {
+      "like_a_cat": "2025-05-16 20:56:11 +0000",
       "armor_for_the_masses": "2025-05-16 00:37:37 +0000",
       "heavy_metal": "2025-05-15 18:04:35 +0000",
       "root": "2025-05-16 01:59:05 +0000",
+      "super_efficient": "2025-05-16 21:01:23 +0000",
       "fortunate_son": "2025-05-15 02:15:55 +0000"
     },
     "done": false
@@ -5425,74 +5437,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-16 20:53:51 +0000",
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
@@ -5541,6 +5552,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-16 19:10:58 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/super_efficient": {
+    "criteria": {
+      "efficiency": "2025-05-16 21:01:22 +0000"
     },
     "done": true
   },
@@ -5771,6 +5788,12 @@
       "jungle_log": "2025-05-16 19:39:05 +0000"
     },
     "done": false
+  },
+  "blazeandcave:enchanting/like_a_cat": {
+    "criteria": {
+      "feather_falling": "2025-05-16 20:56:10 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
@@ -6015,6 +6038,12 @@
   "blazeandcave:monsters/termite_control": {
     "criteria": {
       "silverfish": "2025-05-16 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-16 20:59:07 +0000"
     },
     "done": true
   },

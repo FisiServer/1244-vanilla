@@ -128,6 +128,7 @@
   "blazeandcave:bacap/advancement_legend": {
     "criteria": {
       "naturally_carved": "2025-05-14 04:33:40 +0000",
+      "armor_for_the_masses": "2025-05-16 20:58:17 +0000",
       "allayance": "2025-05-16 19:57:06 +0000",
       "benchmarking": "2025-05-11 00:11:49 +0000",
       "humble_bundle": "2025-05-11 01:13:54 +0000",
@@ -239,6 +240,7 @@
       "spooky_skeleton": "2025-05-14 02:18:03 +0000",
       "cowboy": "2025-05-14 03:10:26 +0000",
       "leader_of_the_pack": "2025-05-14 03:17:30 +0000",
+      "help_ive_been_framed": "2025-05-16 20:56:02 +0000",
       "local_brewery": "2025-05-16 20:50:53 +0000",
       "natural_sprinter": "2025-05-15 03:01:01 +0000",
       "tripping_over": "2025-05-16 19:17:29 +0000",
@@ -276,6 +278,7 @@
       "sweet_dreams": "2025-05-11 00:08:02 +0000",
       "point_blank": "2025-05-16 19:50:13 +0000",
       "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
+      "zombie_slayer": "2025-05-16 20:54:42 +0000",
       "animal_root": "2025-05-11 00:12:04 +0000",
       "for_you_my_sweet": "2025-05-14 02:08:02 +0000",
       "twisted": "2025-05-16 20:48:10 +0000",
@@ -573,30 +576,31 @@
   },
   "blazeandcave:bacap/building_milestone": {
     "criteria": {
-      "bricks": "2025-05-16 01:49:21 +0000",
-      "what_a_pane": "2025-05-16 02:24:32 +0000",
       "smooth_dude": "2025-05-14 04:21:22 +0000",
       "barking_mad": "2025-05-14 03:55:39 +0000",
-      "festival_of_lights": "2025-05-11 01:02:52 +0000",
-      "torched": "2025-05-14 02:31:02 +0000",
-      "prepare_to_meet_your_loom": "2025-05-14 04:22:28 +0000",
-      "concrete_evidence": "2025-05-16 20:25:08 +0000",
       "sharpening_station": "2025-05-16 19:35:51 +0000",
       "writers_block": "2025-05-14 04:29:14 +0000",
-      "cut_in_half": "2025-05-16 19:18:27 +0000",
-      "clay_dough": "2025-05-16 20:09:31 +0000",
-      "blast_it": "2025-05-15 23:56:36 +0000",
       "sweet_dreams": "2025-05-11 00:08:02 +0000",
       "root": "2025-05-11 00:11:49 +0000",
       "agent_smithing_table": "2025-05-14 03:15:23 +0000",
       "ladder_climbers_inc": "2025-05-11 00:47:15 +0000",
+      "change_of_sheets": "2025-05-14 16:27:36 +0000",
+      "jailhouse_block": "2025-05-11 00:43:01 +0000",
+      "bricks": "2025-05-16 01:49:21 +0000",
+      "what_a_pane": "2025-05-16 02:24:32 +0000",
+      "help_ive_been_framed": "2025-05-16 20:56:02 +0000",
+      "festival_of_lights": "2025-05-11 01:02:52 +0000",
+      "torched": "2025-05-14 02:31:02 +0000",
+      "prepare_to_meet_your_loom": "2025-05-14 04:22:28 +0000",
+      "concrete_evidence": "2025-05-16 20:25:08 +0000",
+      "cut_in_half": "2025-05-16 19:18:27 +0000",
+      "clay_dough": "2025-05-16 20:09:31 +0000",
+      "blast_it": "2025-05-15 23:56:36 +0000",
       "classy_glassy": "2025-05-16 02:24:32 +0000",
       "en_garde": "2025-05-16 19:56:59 +0000",
-      "change_of_sheets": "2025-05-14 16:27:36 +0000",
       "i_dont_like_sand": "2025-05-11 00:56:49 +0000",
       "your_door_was_locked": "2025-05-14 05:08:47 +0000",
-      "stairs_no": "2025-05-14 02:12:48 +0000",
-      "jailhouse_block": "2025-05-11 00:43:01 +0000"
+      "stairs_no": "2025-05-14 02:12:48 +0000"
     },
     "done": false
   },
@@ -795,6 +799,7 @@
       "iron_horse_armor": "2025-05-11 01:02:05 +0000",
       "clock": "2025-05-14 15:52:12 +0000",
       "diamond_sword": "2025-05-14 03:46:37 +0000",
+      "item_frame": "2025-05-16 20:56:01 +0000",
       "cooked_chicken": "2025-05-15 18:08:21 +0000",
       "diamond_horse_armor": "2025-05-14 03:11:43 +0000",
       "compass": "2025-05-14 15:52:13 +0000",
@@ -1346,6 +1351,7 @@
       "potion": "2025-05-11 01:14:00 +0000",
       "goat_horn": "2025-05-16 01:24:18 +0000",
       "trident": "2025-05-14 05:13:39 +0000",
+      "rotten_flesh": "2025-05-16 20:54:41 +0000",
       "wooden_pickaxe": "2025-05-11 00:13:11 +0000",
       "diamond_pickaxe": "2025-05-14 02:55:37 +0000",
       "raw_gold": "2025-05-16 02:09:13 +0000",
@@ -2261,6 +2267,7 @@
       "protection": "2025-05-11 00:52:47 +0000",
       "projectile_protection": "2025-05-15 03:20:07 +0000",
       "protection_book": "2025-05-16 02:04:18 +0000",
+      "blast_protection_book": "2025-05-16 20:58:17 +0000",
       "sharpness_book": "2025-05-16 19:26:36 +0000",
       "projectile_protection_book": "2025-05-11 01:14:01 +0000",
       "smite_book": "2025-05-16 20:50:55 +0000",
@@ -2311,6 +2318,7 @@
       "unbreaking2_book": "2025-05-14 16:25:30 +0000",
       "knockback2_book": "2025-05-16 02:04:18 +0000",
       "protection3_book": "2025-05-16 19:26:47 +0000",
+      "blast_protection2_book": "2025-05-16 20:58:17 +0000",
       "luck_of_the_sea1_book": "2025-05-16 20:50:56 +0000",
       "silk_touch_book": "2025-05-16 20:51:30 +0000",
       "looting1": "2025-05-15 03:29:21 +0000",
@@ -2355,12 +2363,14 @@
       "projectile_protection_book": "2025-05-11 01:14:01 +0000",
       "protection": "2025-05-11 00:52:47 +0000",
       "projectile_protection": "2025-05-15 03:20:07 +0000",
-      "protection_book": "2025-05-16 02:04:18 +0000"
+      "protection_book": "2025-05-16 02:04:18 +0000",
+      "blast_protection_book": "2025-05-16 20:58:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "blazeandcave:bacap/enchanting_milestone": {
     "criteria": {
+      "armor_for_the_masses": "2025-05-16 20:58:17 +0000",
       "overkill": "2025-05-16 02:35:26 +0000",
       "heavy_metal": "2025-05-14 03:26:48 +0000",
       "curses": "2025-05-14 04:53:09 +0000",
@@ -3022,6 +3032,7 @@
       "ooh_baby": "2025-05-15 18:03:54 +0000",
       "frosty": "2025-05-14 03:30:45 +0000",
       "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
+      "zombie_slayer": "2025-05-16 20:54:42 +0000",
       "not_today_thank_you": "2025-05-15 18:32:53 +0000",
       "blast_shield": "2025-05-15 18:00:36 +0000",
       "spooky_skeleton": "2025-05-14 02:18:03 +0000",
@@ -6395,73 +6406,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "requirement": "2025-05-16 20:58:58 +0000",
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 20:58:35 +0000"
     },
     "done": false
   },
@@ -6984,6 +6996,12 @@
     },
     "done": true
   },
+  "blazeandcave:farming/a_gluttonous_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-05-16 20:54:41 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2025-05-16 20:26:53 +0000"
@@ -7013,6 +7031,12 @@
       "feel": "2025-05-16 19:58:38 +0000"
     },
     "done": false
+  },
+  "blazeandcave:monsters/zombie_slayer": {
+    "criteria": {
+      "rotten_flesh": "2025-05-16 20:54:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
@@ -7162,6 +7186,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-05-16 20:26:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/help_ive_been_framed": {
+    "criteria": {
+      "item_frame": "2025-05-16 20:56:01 +0000"
     },
     "done": true
   },

@@ -753,6 +753,7 @@
       "iron_pickaxe": "2025-05-14 03:04:57 +0000",
       "brick": "2025-05-14 03:57:03 +0000",
       "pumpkin_pie": "2025-05-14 03:35:57 +0000",
+      "golden_chestplate": "2025-05-16 21:00:09 +0000",
       "fishing_rod": "2025-05-16 02:31:06 +0000",
       "potion": "2025-05-14 04:51:23 +0000",
       "ominous_bottle": "2025-05-16 04:16:11 +0000",
@@ -1102,6 +1103,7 @@
       "diamond_chestplate": "2025-05-16 04:06:42 +0000",
       "stone_pickaxe": "2025-05-14 02:34:49 +0000",
       "iron_helmet": "2025-05-14 03:04:51 +0000",
+      "golden_chestplate": "2025-05-16 21:00:09 +0000",
       "wooden_hoe": "2025-05-14 02:28:02 +0000",
       "fishing_rod": "2025-05-16 02:31:06 +0000",
       "potion": "2025-05-14 04:51:23 +0000",
@@ -5864,7 +5866,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
@@ -5888,10 +5890,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-16 20:54:28 +0000",
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
-    "done": true
+    "done": false
   },
   "2re:recipes/leather_boots": {
     "criteria": {
@@ -5901,13 +5902,13 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
@@ -5919,13 +5920,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
@@ -5937,13 +5938,13 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
@@ -5961,19 +5962,19 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
@@ -5985,7 +5986,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 20:53:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
     },
     "done": false
   },
