@@ -191,6 +191,7 @@
       "the_tribal_snouts": "2025-05-16 22:16:51 +0000",
       "unbreakable": "2025-05-11 00:52:47 +0000",
       "which_came_first": "2025-05-11 00:39:15 +0000",
+      "shrooms": "2025-05-16 23:09:12 +0000",
       "jailhouse_block": "2025-05-11 00:43:01 +0000",
       "time_to_chop": "2025-05-11 01:16:19 +0000",
       "iggy": "2025-05-16 20:13:22 +0000",
@@ -858,6 +859,7 @@
       "raw_gold": "2025-05-14 02:42:18 +0000",
       "bone": "2025-05-14 02:18:02 +0000",
       "trial_key": "2025-05-14 04:06:54 +0000",
+      "fermented_spider_eye": "2025-05-16 23:11:57 +0000",
       "golden_carrot": "2025-05-14 15:52:53 +0000",
       "raw_copper": "2025-05-11 01:01:33 +0000",
       "beetroot": "2025-05-16 01:22:37 +0000",
@@ -964,6 +966,7 @@
       "hay_block": "2025-05-11 00:11:14 +0000",
       "oak_door": "2025-05-14 05:08:47 +0000",
       "black_concrete": "2025-05-16 20:25:07 +0000",
+      "brown_mushroom": "2025-05-16 23:09:11 +0000",
       "dandelion": "2025-05-16 01:26:25 +0000",
       "smoker": "2025-05-16 02:42:02 +0000",
       "loom": "2025-05-14 04:22:27 +0000",
@@ -1204,6 +1207,7 @@
       "disen_berry_berry_bad": "2025-05-16 01:04:47 +0000",
       "a_seedy_place": "2025-05-14 03:54:04 +0000",
       "write_your_thoughts": "2025-05-16 01:21:27 +0000",
+      "shrooms": "2025-05-16 23:09:12 +0000",
       "bapple": "2025-05-16 20:52:16 +0000",
       "ultra_hardcore": "2025-05-14 03:30:38 +0000",
       "die_potato": "2025-05-14 02:18:12 +0000"
@@ -1348,6 +1352,7 @@
       "arrow": "2025-05-15 18:21:30 +0000",
       "iron_chestplate": "2025-05-14 02:27:08 +0000",
       "clay_ball": "2025-05-16 20:09:51 +0000",
+      "cooked_beef": "2025-05-16 23:09:24 +0000",
       "diamond_shovel": "2025-05-16 02:18:18 +0000",
       "wooden_axe": "2025-05-16 01:20:58 +0000",
       "iron_axe": "2025-05-11 01:16:18 +0000",
@@ -4641,6 +4646,7 @@
     "criteria": {
       "loom": "2025-05-14 04:23:03 +0000",
       "lectern": "2025-05-14 04:29:14 +0000",
+      "brewing_stand": "2025-05-16 23:12:55 +0000",
       "cauldron": "2025-05-16 23:01:56 +0000",
       "grindstone": "2025-05-16 19:42:13 +0000"
     },
@@ -5494,9 +5500,10 @@
   },
   "blazeandcave:farming/shrooms": {
     "criteria": {
-      "red_mushroom": "2025-05-15 02:47:44 +0000"
+      "red_mushroom": "2025-05-15 02:47:44 +0000",
+      "brown_mushroom": "2025-05-16 23:09:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
@@ -7210,7 +7217,8 @@
   },
   "blazeandcave:farming/a_gluttonous_diet": {
     "criteria": {
-      "rotten_flesh": "2025-05-16 20:54:41 +0000"
+      "rotten_flesh": "2025-05-16 20:54:41 +0000",
+      "cooked_beef": "2025-05-16 23:09:24 +0000"
     },
     "done": false
   },
@@ -7621,81 +7629,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "incendium:quartz_flats/root": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 23:04:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
+      "requirement": "2025-05-16 22:45:49 +0000"
     },
     "done": true
   },
@@ -7705,25 +7641,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-16 22:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-16 22:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-16 22:47:55 +0000"
     },
@@ -7744,36 +7674,6 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-05-16 22:49:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-16 22:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
     },
     "done": true
   },
@@ -7802,12 +7702,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-05-16 22:49:16 +0000"
@@ -7820,9 +7714,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 22:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-16 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
     },
     "done": true
   },
@@ -7832,27 +7786,87 @@
     },
     "done": true
   },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-05-16 22:45:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-05-16 22:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-05-16 22:49:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-16 23:01:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 23:14:07 +0000"
+    },
+    "done": false
+  },
+  "2re:recipes/brown_mushroom": {
+    "criteria": {
+      "requirement": "2025-05-16 23:09:11 +0000"
     },
     "done": true
   },

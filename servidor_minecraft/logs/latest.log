@@ -632,3 +632,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:06:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
 [23:06:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
 [23:06:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[23:07:10] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[23:07:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3 timed out
+[23:07:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player BillyVR15
+[23:07:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to BillyVR15
+[23:07:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8 timed out
+[23:07:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Oicapse
+[23:07:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Oicapse
+[23:07:30] [Server thread/INFO]: Oicapse lost connection: Disconnected
+[23:07:30] [Server thread/INFO]: Oicapse left the game
+[23:07:30] [Server thread/INFO]: [voicechat] Disconnecting client Oicapse
+[23:07:30] [Server thread/INFO]: BillyVR15 lost connection: Disconnected
+[23:07:30] [Server thread/INFO]: BillyVR15 left the game
+[23:07:30] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
+[23:07:30] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[23:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49172ms or 983 ticks behind
+[23:07:33] [Server thread/INFO]: Oicapse[/127.130.212.156:33217] logged in with entity id 23317 at (242.56299565861437, 60.54597601320451, 3517.258168222002)
+[23:07:33] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'be3fbc71-1543-3e4f-a6e9-f4e9922a90c8'.
+[23:07:33] [Server thread/INFO]: Loading config from file...
+[23:07:33] [Server thread/INFO]: Oicapse joined the game
+[23:07:33] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'be3fbc71-1543-3e4f-a6e9-f4e9922a90c8'.
+[23:07:34] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[23:07:34] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[23:07:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[23:07:34] [Server thread/INFO]: BillyVR15[/127.38.136.93:37883] logged in with entity id 23583 at (-3039.699999988079, 66.41999998688698, 795.3112883881796)
+[23:07:34] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '9dc258e3-8b75-3a07-b91b-0c256f0f5fb3'.
+[23:07:34] [Server thread/INFO]: Loading config from file...
+[23:07:34] [Server thread/INFO]: BillyVR15 joined the game
+[23:07:34] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '9dc258e3-8b75-3a07-b91b-0c256f0f5fb3'.
+[23:07:34] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[23:07:34] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[23:07:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[23:07:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[23:07:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[23:07:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[23:07:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[23:07:41] [Server thread/INFO]: [Oicapse: Triggered [login] (set value to 29092004)]
+[23:07:56] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[23:08:41] [Server thread/INFO]: Made BillyVR15 a server operator
+[23:08:52] [Server thread/INFO]: [BillyVR15: Set own game mode to Creative Mode]
+[23:09:34] [Server thread/INFO]: [BillyVR15: Set own game mode to Survival Mode]
+[23:09:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[23:11:52] [Server thread/INFO]: [BillyVR15: Gave 1 [Spider Eye] to BillyVR15]
+[23:14:17] [Server thread/INFO]: BillyVR15 lost connection: Disconnected
+[23:14:17] [Server thread/INFO]: BillyVR15 left the game
+[23:14:17] [Server thread/INFO]: [voicechat] Disconnecting client BillyVR15
