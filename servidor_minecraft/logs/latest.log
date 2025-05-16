@@ -538,3 +538,735 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [19:05:35] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
 [19:05:35] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
 [19:05:36] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[19:06:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d timed out
+[19:06:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Sgirano
+[19:06:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Sgirano
+[19:06:35] [Server thread/INFO]: Sgirano lost connection: Disconnected
+[19:06:35] [Server thread/INFO]: Sgirano left the game
+[19:06:35] [Server thread/INFO]: [voicechat] Disconnecting client Sgirano
+[19:06:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51598ms or 1031 ticks behind
+[19:06:37] [Server thread/INFO]: Sgirano[/127.172.100.106:48947] logged in with entity id 3950 at (-446.6252268795331, 62.11076431274413, -4921.375)
+[19:06:37] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '9909c47d-4a06-3b3c-8ba2-dac6241fc74d'.
+[19:06:37] [Server thread/INFO]: Loading config from file...
+[19:06:37] [Server thread/INFO]: Sgirano joined the game
+[19:06:37] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '9909c47d-4a06-3b3c-8ba2-dac6241fc74d'.
+[19:06:38] [Server thread/INFO]: [voicechat] Received secret request of Sgirano (18)
+[19:06:38] [Server thread/INFO]: [voicechat] Sent secret to Sgirano
+[19:06:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[19:06:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[19:06:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[19:07:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d timed out
+[19:07:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Sgirano
+[19:07:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Sgirano
+[19:07:30] [Server thread/INFO]: Sgirano lost connection: Disconnected
+[19:07:30] [Server thread/INFO]: Sgirano left the game
+[19:07:30] [Server thread/INFO]: [voicechat] Disconnecting client Sgirano
+[19:07:30] [Server thread/INFO]: [Sgirano: Triggered [login] (set value to 2004)]
+[19:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40738ms or 814 ticks behind
+[19:07:33] [Server thread/INFO]: Sgirano[/127.172.100.106:39021] logged in with entity id 4270 at (-446.5, 63.0, -4921.5)
+[19:07:33] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '9909c47d-4a06-3b3c-8ba2-dac6241fc74d'.
+[19:07:33] [Server thread/INFO]: Loading config from file...
+[19:07:33] [Server thread/INFO]: Sgirano joined the game
+[19:07:33] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '9909c47d-4a06-3b3c-8ba2-dac6241fc74d'.
+[19:07:33] [Server thread/INFO]: [voicechat] Received secret request of Sgirano (18)
+[19:07:33] [Server thread/INFO]: [voicechat] Sent secret to Sgirano
+[19:07:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[19:07:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[19:07:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[19:07:58] [Server thread/INFO]: [Sgirano: Triggered [login] (set value to 2004)]
+[19:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26053ms or 521 ticks behind
+[19:08:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:08:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:08:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:08:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:08:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:08:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:08:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:09:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:09:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:09:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:09:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:10:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:10:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:11:13] [Server thread/INFO]: Sgirano was blown up by Sgirano
+[19:11:13] [Server thread/INFO]: Created new backpack backup file for Sgirano with unique ID travelersbackpack.bat_16.05.2025-19.11.13.dat
+[19:11:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:11:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:11:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:12:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:13:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:14:15] [Server thread/INFO]: BillyVR15[/127.38.136.93:36751] logged in with entity id 7509 at (-301.7977963159021, 62.524446729595596, -3431.0772915172843)
+[19:14:15] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '9dc258e3-8b75-3a07-b91b-0c256f0f5fb3'.
+[19:14:15] [Server thread/INFO]: Loading config from file...
+[19:14:15] [Server thread/INFO]: BillyVR15 joined the game
+[19:14:15] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '9dc258e3-8b75-3a07-b91b-0c256f0f5fb3'.
+[19:14:21] [Server thread/WARN]: Sgirano moved too quickly! -0.8019710944913641,5.419999986886978,-8.56485478653667
+[19:14:21] [Server thread/INFO]: [voicechat] Received secret request of BillyVR15 (18)
+[19:14:21] [Server thread/INFO]: [voicechat] Sent secret to BillyVR15
+[19:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5327ms or 106 ticks behind
+[19:14:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[19:14:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9dc258e3-8b75-3a07-b91b-0c256f0f5fb3
+[19:14:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player BillyVR15 (9dc258e3-8b75-3a07-b91b-0c256f0f5fb3) successfully connected to voice chat
+[19:14:37] [Server thread/INFO]: [BillyVR15: Triggered [login] (set value to 6850)]
+[19:14:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:16:36] [Server thread/WARN]: Sgirano moved wrongly!
+[19:17:31] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:17:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:19:09] [Server thread/INFO]: Sgirano was slain by Silverfish
+[19:19:09] [Server thread/INFO]: Created new backpack backup file for Sgirano with unique ID travelersbackpack.bat_16.05.2025-19.19.09.dat
+[19:20:08] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:23:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:23:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:23:49] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:23:52] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:23:52] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:24:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:25:07] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-196, y=56, z=-101}
+[19:25:07] [Worker-Main-4/ERROR]: Block-attached entity at invalid position: class_2338{x=-199, y=56, z=-101}
+[19:25:08] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:25:08] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:25:08] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:25:55] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:25:55] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:25:55] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:25:55] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:25:55] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-204, y=56, z=-106}
+[19:28:41] [Server thread/INFO]: Svonccy[/127.77.96.114:47163] logged in with entity id 13537 at (-752.8423842628938, 64.0, 605.6064855878074)
+[19:28:41] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[19:28:41] [Server thread/INFO]: Loading config from file...
+[19:28:41] [Server thread/INFO]: Svonccy joined the game
+[19:28:41] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[19:28:43] [Server thread/INFO]: [voicechat] Received secret request of Svonccy (18)
+[19:28:43] [Server thread/INFO]: [voicechat] Sent secret to Svonccy
+[19:28:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[19:28:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[19:28:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Svonccy (c063cfc5-1a13-3b54-afbf-11d6f3d038d1) successfully connected to voice chat
+[19:28:53] [Server thread/INFO]: [Svonccy: Triggered [login] (set value to 4321)]
+[19:28:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:33:58] [Server thread/INFO]: Oicapse[/127.13.175.93:51643] logged in with entity id 17771 at (245.6053759694649, 66.0, 3553.8311316845966)
+[19:33:58] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'be3fbc71-1543-3e4f-a6e9-f4e9922a90c8'.
+[19:33:58] [Server thread/INFO]: Loading config from file...
+[19:33:58] [Server thread/INFO]: Oicapse joined the game
+[19:33:58] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'be3fbc71-1543-3e4f-a6e9-f4e9922a90c8'.
+[19:33:59] [Server thread/INFO]: [voicechat] Received secret request of Oicapse (18)
+[19:33:59] [Server thread/INFO]: [voicechat] Sent secret to Oicapse
+[19:33:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[19:34:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player be3fbc71-1543-3e4f-a6e9-f4e9922a90c8
+[19:34:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Oicapse (be3fbc71-1543-3e4f-a6e9-f4e9922a90c8) successfully connected to voice chat
+[19:34:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:34:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:34:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:34:15] [Server thread/INFO]: [Not Secure] <Oicapse> oa
+[19:34:23] [Server thread/INFO]: [Not Secure] <Svonccy> oan't
+[19:34:30] [Server thread/INFO]: [Not Secure] <Oicapse> ok
+[19:36:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:36:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:37:14] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:37:14] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:37:25] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:37:29] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:37:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:37:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:37:41] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=531, y=-58, z=120}
+[19:37:41] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=534, y=-58, z=120}
+[19:37:41] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=533, y=-58, z=120}
+[19:38:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:38:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:38:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:38:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:38:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:38:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:38:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:38:16] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:38:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:38:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:39:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:40:18] [Server thread/INFO]: [Not Secure] <Svonccy> serrver de mrd
+[19:40:21] [Server thread/INFO]: [Not Secure] <Svonccy> cada dia mas lento
+[19:40:24] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[19:40:27] [Server thread/INFO]: [Not Secure] <BillyVR15> yo lo veo normal
+[19:40:30] [Server thread/INFO]: [Not Secure] <Svonccy> o es mi inter
+[19:40:30] [Server thread/INFO]: [Not Secure] <Svonccy> xd
+[19:40:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player c063cfc5-1a13-3b54-afbf-11d6f3d038d1 timed out
+[19:40:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Svonccy
+[19:40:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Svonccy
+[19:40:56] [Server thread/INFO]: Svonccy lost connection: You logged in from another location
+[19:40:56] [Server thread/INFO]: Svonccy left the game
+[19:40:56] [Server thread/INFO]: [voicechat] Disconnecting client Svonccy
+[19:40:59] [Server thread/INFO]: Svonccy[/127.98.116.40:42133] logged in with entity id 27708 at (-672.2414156554634, 64.84375002384186, 606.9797113801657)
+[19:40:59] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[19:40:59] [Server thread/INFO]: Loading config from file...
+[19:40:59] [Server thread/INFO]: Svonccy joined the game
+[19:40:59] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[19:41:00] [Server thread/INFO]: [voicechat] Received secret request of Svonccy (18)
+[19:41:00] [Server thread/INFO]: [voicechat] Sent secret to Svonccy
+[19:41:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[19:41:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[19:41:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Svonccy (c063cfc5-1a13-3b54-afbf-11d6f3d038d1) successfully connected to voice chat
+[19:41:03] [Server thread/INFO]: [Svonccy: Triggered [login] (set value to 4321)]
+[19:41:05] [Server thread/INFO]: [Not Secure] <Svonccy> si era
+[19:41:09] [Server thread/INFO]: [Not Secure] <Svonccy> taba conectado al vpn xd
+[19:41:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:42:14] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:42:16] [Server thread/INFO]: Oicapse was slain by Zombie
+[19:42:16] [Server thread/INFO]: Created new backpack backup file for Oicapse with unique ID travelersbackpack.melon_16.05.2025-19.42.16.dat
+[19:42:20] [Server thread/INFO]: [Not Secure] <Sgirano> gaaaaaaaaaaaaaaaaaaa
+[19:42:34] [Server thread/INFO]: [Not Secure] <Svonccy> callen a ese peruano
+[19:42:35] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 263.500000, 67.000000, 3516.500000]
+[19:42:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:42:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:43:14] [Server thread/INFO]: [Not Secure] <Sgirano> :c
+[19:43:34] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! -0.4824170623905957,0.0,-10.388802495281197
+[19:43:34] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! -0.500971564790234,0.0,-10.788371822022782
+[19:43:34] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! -0.5195260671898723,0.0,-11.187941148764367
+[19:44:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:44:49] [Server thread/INFO]: [Not Secure] <Svonccy> tienen andesita cerca?
+[19:44:53] [Server thread/INFO]: [Not Secure] <Svonccy> o vieron recientemente?
+[19:45:08] [Server thread/INFO]: [Not Secure] <BillyVR15> no
+[19:45:13] [Server thread/INFO]: [Not Secure] <Svonccy> :'|
+[19:45:15] [Server thread/INFO]: [Not Secure] <Svonccy> tite
+[19:45:21] [Server thread/INFO]: [Not Secure] <BillyVR15> estamos en medio del mar xd
+[19:45:30] [Server thread/INFO]: [Not Secure] <Svonccy> puro awa hay
+[19:46:38] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[19:46:38] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[19:46:38] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[19:46:38] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[19:46:39] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[19:46:39] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[19:46:39] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[19:46:39] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.338626409488711,0.0,-10.313254502869313
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.389826132094754,0.0,-10.709962476090368
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.441019182552509,0.0,-11.106671473363349
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.4922062280769524,0.0,-11.5033813922837
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.54338786916162,0.0,-11.900092140686866
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.5945646462505465,0.0,-12.296803635624201
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.6457332422221498,0.0,-12.693516290455591
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.6968944751882873,0.0,-13.090229989191357
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.748049081449608,0.0,-13.486944627441517
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.7991977236769117,0.0,-13.883660111254358
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.850340998273623,0.0,-14.280376356073248
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.9014794420029375,0.0,-14.677093285798037
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.95261353795172,0.0,-15.073810831937408
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.0037437208981146,0.0,-15.470528932850357
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.0548703821425534,0.0,-15.867247533059526
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.1059938738552546,0.0,-16.263966582635476
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.1571145129894376,0.0,-16.660686036640982
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.2082325848029996,0.0,-17.057405854633544
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.259348346028105,0.0,-17.454126000214274
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.310462027723702,0.0,-17.850846440624082
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.361573837842684,0.0,-18.24756714638079
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.412683963542804,0.0,-18.644288090948976
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.463792573266005,0.0,-19.04100925044804
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.514899818610047,0.0,-19.437730603384807
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.5660058360127778,0.0,-19.83445213041523
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.6171107482684874,0.0,-20.23117381412976
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.66821466589181,0.0,-20.627895638860537
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.7193176883459955,0.0,-21.02461759050584
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.7653104073364148,0.0,-21.381667337527688
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.8067038533312143,0.0,-21.703012101334934
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.8439579537396185,0.0,-21.992222381099964
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.8774866432189583,0.0,-22.252511625993066
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.907662462951066,0.0,-22.48677194019092
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.934820699990496,0.0,-22.69760621738351
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.9592631126784,0.0,-22.8873570618307
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.9812612835147547,0.0,-23.058132817309342
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.0010596367430935,0.0,-23.211830993168405
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.018878154176491,0.0,-23.350159347776753
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.034914819441724,0.0,-23.47465486362671
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.0493478177980933,0.0,-23.586700824923355
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.0623375159747184,0.0,-23.68754218741833
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.0740282440240208,0.0,-23.778299411260377
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.0845498989896214,0.0,-23.85998091055444
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.094019388207812,0.0,-23.933494257971688
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1025419282784696,0.0,-23.999656268893887
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.110212214138869,0.0,-24.059202077146438
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1171154712303633,0.0,-24.11279330315392
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1233284024481236,0.0,-24.161025405283
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1289200403959967,0.0,-24.20443429604984
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1339525144156823,0.0,-24.24350229670472
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1384817409134484,0.0,-24.278663496362242
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1425580446534696,0.0,-24.310308575216368
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1462267179223318,0.0,-24.338789145430383
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1495285237767803,0.0,-24.36442165794415
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1525001489670785,0.0,-24.387490918595176
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1551746115675314,0.0,-24.408253252630857
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.157581627844138,0.0,-24.426939352768386
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.159747942435729,0.0,-24.44375684244642
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1616976255164673,0.0,-24.458892582755652
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1634523402426566,0.0,-24.472514748673348
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.165031583454379,0.0,-24.484774697674766
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.166452902307242,0.0,-24.495808651483458
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1677320892409853,0.0,-24.5057392096478
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.168883357450909,0.0,-24.51467671175942
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1699194988123054,0.0,-24.522720463446603
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1708520260128807,0.0,-24.529959839773255
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1716913004711387,0.0,-24.536475278294347
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.17244664746363,0.0,-24.54233917280817
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1731264597387963,0.0,-24.54761667773073
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1737382907703022,0.0,-24.552366432035342
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1742889386840716,0.0,-24.556641210796442
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.174784521793299,0.0,-24.560488511579024
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.175230546579769,0.0,-24.563951082192034
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.175631968876928,0.0,-24.56706739566107
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.175993248934901,0.0,-24.56987207770908
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1763184009784027,0.0,-24.572396291485347
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1766110378098347,0.0,-24.57466808382378
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1768744109510862,0.0,-24.576712696873983
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.17711144677196,0.0,-24.578552848570325
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.177324779005062,0.0,-24.580208985053105
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1775167780098172,0.0,-24.581699507848498
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.177689577109504,0.0,-24.583040978328427
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.177845096295073,0.0,-24.58424830172862
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.177985063558367,0.0,-24.58533489276033
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1781110340920122,0.0,-24.586312824662855
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1782244075693598,0.0,-24.5871929633513
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.178326443696278,0.0,-24.587985088150162
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.178418276208049,0.0,-24.588698000450677
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1785009254664374,0.0,-24.589339621504223
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1785753097969973,0.0,-24.589917080436862
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1786422556926937,0.0,-24.590436793462686
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.178702506997297,0.0,-24.59090453517365
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.178756733169962,0.0,-24.591325502701693
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1788055367240986,0.0,-24.59170437346711
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1788494599215937,0.0,-24.59204535714707
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1788889907983275,0.0,-24.592352242450943
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.178924568586467,0.0,-24.59262843921715
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1789565885949287,0.0,-24.592877016300008
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1789854066017824,0.0,-24.593100735668486
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1790113428072573,0.0,-24.593302083095296
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1790346853915707,0.0,-24.593483295774604
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1790556937169185,0.0,-24.593646387181252
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1790746012092086,0.0,-24.593793169443416
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1790916179518263,0.0,-24.59392527347609
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.179106933019739,0.0,-24.594044167101856
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1791207165805417,0.0,-24.594151171362682
+[19:46:47] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1791331217849574,0.0,-24.594247475194607
+[19:46:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6580ms or 131 ticks behind
+[19:46:55] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.8917250130841694,0.0,-14.677786481155636
+[19:46:55] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.8917350612991868,0.0,-14.677864487255647
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.3299897211456937,0.0,-10.311001928298538
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.3811575954558748,0.0,-10.707690746483422
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.4323257855038491,0.0,-11.104382012485985
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.483494259715826,0.0,-11.501075481525731
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.5346629896754393,0.0,-11.89777093329758
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.5858319498079254,0.0,-12.294468169528955
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.6370011170960197,0.0,-12.691167011774269
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.6830533664352743,0.0,-13.04819596033667
+[19:47:01] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.7245003897426159,0.0,-13.369522005530598
+[19:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.4247566555042113,0.0,-10.287568201842078
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.514120539481496,0.0,-10.675820703944737
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.6086966398491995,0.0,-11.062662072678904
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.708396804497852,0.0,-11.448066774278232
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.8130970694159032,0.0,-11.832024062207893
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 1.9226417278937333,0.0,-12.214537858170843
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.0368575549366597,0.0,-12.595621988401945
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.1555593896235905,0.0,-12.97529849286002
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.2785480839721686,0.0,-13.353599001777184
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.405619169686588,0.0,-13.730561288135505
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.5365670745009083,0.0,-14.106227517180741
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.6711853797254435,0.0,-14.48064416482157
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.792341851217998,0.0,-14.817619138771988
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.901382672672753,0.0,-15.120896607292707
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 2.9995194093822874,0.0,-15.393846321730962
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.087842470081114,0.0,-15.63950105821732
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.1673332226042703,0.0,-15.860590315198351
+[19:47:38] [Server thread/WARN]: Spruce Boat (vehicle of Sgirano) moved too quickly! 3.23887489797994,0.0,-16.059570641210485
+[19:47:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[19:47:54] [Server thread/INFO]: [Not Secure] <Oicapse> wzzz
+[19:47:59] [Server thread/INFO]: [Not Secure] <Sgirano> zzz
+[19:48:02] [Server thread/INFO]: [Not Secure] <BillyVR15> estamos en medio del mar
+[19:48:06] [Server thread/INFO]: [Not Secure] <BillyVR15> *
+[19:48:17] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-204, y=56, z=-106}
+[19:48:19] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-196, y=56, z=-101}
+[19:48:19] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-199, y=56, z=-101}
+[19:48:33] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[19:48:33] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[19:48:33] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[19:48:33] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[19:52:07] [Server thread/WARN]: Oicapse moved too quickly! -3.2509745689244482,0.0,-9.687118441268012
+[19:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12330ms or 246 ticks behind
+[19:52:48] [Server thread/INFO]: Villager class_1646['Farmer'/37040, l='ServerLevel[world]', x=-455.70, y=-21.00, z=-7254.62] died, message: 'Farmer hit the ground too hard'
+[19:53:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:54:49] [Server thread/INFO]: [Not Secure] <Svonccy> me regalan 1 diamantito
+[19:54:50] [Server thread/INFO]: [Not Secure] <Svonccy> :3
+[19:54:57] [Server thread/INFO]: [Not Secure] <Svonccy> quelo reparar mi piquito
+[19:55:02] [Server thread/INFO]: [Not Secure] <Svonccy> 🥹
+[19:55:27] [Server thread/INFO]: [Not Secure] <Sgirano> no
+[19:55:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:55:53] [Server thread/INFO]: [Not Secure] <Svonccy> ban a serio gir ANO
+[19:58:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[19:58:31] [Worker-Main-4/WARN]: Empty or non-existent pool: savanna:houses
+[19:58:31] [Worker-Main-4/WARN]: Empty or non-existent pool: savanna:houses
+[19:59:13] [Server thread/INFO]: [Not Secure] <Sgirano> zzzzzzzzz
+[19:59:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:00:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:00:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:00:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:01:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:01:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:01:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:01:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:01:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:01:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:02:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:02:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:02:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:03:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:03:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:04:09] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:04:09] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:04:22] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:04:22] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:04:54] [Server thread/INFO]: [Not Secure] <BillyVR15> xd
+[20:05:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:05:12] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:06:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:06:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:07:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:07:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:07:41] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:07:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:08:15] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:08:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:08:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:09:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:10:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:10:42] [Server thread/INFO]: [Not Secure] <Svonccy> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20:10:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:10:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:11:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:11:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:11:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:11:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:11:51] [Server thread/INFO]: Oicapse fell from a high place
+[20:11:51] [Server thread/INFO]: Created new backpack backup file for Oicapse with unique ID travelersbackpack.melon_16.05.2025-20.11.51.dat
+[20:12:10] [Server thread/INFO]: [Not Secure] <Sgirano> muajajaja
+[20:12:12] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 247.500000, 142.000000, 3507.500000]
+[20:12:25] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:12:25] [Worker-Main-6/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:12:28] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 242.500000, 63.000000, 3493.500000]
+[20:13:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:13:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:13:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:13:05] [Worker-Main-5/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:13:43] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[20:13:51] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=547, y=-59, z=185}
+[20:13:51] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=546, y=-59, z=187}
+[20:13:51] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=546, y=-59, z=185}
+[20:13:52] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=547, y=-59, z=185}
+[20:13:52] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=546, y=-59, z=187}
+[20:13:52] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=546, y=-59, z=185}
+[20:14:09] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=365, y=-54, z=184}
+[20:14:09] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=365, y=-55, z=182}
+[20:14:09] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=365, y=-59, z=190}
+[20:14:09] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=367, y=-59, z=190}
+[20:14:14] [Server thread/WARN]: BillyVR15 moved too quickly! -10.00758213194058,0.756759288177264,-2.3404765263239824
+[20:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11351ms or 227 ticks behind
+[20:14:21] [Server thread/WARN]: BillyVR15 moved too quickly! -7.6374821392931835,0.7521489003674589,-6.772790987886765
+[20:14:21] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=367, y=-59, z=190}
+[20:14:25] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=365, y=-59, z=190}
+[20:14:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:14:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:05] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:18] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:31] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:15:50] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:16:04] [Server thread/WARN]: BillyVR15 moved too quickly! -3.14382646126478,0.4990033597325265,9.627262737822093
+[20:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[20:16:07] [Server thread/WARN]: Oicapse moved too quickly! 1.4048433167177166,-10.188476189299962,-0.43663171073421836
+[20:16:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:16:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:16:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:16:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:16:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:17:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:04] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:04] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:04] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:23] [Server thread/INFO]: Svonccy lost connection: Disconnected
+[20:18:23] [Server thread/INFO]: Svonccy left the game
+[20:18:23] [Server thread/INFO]: [voicechat] Disconnecting client Svonccy
+[20:18:24] [Server thread/INFO]: Oicapse fell from a high place
+[20:18:24] [Server thread/INFO]: Created new backpack backup file for Oicapse with unique ID travelersbackpack.melon_16.05.2025-20.18.24.dat
+[20:18:25] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:41] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 242.500000, 63.000000, 3491.500000]
+[20:18:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:18:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:19:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:19:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:19:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:19:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:19:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:19:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:20:34] [Server thread/INFO]: Svonccy[/127.98.116.40:42311] logged in with entity id 78082 at (-663.7191547213961, 4.0, 557.4517585621618)
+[20:20:34] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[20:20:34] [Server thread/INFO]: Loading config from file...
+[20:20:34] [Server thread/INFO]: Svonccy joined the game
+[20:20:34] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[20:20:35] [Server thread/INFO]: [voicechat] Received secret request of Svonccy (18)
+[20:20:35] [Server thread/INFO]: [voicechat] Sent secret to Svonccy
+[20:20:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[20:20:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[20:20:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Svonccy (c063cfc5-1a13-3b54-afbf-11d6f3d038d1) successfully connected to voice chat
+[20:20:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:20:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:20:46] [Server thread/INFO]: [Svonccy: Triggered [login] (set value to 4321)]
+[20:21:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:21:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:21:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:21:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:21:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:21:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:21:18] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:21:18] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:21:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:22:25] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:22:25] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:23:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:23:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:23:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:23:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:23:33] [Server thread/INFO]: Villager class_1646['Farmer'/68641, l='ServerLevel[world]', x=-520.53, y=-9.44, z=-7534.51] died, message: 'Farmer suffocated in a wall'
+[20:23:50] [Server thread/INFO]: Svonccy lost connection: Disconnected
+[20:23:50] [Server thread/INFO]: Svonccy left the game
+[20:23:50] [Server thread/INFO]: [voicechat] Disconnecting client Svonccy
+[20:24:10] [Server thread/INFO]: Oicapse fell from a high place
+[20:24:10] [Server thread/INFO]: Created new backpack backup file for Oicapse with unique ID travelersbackpack.melon_16.05.2025-20.24.10.dat
+[20:24:11] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:24:23] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 242.500000, 63.000000, 3492.500000]
+[20:25:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:25:16] [Server thread/INFO]: Svonccy[/127.98.116.40:60383] logged in with entity id 80597 at (-666.4915068625552, -1.0, 553.138567994488)
+[20:25:16] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[20:25:16] [Server thread/INFO]: Loading config from file...
+[20:25:16] [Server thread/INFO]: Svonccy joined the game
+[20:25:16] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid 'c063cfc5-1a13-3b54-afbf-11d6f3d038d1'.
+[20:25:17] [Server thread/INFO]: [voicechat] Received secret request of Svonccy (18)
+[20:25:17] [Server thread/INFO]: [voicechat] Sent secret to Svonccy
+[20:25:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[20:25:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player c063cfc5-1a13-3b54-afbf-11d6f3d038d1
+[20:25:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Svonccy (c063cfc5-1a13-3b54-afbf-11d6f3d038d1) successfully connected to voice chat
+[20:25:25] [Server thread/INFO]: [Svonccy: Triggered [login] (set value to 4321)]
+[20:25:30] [Server thread/INFO]: Sgirano was blown up by Sgirano
+[20:25:30] [Server thread/INFO]: Created new backpack backup file for Sgirano with unique ID travelersbackpack.bat_16.05.2025-20.25.30.dat
+[20:25:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:25:33] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[20:25:41] [Server thread/INFO]: [Not Secure] <BillyVR15> xddddd
+[20:25:43] [Server thread/INFO]: [Not Secure] <Sgirano> ...
+[20:26:20] [Server thread/INFO]: [Not Secure] <Svonccy> q mrd
+[20:26:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:26:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:26:27] [Server thread/INFO]: [Not Secure] <Svonccy> ahora me aparecen solo creepers cargados
+[20:26:28] [Server thread/INFO]: [Not Secure] <Svonccy> xd
+[20:26:32] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[20:27:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:27:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:27:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:27:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:28:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:29:31] [Server thread/INFO]: [Not Secure] <Svonccy> verdad funcionan los trading hall aquí?
+[20:29:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:29:36] [Server thread/INFO]: [Not Secure] <Svonccy> en esta versión
+[20:29:37] [Server thread/INFO]: [Not Secure] <Svonccy> xd
+[20:29:42] [Server thread/INFO]: [Svonccy: Set own game mode to Spectator Mode]
+[20:29:49] [Server thread/INFO]: [Svonccy: Set own game mode to Survival Mode]
+[20:30:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:31:40] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:05] [Server thread/INFO]: Oicapse was shot by Skeleton
+[20:32:05] [Server thread/INFO]: Created new backpack backup file for Oicapse with unique ID travelersbackpack.melon_16.05.2025-20.32.05.dat
+[20:32:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:15] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:15] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:18] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 249.500000, 67.000000, 3547.500000]
+[20:32:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:32:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:33:57] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[20:34:02] [Server thread/INFO]: [Not Secure] <BillyVR15> hola
+[20:34:26] [Server thread/INFO]: [Not Secure] <Oicapse> zzzz
+[20:34:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:34:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:34:35] [Server thread/INFO]: [Not Secure] <Oicapse> zzzz
+[20:34:35] [Server thread/INFO]: [Not Secure] <Oicapse> z
+[20:34:35] [Server thread/INFO]: [Not Secure] <Oicapse> z
+[20:34:35] [Server thread/INFO]: [Not Secure] <Oicapse> zz
+[20:34:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:34:36] [Server thread/INFO]: [Not Secure] <Oicapse> zzzz
+[20:34:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:35:20] [Server thread/INFO]: [BillyVR15: Triggered [monsterLevelInfo]]
+[20:35:22] [Server thread/INFO]: Villager class_1646['Villager'/89852, l='ServerLevel[world]', x=228.45, y=66.00, z=3588.70] died, message: 'Villager was slain by Zombie'
+[20:35:29] [Server thread/INFO]: Villager class_1646['Fisherman'/68643, l='ServerLevel[world]', x=-520.50, y=-9.44, z=-7534.50] died, message: 'Fisherman suffocated in a wall'
+[20:36:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:36:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:36:27] [Server thread/INFO]: Oicapse was blown up by Creeper
+[20:36:27] [Server thread/INFO]: Created new backpack backup file for Oicapse with unique ID travelersbackpack.melon_16.05.2025-20.36.27.dat
+[20:36:41] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 235.500000, 64.000000, 3490.500000]
+[20:36:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:36:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:36:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:00] [Server thread/INFO]: [Not Secure] <Svonccy> otorrinolaringologo
+[20:37:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:03] [Server thread/INFO]: [Not Secure] <Svonccy> otorrinolaringologo
+[20:37:05] [Server thread/INFO]: [Not Secure] <Svonccy> otorrinolaringologo
+[20:37:11] [Server thread/INFO]: Oicapse was blown up by Creeper
+[20:37:11] [Server thread/INFO]: Created new backpack backup file for Oicapse with unique ID travelersbackpack.melon_16.05.2025-20.37.11.dat
+[20:37:22] [Server thread/INFO]: [Not Secure] <Svonccy> JAJAJAJAJAJA
+[20:37:23] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 241.500000, 67.000000, 3479.500000]
+[20:37:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:30] [Server thread/INFO]: [Not Secure] <Svonccy> otorrinolaringologo
+[20:37:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:37:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:02] [Server thread/INFO]: [Svonccy: Set own game mode to Spectator Mode]
+[20:38:05] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:05] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:23] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:29] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:29] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:37] [Server thread/INFO]: [Svonccy: Set own game mode to Survival Mode]
+[20:38:43] [Server thread/INFO]: Named entity class_1634['Space-Time Vex'/95992, l='ServerLevel[world]', x=-494.39, y=62.93, z=-7655.30] died: Space-Time Vex was slain by BillyVR15
+[20:38:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:38:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:15] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:15] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:44] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:39:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:05] [Server thread/INFO]: Named entity class_1634['Space-Time Vex'/98016, l='ServerLevel[world]', x=-492.64, y=62.80, z=-7656.16] died: Space-Time Vex was slain by BillyVR15
+[20:40:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:14] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:14] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:16] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:19] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:31] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:31] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:40:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:01] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:28] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:28] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:52] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:05] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:05] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:05] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:05] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:42:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:44:47] [Server thread/INFO]: [BillyVR15: Triggered [monsterLevelInfo]]
+[20:45:30] [Server thread/INFO]: Sgirano blew up
+[20:45:30] [Server thread/INFO]: Created new backpack backup file for Sgirano with unique ID travelersbackpack.bat_16.05.2025-20.45.30.dat
+[20:45:31] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:45:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[20:45:42] [Server thread/INFO]: [Not Secure] <BillyVR15> la gran pucta
+[20:45:50] [Server thread/INFO]: [Not Secure] <BillyVR15> ahí estaba todo el tesoro
+[20:46:47] [Server thread/INFO]: Villager class_1646['Cartographer'/68825, l='ServerLevel[world]', x=-520.50, y=-9.44, z=-7534.50] died, message: 'Cartographer suffocated in a wall'
