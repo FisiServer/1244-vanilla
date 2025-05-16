@@ -93,3 +93,89 @@
 [00:26:06] [Server thread/INFO]: [Not Secure] <Svonccy> pasa
 [00:26:21] [Server thread/INFO]: [Not Secure] <Oicapse> tengo grava nomas
 [00:26:28] [Server thread/INFO]: [Not Secure] <Svonccy> xd
+[00:27:01] [Server thread/INFO]: [Not Secure] <Svonccy> acecta
+[00:27:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:27:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:28:32] [Server thread/WARN]: Ignored advancement 'tpa:first_join' in progress file ./world/advancements/9909c47d-4a06-3b3c-8ba2-dac6241fc74d.json - it doesn't exist anymore?
+[00:28:32] [Server thread/INFO]: Sgirano[/127.172.100.106:50173] logged in with entity id 90819 at (2620.5, 82.0, -385.5)
+[00:28:32] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '9909c47d-4a06-3b3c-8ba2-dac6241fc74d'.
+[00:28:32] [Server thread/INFO]: Loading config from file...
+[00:28:32] [Server thread/INFO]: Sgirano joined the game
+[00:28:32] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '9909c47d-4a06-3b3c-8ba2-dac6241fc74d'.
+[00:28:38] [Server thread/INFO]: [voicechat] Received secret request of Sgirano (18)
+[00:28:38] [Server thread/INFO]: [voicechat] Sent secret to Sgirano
+[00:28:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[00:28:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:28:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[00:28:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[00:29:03] [Server thread/INFO]: [Sgirano: Triggered [login] (set value to 2004)]
+[00:29:04] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:29:04] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:29:44] [Server thread/INFO]: [Not Secure] <Sgirano> hola my loves
+[00:29:55] [Server thread/INFO]: [Not Secure] <Svonccy> ola
+[00:30:09] [Server thread/INFO]: [Not Secure] <Sgirano> oe como mrd desactivo el narrador de chat?? xd
+[00:30:20] [Server thread/INFO]: [Not Secure] <Svonccy> opciones>accesibilidad
+[00:30:43] [Server thread/INFO]: [Not Secure] <Sgirano> gracias mi vida
+[00:31:01] [Server thread/INFO]: Svonccy was shot by Skeleton
+[00:31:01] [Server thread/INFO]: Created new backpack backup file for Svonccy with unique ID travelersbackpack.standard_16.05.2025-00.31.01.dat
+[00:31:41] [Server thread/INFO]: Sgirano was shot by Skeleton
+[00:31:41] [Server thread/INFO]: Created new backpack backup file for Sgirano with unique ID travelersbackpack.squid_16.05.2025-00.31.41.dat
+[00:31:52] [Server thread/INFO]: [Not Secure] <Svonccy> q inutil
+[00:32:11] [Server thread/INFO]: [Not Secure] <Sgirano> no tenia comida xd
+[00:32:31] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:02] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:03] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:25] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:25] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:26] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:47] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:33:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:34:51] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[00:34:51] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[00:34:51] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[00:34:51] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[00:34:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[00:35:03] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[00:35:03] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[00:35:03] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[00:35:03] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[00:35:04] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[00:35:04] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[00:35:04] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[00:35:04] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[00:35:07] [Server thread/WARN]: Sgirano moved too quickly! 7.483562345647442,-5.592604597635059,4.25961823168484
+[00:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3024ms or 60 ticks behind
+[00:35:19] [Server thread/WARN]: Sgirano moved too quickly! 8.500432286082287,-4.822590878844423,-2.618412840318854
+[00:35:19] [Server thread/INFO]: [Not Secure] <Svonccy> efe
+[00:35:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[00:35:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[00:35:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[00:35:24] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[00:35:26] [Server thread/WARN]: Sgirano moved too quickly! 9.671772257342127,-0.6559280678496577,-3.0757938052311147
+[00:35:27] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[00:35:27] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[00:35:27] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[00:35:27] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[00:35:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6997ms or 139 ticks behind
+[00:35:35] [Server thread/WARN]: Sgirano moved too quickly! 9.414097175068491,0.44717874459657025,-3.412896283769385
+[00:35:41] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-327, y=59, z=-34}
+[00:35:41] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-326, y=59, z=-34}
+[00:35:41] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-33}
+[00:35:41] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=-325, y=59, z=-32}
+[00:35:51] [Server thread/WARN]: Sgirano moved too quickly! 7.537381042914149,1.5311031518423803,-6.577122704201486
+[00:35:51] [Server thread/INFO]: [Not Secure] <Svonccy> lagazos
+[00:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9817ms or 196 ticks behind
+[00:35:56] [Server thread/INFO]: [Not Secure] <Sgirano> si csmr
+[00:36:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7350ms or 147 ticks behind
+[00:37:02] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=274, y=-58, z=21}
+[00:37:02] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=274, y=-58, z=29}
+[00:37:02] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=279, y=-59, z=28}
+[00:37:02] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=279, y=-59, z=27}
+[00:37:02] [Worker-Main-7/ERROR]: Block-attached entity at invalid position: class_2338{x=279, y=-59, z=26}
