@@ -370,6 +370,7 @@
       "gunpowder": "2025-05-14 04:25:01 +0000",
       "leather": "2025-05-14 03:31:23 +0000",
       "bucket": "2025-05-12 00:42:38 +0000",
+      "golden_helmet": "2025-05-16 00:15:38 +0000",
       "flint": "2025-05-14 03:54:09 +0000",
       "coal": "2025-05-14 02:00:31 +0000",
       "flint_and_steel": "2025-05-14 03:54:49 +0000",
@@ -767,6 +768,7 @@
       "iron_horse_armor": "2025-05-14 04:04:06 +0000",
       "iron_leggings": "2025-05-14 03:37:00 +0000",
       "iron_shovel": "2025-05-14 03:53:01 +0000",
+      "golden_helmet": "2025-05-16 00:15:38 +0000",
       "flint_and_steel": "2025-05-14 03:54:49 +0000",
       "stone_axe": "2025-05-11 04:43:10 +0000"
     },
@@ -3817,79 +3819,97 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 00:14:28 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "knize1007:day20": {
     "criteria": {
       "play25days": "2025-05-15 23:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-16 00:15:38 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/gold_recycle": {
+    "criteria": {
+      "requirement": "2025-05-16 00:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-16 00:15:38 +0000"
     },
     "done": true
   },

@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "tpa:first_join": {
-    "criteria": {
-      "tick": "2025-05-14 02:21:23 +0000"
-    },
-    "done": true
-  },
   "auth:tick": {
     "criteria": {
       "requirements": "2025-05-14 02:21:23 +0000"
@@ -169,6 +163,7 @@
       "kilometre_walk": "2025-05-14 03:53:02 +0000",
       "cut_in_half": "2025-05-14 03:03:57 +0000",
       "stationary_storage": "2025-05-14 04:16:23 +0000",
+      "i_yearned_for_the_mines": "2025-05-16 00:23:31 +0000",
       "getting_wood": "2025-05-14 02:23:24 +0000",
       "isnt_it_iron_pick": "2025-05-14 03:04:57 +0000",
       "berry_nice": "2025-05-14 04:06:29 +0000",
@@ -962,6 +957,7 @@
       "aww_it_broke": "2025-05-14 04:26:42 +0000",
       "meet_the_flintstones": "2025-05-14 04:20:36 +0000",
       "seeing_red": "2025-05-14 04:13:06 +0000",
+      "i_yearned_for_the_mines": "2025-05-16 00:23:31 +0000",
       "isnt_it_iron_pick": "2025-05-14 03:04:57 +0000",
       "gold_rush": "2025-05-14 03:07:20 +0000",
       "root": "2025-05-14 02:28:51 +0000",
@@ -1660,18 +1656,19 @@
   },
   "blazeandcave:enchanting/complete_enchanter": {
     "criteria": {
-      "depth_strider": "2025-05-14 03:04:39 +0000",
       "efficiency_book": "2025-05-14 02:49:41 +0000",
       "efficiency": "2025-05-14 03:04:57 +0000",
       "thorns": "2025-05-14 03:04:29 +0000",
       "piercing": "2025-05-14 03:50:44 +0000",
       "fire_protection": "2025-05-14 03:04:39 +0000",
+      "fortune_book": "2025-05-16 00:23:30 +0000",
       "unbreaking": "2025-05-14 03:04:29 +0000",
       "feather_falling": "2025-05-14 04:14:30 +0000",
-      "vanishing_curse": "2025-05-14 03:04:57 +0000",
       "protection": "2025-05-14 03:04:29 +0000",
-      "blast_protection": "2025-05-14 05:06:06 +0000",
-      "protection_book": "2025-05-14 05:41:15 +0000"
+      "protection_book": "2025-05-14 05:41:15 +0000",
+      "depth_strider": "2025-05-14 03:04:39 +0000",
+      "vanishing_curse": "2025-05-14 03:04:57 +0000",
+      "blast_protection": "2025-05-14 05:06:06 +0000"
     },
     "done": false
   },
@@ -1681,6 +1678,7 @@
       "efficiency1_book": "2025-05-14 02:49:41 +0000",
       "piercing2": "2025-05-14 03:50:44 +0000",
       "blast_protection3": "2025-05-14 05:06:06 +0000",
+      "fortune2_book": "2025-05-16 00:23:30 +0000",
       "protection2": "2025-05-14 04:20:50 +0000",
       "thorns2": "2025-05-14 03:04:29 +0000",
       "protection3": "2025-05-14 03:04:51 +0000",
@@ -3905,75 +3903,88 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "requirement": "2025-05-16 00:25:04 +0000",
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-15 17:02:36 +0000"
+      "log_spam_fixer": "2025-05-16 00:24:28 +0000"
     },
     "done": false
+  },
+  "knize1007:day10": {
+    "criteria": {
+      "play25days": "2025-05-16 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/i_yearned_for_the_mines": {
+    "criteria": {
+      "i_am_steve": "2025-05-16 00:23:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4189
 }
