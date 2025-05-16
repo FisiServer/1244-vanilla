@@ -131,6 +131,7 @@
       "mapmaker": "2025-05-16 02:12:59 +0000",
       "benchmarking": "2025-05-14 02:27:40 +0000",
       "do_you_want_to_trade": "2025-05-16 02:37:42 +0000",
+      "enchanter": "2025-05-16 21:22:56 +0000",
       "gi_geode": "2025-05-16 03:36:47 +0000",
       "deep_slate_nine": "2025-05-16 03:30:00 +0000",
       "spider_smasher": "2025-05-14 05:41:15 +0000",
@@ -265,6 +266,7 @@
       "sir_knight": "2025-05-14 04:08:14 +0000",
       "what_a_creep": "2025-05-14 04:23:33 +0000",
       "cow_tipper": "2025-05-14 02:46:17 +0000",
+      "horse_training": "2025-05-16 22:09:01 +0000",
       "seeing_red": "2025-05-14 04:13:06 +0000",
       "redstone_root": "2025-05-14 04:13:06 +0000",
       "building_root": "2025-05-14 02:27:40 +0000",
@@ -354,18 +356,19 @@
   },
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
-      "pirate_captain": "2025-05-16 02:31:52 +0000",
-      "sneaky_snitch": "2025-05-16 04:15:35 +0000",
       "loot_em": "2025-05-16 02:38:42 +0000",
       "out_for_a_stroll": "2025-05-16 02:47:36 +0000",
       "natural_sprinter": "2025-05-16 04:35:34 +0000",
       "luxury_cruise": "2025-05-14 03:33:54 +0000",
       "level_up": "2025-05-14 05:41:16 +0000",
+      "the_first_night": "2025-05-14 02:23:16 +0000",
+      "horse_training": "2025-05-16 22:09:01 +0000",
+      "mob_hunter": "2025-05-16 19:38:32 +0000",
+      "pirate_captain": "2025-05-16 02:31:52 +0000",
+      "sneaky_snitch": "2025-05-16 04:15:35 +0000",
       "root": "2025-05-14 02:23:17 +0000",
       "om_nom_nom": "2025-05-16 05:12:59 +0000",
-      "spring_in_your_step": "2025-05-14 04:48:08 +0000",
-      "the_first_night": "2025-05-14 02:23:16 +0000",
-      "mob_hunter": "2025-05-16 19:38:32 +0000"
+      "spring_in_your_step": "2025-05-14 04:48:08 +0000"
     },
     "done": false
   },
@@ -491,6 +494,7 @@
       "scaffolding": "2025-05-16 03:54:27 +0000",
       "cobweb": "2025-05-14 03:37:32 +0000",
       "bookshelf": "2025-05-16 05:57:28 +0000",
+      "enchanting_table": "2025-05-16 21:22:55 +0000",
       "bamboo_hanging_sign": "2025-05-16 03:54:29 +0000",
       "allium": "2025-05-14 03:28:35 +0000",
       "gravel": "2025-05-14 04:17:29 +0000",
@@ -729,6 +733,7 @@
       "stone_shovel": "2025-05-14 04:22:36 +0000",
       "salmon": "2025-05-14 02:31:11 +0000",
       "diamond_hoe": "2025-05-16 03:23:50 +0000",
+      "iron_horse_armor": "2025-05-16 22:09:00 +0000",
       "eye_armor_trim": "2025-05-16 03:03:15 +0000",
       "diamond_sword": "2025-05-14 03:26:49 +0000",
       "item_frame": "2025-05-16 02:41:26 +0000",
@@ -766,6 +771,7 @@
       "golden_carrot": "2025-05-14 03:39:04 +0000",
       "beetroot": "2025-05-14 03:57:02 +0000",
       "guster_banner_pattern": "2025-05-16 04:07:41 +0000",
+      "raw_copper": "2025-05-16 21:19:06 +0000",
       "diamond": "2025-05-14 03:04:44 +0000",
       "carrot": "2025-05-14 05:10:33 +0000"
     },
@@ -1081,6 +1087,7 @@
       "stone_shovel": "2025-05-14 04:22:36 +0000",
       "wooden_sword": "2025-05-14 02:29:24 +0000",
       "diamond_hoe": "2025-05-16 03:23:50 +0000",
+      "iron_horse_armor": "2025-05-16 22:09:00 +0000",
       "gunpowder": "2025-05-16 01:06:48 +0000",
       "diamond_sword": "2025-05-14 03:26:49 +0000",
       "leather_leggings": "2025-05-16 06:49:39 +0000",
@@ -1167,6 +1174,7 @@
       "dungeons_and_spawners": "2025-05-14 03:37:06 +0000",
       "hot_topic": "2025-05-14 02:34:04 +0000",
       "fossil_fuel": "2025-05-14 02:53:00 +0000",
+      "enchanter": "2025-05-16 21:22:56 +0000",
       "this_dirt_is_dirtier": "2025-05-16 06:24:45 +0000",
       "gi_geode": "2025-05-16 03:36:47 +0000",
       "deep_slate_nine": "2025-05-16 03:30:00 +0000",
@@ -5867,21 +5875,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "blazeandcave:statistics/mob_hunter": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+      "trigger": "2025-05-16 19:38:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "knize1007:day30": {
     "criteria": {
       "play25days": "2025-05-16 19:41:38 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:weaponry/viking": {
-    "criteria": {
-      "axe": "2025-05-16 20:38:07 +0000"
     },
     "done": true
   },
@@ -5891,9 +5893,27 @@
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+      "has_log": "2025-05-16 20:10:39 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/acacia_logs": {
+    "criteria": {
+      "requirement": "2025-05-16 20:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-16 20:10:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/lush_hour": {
+    "criteria": {
+      "rooted_dirt": "2025-05-16 20:17:41 +0000"
     },
     "done": false
   },
@@ -5903,57 +5923,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "blazeandcave:weaponry/viking": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-05-16 20:10:39 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "2re:recipes/acacia_logs": {
-    "criteria": {
-      "requirement": "2025-05-16 20:10:39 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:statistics/mob_hunter": {
-    "criteria": {
-      "trigger": "2025-05-16 19:38:31 +0000"
+      "axe": "2025-05-16 20:38:07 +0000"
     },
     "done": true
   },
@@ -5963,45 +5935,111 @@
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:mining/lush_hour": {
-    "criteria": {
-      "rooted_dirt": "2025-05-16 20:17:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
-    },
-    "done": false
-  },
   "blazeandcave:mining/rest_in_pickaxes": {
     "criteria": {
       "break_pickaxe": "2025-05-16 21:13:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_log": "2025-05-16 20:10:39 +0000"
+      "has_raw_copper": "2025-05-16 21:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-16 21:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-16 21:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanting_table": "2025-05-16 21:22:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:statistics/horse_training": {
+    "criteria": {
+      "trigger": "2025-05-16 22:09:00 +0000"
     },
     "done": true
   },
