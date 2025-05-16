@@ -144,6 +144,7 @@
       "out_for_a_stroll": "2025-05-15 22:56:36 +0000",
       "iron_belly": "2025-05-12 00:42:32 +0000",
       "smooth_dude": "2025-05-16 05:32:09 +0000",
+      "luxury_cruise": "2025-05-16 21:09:50 +0000",
       "barking_mad": "2025-05-11 00:57:04 +0000",
       "fossil_fuel": "2025-05-14 02:00:31 +0000",
       "the_first_night": "2025-05-11 01:08:54 +0000",
@@ -163,6 +164,7 @@
       "not_chicken_mcnuggets": "2025-05-16 02:06:47 +0000",
       "statistics_root": "2025-05-11 01:08:55 +0000",
       "time_to_mine": "2025-05-10 23:49:41 +0000",
+      "prepare_to_meet_your_loom": "2025-05-16 21:06:00 +0000",
       "sneaky_snitch": "2025-05-14 04:50:45 +0000",
       "its_a_trap": "2025-05-14 04:59:34 +0000",
       "biomes_root": "2025-05-11 01:01:42 +0000",
@@ -366,6 +368,7 @@
       "smoker": "2025-05-16 05:35:30 +0000",
       "deepslate_brick_stairs": "2025-05-16 02:33:48 +0000",
       "copper_trapdoor": "2025-05-16 05:24:51 +0000",
+      "loom": "2025-05-16 21:06:00 +0000",
       "oxidized_copper_door": "2025-05-11 04:47:51 +0000",
       "spruce_planks": "2025-05-14 02:52:56 +0000",
       "azure_bluet": "2025-05-14 03:51:02 +0000",
@@ -380,6 +383,7 @@
       "obsidian": "2025-05-16 06:33:12 +0000",
       "cobweb": "2025-05-11 04:48:40 +0000",
       "bookshelf": "2025-05-16 19:44:01 +0000",
+      "white_banner": "2025-05-16 21:06:59 +0000",
       "dirt": "2025-05-10 23:49:45 +0000",
       "enchanting_table": "2025-05-16 06:42:25 +0000",
       "azalea": "2025-05-14 04:14:48 +0000",
@@ -489,6 +493,7 @@
       "milk_bucket": "2025-05-12 00:42:42 +0000",
       "bow": "2025-05-16 02:16:53 +0000",
       "creeper_banner_pattern": "2025-05-16 00:34:06 +0000",
+      "red_dye": "2025-05-16 21:07:44 +0000",
       "iron_ingot": "2025-05-12 00:34:29 +0000",
       "apple": "2025-05-10 23:46:15 +0000",
       "spider_eye": "2025-05-11 04:48:39 +0000",
@@ -725,6 +730,7 @@
       "festival_of_lights": "2025-05-16 04:10:35 +0000",
       "torched": "2025-05-14 03:05:20 +0000",
       "pathways": "2025-05-14 04:23:19 +0000",
+      "prepare_to_meet_your_loom": "2025-05-16 21:06:00 +0000",
       "cut_in_half": "2025-05-15 22:28:55 +0000",
       "its_a_trap": "2025-05-14 04:59:34 +0000",
       "stationary_storage": "2025-05-14 04:06:27 +0000",
@@ -1302,6 +1308,7 @@
       "out_for_a_stroll": "2025-05-15 22:56:36 +0000",
       "natural_sprinter": "2025-05-16 03:41:55 +0000",
       "level_up": "2025-05-16 02:45:30 +0000",
+      "luxury_cruise": "2025-05-16 21:09:50 +0000",
       "root": "2025-05-11 01:08:55 +0000",
       "spring_in_your_step": "2025-05-14 02:13:38 +0000",
       "the_first_night": "2025-05-11 01:08:54 +0000",
@@ -3601,6 +3608,7 @@
     "criteria": {
       "barrel": "2025-05-16 05:12:55 +0000",
       "smoker": "2025-05-16 05:35:33 +0000",
+      "loom": "2025-05-16 21:06:11 +0000",
       "stonecutter": "2025-05-14 04:19:26 +0000",
       "cauldron": "2025-05-16 05:18:25 +0000",
       "smithing_table": "2025-05-16 05:39:04 +0000",
@@ -5165,73 +5173,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
@@ -5240,6 +5248,54 @@
       "rabbit_foot": "2025-05-16 20:52:53 +0000"
     },
     "done": true
+  },
+  "blazeandcave:statistics/luxury_cruise": {
+    "criteria": {
+      "trigger": "2025-05-16 21:09:49 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/red_dye": {
+    "criteria": {
+      "requirement": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_red_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/no_banner_only_color": {
+    "criteria": {
+      "white_banner": "2025-05-16 21:06:59 +0000"
+    },
+    "done": false
   },
   "blazeandcave:potion/hopping_mad": {
     "criteria": {
@@ -5265,11 +5321,47 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/prepare_to_meet_your_loom": {
+    "criteria": {
+      "loom": "2025-05-16 21:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:bacap/potion_milestone": {
     "criteria": {
       "hopping_mad": "2025-05-16 20:52:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-05-16 21:07:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 4189
 }

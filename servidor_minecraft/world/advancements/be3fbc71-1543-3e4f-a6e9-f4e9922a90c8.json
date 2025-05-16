@@ -220,6 +220,7 @@
       "bacap_root": "2025-05-14 02:21:25 +0000",
       "cover_me_with_diamonds": "2025-05-14 03:04:45 +0000",
       "meet_the_flintstones": "2025-05-14 04:20:36 +0000",
+      "rest_in_pickaxes": "2025-05-16 21:13:09 +0000",
       "ice_bucket_challenge": "2025-05-16 04:45:45 +0000",
       "farming_root": "2025-05-14 02:28:02 +0000",
       "good_for_your_bones": "2025-05-16 01:30:12 +0000",
@@ -1174,6 +1175,7 @@
       "cover_me_with_diamonds": "2025-05-14 03:04:45 +0000",
       "meet_the_flintstones": "2025-05-14 04:20:36 +0000",
       "seeing_red": "2025-05-14 04:13:06 +0000",
+      "rest_in_pickaxes": "2025-05-16 21:13:09 +0000",
       "ice_bucket_challenge": "2025-05-16 04:45:45 +0000",
       "good_for_your_bones": "2025-05-16 01:30:12 +0000",
       "root": "2025-05-14 02:28:51 +0000",
@@ -4047,6 +4049,7 @@
       "shield": "2025-05-14 04:38:47 +0000",
       "iron_axe": "2025-05-16 06:22:24 +0000",
       "stone_shovel": "2025-05-14 04:28:48 +0000",
+      "diamond_pickaxe": "2025-05-16 21:13:08 +0000",
       "iron_pickaxe": "2025-05-16 03:47:44 +0000",
       "diamond_shovel": "2025-05-16 00:44:48 +0000"
     },
@@ -5866,7 +5869,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
@@ -5890,7 +5893,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
@@ -5902,13 +5905,13 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
@@ -5920,13 +5923,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
@@ -5938,13 +5941,13 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
@@ -5962,19 +5965,19 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
   },
@@ -5986,9 +5989,15 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
     },
     "done": false
+  },
+  "blazeandcave:mining/rest_in_pickaxes": {
+    "criteria": {
+      "break_pickaxe": "2025-05-16 21:13:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {

@@ -201,6 +201,7 @@
       "change_of_sheets": "2025-05-14 15:43:15 +0000",
       "free_diver": "2025-05-15 03:24:58 +0000",
       "zombie_slayer": "2025-05-16 20:45:29 +0000",
+      "oh_look_it_dings": "2025-05-16 21:13:40 +0000",
       "diam_oh_wait_no": "2025-05-15 02:15:55 +0000",
       "animal_root": "2025-05-14 15:44:36 +0000",
       "for_you_my_sweet": "2025-05-16 01:26:25 +0000",
@@ -287,6 +288,7 @@
       "building_root": "2025-05-14 15:43:21 +0000",
       "agent_smithing_table": "2025-05-16 00:46:57 +0000",
       "heart_of_darkness": "2025-05-14 15:47:36 +0000",
+      "raise_the_flag": "2025-05-16 21:05:16 +0000",
       "ladder_climbers_inc": "2025-05-15 02:42:09 +0000",
       "loser": "2025-05-14 15:48:48 +0000",
       "keep_your_distance": "2025-05-16 01:51:30 +0000",
@@ -578,6 +580,7 @@
       "sweet_dreams": "2025-05-14 16:01:40 +0000",
       "root": "2025-05-14 15:43:21 +0000",
       "agent_smithing_table": "2025-05-16 00:46:57 +0000",
+      "raise_the_flag": "2025-05-16 21:05:16 +0000",
       "ladder_climbers_inc": "2025-05-15 02:42:09 +0000",
       "classy_glassy": "2025-05-16 02:25:06 +0000",
       "change_of_sheets": "2025-05-14 15:43:15 +0000",
@@ -1556,6 +1559,7 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
+      "oh_look_it_dings": "2025-05-16 21:13:40 +0000",
       "blowback": "2025-05-16 19:27:38 +0000",
       "allayance": "2025-05-16 19:59:33 +0000",
       "i_hereby_dub_thee": "2025-05-15 03:19:53 +0000",
@@ -3495,9 +3499,11 @@
   },
   "blazeandcave:challenges/i_am_loot": {
     "criteria": {
+      "village_savanna_house": "2025-05-16 21:13:35 +0000",
       "abandoned_mineshaft": "2025-05-15 17:50:59 +0000",
       "village_fisher": "2025-05-16 00:54:01 +0000",
       "desert_pyramid": "2025-05-16 20:31:00 +0000",
+      "village_weaponsmith": "2025-05-16 21:13:08 +0000",
       "village_plains_house": "2025-05-15 17:40:10 +0000",
       "village_toolsmith": "2025-05-16 00:46:58 +0000",
       "village_butcher": "2025-05-16 00:53:21 +0000",
@@ -3506,6 +3512,7 @@
       "jungle_temple": "2025-05-16 19:17:51 +0000",
       "village_armorer": "2025-05-16 00:42:38 +0000",
       "shipwreck_supply": "2025-05-16 01:43:06 +0000",
+      "village_cartographer": "2025-05-16 21:13:18 +0000",
       "shipwreck_treasure": "2025-05-16 19:44:31 +0000",
       "village_temple": "2025-05-15 03:36:24 +0000",
       "village_tannery": "2025-05-16 00:55:09 +0000"
@@ -5435,93 +5442,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "blazeandcave:monsters/desert_nomad": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:03:35 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:recipes/misc/bee": {
-    "criteria": {
-      "has_honeycomb": "2025-05-16 19:38:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_grate": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/yellow_carpet": {
-    "criteria": {
-      "requirement": "2025-05-16 20:44:25 +0000"
+      "husk": "2025-05-16 19:10:32 +0000"
     },
     "done": true
   },
@@ -5531,51 +5454,9 @@
     },
     "done": true
   },
-  "blazeandcave:redstone/tripping_over": {
-    "criteria": {
-      "tripwire_hook": "2025-05-16 19:17:27 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/brushed_away": {
-    "criteria": {
-      "brush": "2025-05-16 19:18:02 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/wool": {
-    "criteria": {
-      "requirement": "2025-05-16 20:34:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-16 19:10:58 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:enchanting/super_efficient": {
-    "criteria": {
-      "efficiency": "2025-05-16 21:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-05-16 19:39:05 +0000"
-    },
-    "done": true
-  },
-  "knize1007:day20": {
-    "criteria": {
-      "play25days": "2025-05-16 20:03:23 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:statistics/om_nom_nom": {
-    "criteria": {
-      "trigger": "2025-05-16 20:04:57 +0000"
     },
     "done": true
   },
@@ -5585,171 +5466,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
+      "has_redstone_block": "2025-05-16 19:10:58 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
-    "criteria": {
-      "has_sandstone_slab": "2025-05-16 20:43:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-05-16 20:34:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-05-16 20:05:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/rainbow_collection": {
-    "criteria": {
-      "black_wool": "2025-05-16 20:34:57 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-05-16 19:11:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/mace": {
-    "criteria": {
-      "has_breeze_rod": "2025-05-16 19:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/ghostbuster": {
-    "criteria": {
-      "vex": "2025-05-16 20:47:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/its_so_beast_like": {
-    "criteria": {
-      "ravager": "2025-05-16 19:52:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/conquer_miner_outpost": {
-    "criteria": {
-      "kill_outpost_evoker": "2025-05-16 19:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-05-16 20:06:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-05-16 20:34:57 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/witch": {
-    "criteria": {
-      "witch": "2025-05-16 19:53:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-05-16 20:06:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:temple_entry": {
-    "criteria": {
-      "in_better_desert_temple": "2025-05-16 20:14:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-16 19:44:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:statistics/natural_sprinter": {
-    "criteria": {
-      "trigger": "2025-05-16 19:31:52 +0000"
     },
     "done": true
   },
@@ -5759,21 +5484,201 @@
     },
     "done": false
   },
+  "2re:recipes/stone_pressure_plate": {
+    "criteria": {
+      "requirement": "2025-05-16 19:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
-      "has_clay_ball": "2025-05-16 20:05:35 +0000"
+      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
     },
     "done": true
   },
-  "blazeandcave:building/clay_dough": {
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "clay_ball": "2025-05-16 20:05:35 +0000"
+      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/tripping_over": {
+    "criteria": {
+      "tripwire_hook": "2025-05-16 19:17:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/thats_the_point": {
+    "criteria": {
+      "pointed_dripstone": "2025-05-16 19:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-16 19:17:36 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/brushed_away": {
+    "criteria": {
+      "brush": "2025-05-16 19:18:02 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/termite_control": {
+    "criteria": {
+      "silverfish": "2025-05-16 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/troll_chest": {
+    "criteria": {
+      "trapped_chest": "2025-05-16 19:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-16 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/break_wind": {
+    "criteria": {
+      "breeze": "2025-05-16 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-05-16 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-05-16 19:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/blowback": {
+    "criteria": {
+      "blowback": "2025-05-16 19:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/natural_sprinter": {
+    "criteria": {
+      "trigger": "2025-05-16 19:31:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-05-16 19:38:59 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/honeycomb": {
+    "criteria": {
+      "requirement": "2025-05-16 19:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-16 19:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-16 19:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-16 19:39:05 +0000"
     },
     "done": true
   },
@@ -5789,129 +5694,9 @@
     },
     "done": false
   },
-  "blazeandcave:enchanting/like_a_cat": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "feather_falling": "2025-05-16 20:56:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-05-16 20:08:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-05-16 19:53:10 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/honeycomb": {
-    "criteria": {
-      "requirement": "2025-05-16 19:38:59 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/this_dirt_is_dirtier": {
-    "criteria": {
-      "rooted_dirt": "2025-05-16 20:02:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/thats_the_point": {
-    "criteria": {
-      "pointed_dripstone": "2025-05-16 19:17:36 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/axolotl_of_them": {
-    "criteria": {
-      "leucistic": "2025-05-16 20:08:51 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:adventure/break_wind": {
-    "criteria": {
-      "breeze": "2025-05-16 19:25:20 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:building/no_banner_only_color": {
-    "criteria": {
-      "black_banner": "2025-05-16 20:51:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-16 20:31:02 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/blue_carpet": {
-    "criteria": {
-      "requirement": "2025-05-16 20:44:25 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/twisted": {
-    "criteria": {
-      "twisting_vines_plant": "2025-05-16 20:47:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sandstone": {
-    "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/waxed_copper_bulb": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-05-16 20:34:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:statistics/mob_hunter": {
-    "criteria": {
-      "trigger": "2025-05-16 20:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/revaulting": {
-    "criteria": {
-      "revaulting": "2025-05-16 19:26:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-05-16 19:38:59 +0000"
+      "has_logs": "2025-05-16 19:39:05 +0000"
     },
     "done": true
   },
@@ -5921,15 +5706,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_black_wool": "2025-05-16 20:34:57 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-05-16 19:44:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_sandstone": "2025-05-16 20:45:07 +0000"
+      "has_smithing_trim_template": "2025-05-16 19:44:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/its_so_beast_like": {
+    "criteria": {
+      "ravager": "2025-05-16 19:52:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/witch": {
+    "criteria": {
+      "witch": "2025-05-16 19:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-16 19:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-16 19:53:10 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/conquer_miner_outpost": {
+    "criteria": {
+      "kill_outpost_evoker": "2025-05-16 19:58:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/allayance": {
+    "criteria": {
+      "allay": "2025-05-16 19:59:32 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/this_dirt_is_dirtier": {
+    "criteria": {
+      "rooted_dirt": "2025-05-16 20:02:14 +0000"
+    },
+    "done": true
+  },
+  "knize1007:day20": {
+    "criteria": {
+      "play25days": "2025-05-16 20:03:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/om_nom_nom": {
+    "criteria": {
+      "trigger": "2025-05-16 20:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-16 20:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-16 20:05:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/clay_dough": {
+    "criteria": {
+      "clay_ball": "2025-05-16 20:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-16 20:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-16 20:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-16 20:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-16 20:08:51 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/axolotl_of_them": {
+    "criteria": {
+      "leucistic": "2025-05-16 20:08:51 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-16 20:14:43 +0000"
     },
     "done": true
   },
@@ -5945,51 +5838,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
+  "blazeandcave:statistics/mob_hunter": {
     "criteria": {
-      "has_redstone_block": "2025-05-16 19:10:58 +0000"
+      "trigger": "2025-05-16 20:30:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_smithing_trim_template": "2025-05-16 19:44:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/allayance": {
-    "criteria": {
-      "allay": "2025-05-16 19:59:32 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:weaponry/the_mighty_hunter": {
-    "criteria": {
-      "cow": "2025-05-16 20:51:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
-    "criteria": {
-      "has_black_wool": "2025-05-16 20:34:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/blowback": {
-    "criteria": {
-      "blowback": "2025-05-16 19:27:38 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/zombie_slayer": {
-    "criteria": {
-      "rotten_flesh": "2025-05-16 20:45:29 +0000"
+      "has_smithing_trim_template": "2025-05-16 20:31:02 +0000"
     },
     "done": true
   },
@@ -5999,57 +5856,45 @@
     },
     "done": true
   },
-  "2re:recipes/stone_pressure_plate": {
+  "2re:recipes/wool": {
     "criteria": {
-      "requirement": "2025-05-16 19:16:40 +0000"
+      "requirement": "2025-05-16 20:34:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_logs": "2025-05-16 19:39:05 +0000"
+      "has_black_wool": "2025-05-16 20:34:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wind_charge": {
+  "blazeandcave:animal/rainbow_collection": {
     "criteria": {
-      "has_breeze_rod": "2025-05-16 19:25:20 +0000"
+      "black_wool": "2025-05-16 20:34:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-16 20:34:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+      "has_wool": "2025-05-16 20:34:57 +0000"
     },
     "done": true
   },
-  "blazeandcave:monsters/desert_nomad": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "husk": "2025-05-16 19:10:32 +0000"
+      "has_black_wool": "2025-05-16 20:34:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/termite_control": {
-    "criteria": {
-      "silverfish": "2025-05-16 19:18:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-05-16 20:59:07 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/sandstone": {
-    "criteria": {
-      "requirement": "2025-05-16 20:45:07 +0000"
+      "has_black_wool": "2025-05-16 20:34:57 +0000"
     },
     "done": true
   },
@@ -6059,9 +5904,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
-      "has_pointed_dripstone": "2025-05-16 19:17:36 +0000"
+      "has_sandstone_slab": "2025-05-16 20:43:17 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/yellow_carpet": {
+    "criteria": {
+      "requirement": "2025-05-16 20:44:25 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/blue_carpet": {
+    "criteria": {
+      "requirement": "2025-05-16 20:44:25 +0000"
     },
     "done": true
   },
@@ -6072,15 +5929,75 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
-      "has_glowstone_dust": "2025-05-16 19:53:10 +0000"
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
     },
     "done": true
   },
-  "blazeandcave:monsters/poison_dart": {
+  "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
-      "normal_poison": "2025-05-16 20:48:25 +0000"
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-16 20:45:07 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/sandstone": {
+    "criteria": {
+      "requirement": "2025-05-16 20:45:07 +0000"
     },
     "done": true
   },
@@ -6090,39 +6007,142 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+  "blazeandcave:monsters/zombie_slayer": {
     "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+      "rotten_flesh": "2025-05-16 20:45:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "blazeandcave:nether/twisted": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-05-16 19:16:51 +0000"
+      "twisting_vines_plant": "2025-05-16 20:47:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+  "blazeandcave:adventure/ghostbuster": {
     "criteria": {
-      "has_waxed_copper_block": "2025-05-16 19:30:50 +0000"
+      "vex": "2025-05-16 20:47:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "blazeandcave:monsters/poison_dart": {
     "criteria": {
-      "has_raw_copper": "2025-05-16 20:06:45 +0000"
+      "normal_poison": "2025-05-16 20:48:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "blazeandcave:building/no_banner_only_color": {
     "criteria": {
-      "has_honeycomb": "2025-05-16 19:38:59 +0000"
+      "black_banner": "2025-05-16 20:51:49 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:weaponry/the_mighty_hunter": {
+    "criteria": {
+      "cow": "2025-05-16 20:51:57 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:enchanting/like_a_cat": {
+    "criteria": {
+      "feather_falling": "2025-05-16 20:56:10 +0000"
     },
     "done": true
   },
-  "blazeandcave:redstone/troll_chest": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "trapped_chest": "2025-05-16 19:20:13 +0000"
+      "has_carrot": "2025-05-16 20:59:07 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/super_efficient": {
+    "criteria": {
+      "efficiency": "2025-05-16 21:01:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/raise_the_flag": {
+    "criteria": {
+      "banner": "2025-05-16 21:05:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-16 21:13:58 +0000",
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 21:13:35 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/oh_look_it_dings": {
+    "criteria": {
+      "bell": "2025-05-16 21:13:39 +0000"
     },
     "done": true
   },
