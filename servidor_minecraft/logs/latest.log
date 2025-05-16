@@ -808,3 +808,25 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [22:08:35] [Server thread/INFO]: [Not Secure] <Oicapse> nou xd
 [22:08:38] [Server thread/INFO]: [Not Secure] <Oicapse> tankiu
 [22:11:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:16:50] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[22:18:18] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_horse_armor
+[22:18:22] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:golden_horse_armor
+[22:19:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:19:46] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:19:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:19:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:19:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:20:29] [Server thread/INFO]: Oicapse was shot by Skeleton
+[22:20:29] [Server thread/INFO]: Created new backpack backup file for Oicapse with unique ID travelersbackpack.melon_16.05.2025-22.20.29.dat
+[22:20:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:20:39] [Server thread/INFO]: Oicapse fell from a high place
+[22:20:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:20:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:20:58] [Server thread/INFO]: Oicapse was shot by Skeleton
+[22:21:12] [Server thread/INFO]: Oicapse was slain by Zombie
+[22:21:25] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 246.500000, 58.000000, 3490.500000]
+[22:21:31] [Server thread/INFO]: Oicapse was shot by Skeleton
+[22:21:40] [Server thread/INFO]: [Oicapse: Teleported Oicapse to 245.500000, 58.000000, 3489.500000]
+[22:21:40] [Server thread/INFO]: [Not Secure] <BillyVR15> que fue cristina?
+[22:21:42] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[22:22:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'

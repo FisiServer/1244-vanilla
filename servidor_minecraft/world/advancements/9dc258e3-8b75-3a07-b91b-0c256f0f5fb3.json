@@ -187,11 +187,13 @@
       "meet_the_flintstones": "2025-05-14 04:53:07 +0000",
       "brushed_away": "2025-05-14 03:38:01 +0000",
       "ice_bucket_challenge": "2025-05-14 03:14:43 +0000",
+      "the_tribal_snouts": "2025-05-16 22:16:51 +0000",
       "unbreakable": "2025-05-11 00:52:47 +0000",
       "which_came_first": "2025-05-11 00:39:15 +0000",
       "jailhouse_block": "2025-05-11 00:43:01 +0000",
       "time_to_chop": "2025-05-11 01:16:19 +0000",
       "iggy": "2025-05-16 20:13:22 +0000",
+      "boing_boing": "2025-05-16 22:10:18 +0000",
       "bake_bread": "2025-05-11 00:12:02 +0000",
       "aww_it_broke": "2025-05-14 02:33:17 +0000",
       "poisonous_ew": "2025-05-15 02:47:47 +0000",
@@ -209,6 +211,7 @@
       "sir_knight": "2025-05-14 04:28:03 +0000",
       "cow_tipper": "2025-05-11 01:13:16 +0000",
       "because_im_aquaman": "2025-05-14 05:13:39 +0000",
+      "seeing_stars": "2025-05-16 22:09:25 +0000",
       "seeing_red": "2025-05-14 02:19:05 +0000",
       "building_root": "2025-05-11 00:11:49 +0000",
       "ladder_climbers_inc": "2025-05-11 00:47:15 +0000",
@@ -281,6 +284,7 @@
       "treasure_hunter": "2025-05-11 01:06:35 +0000",
       "my_work_here_is_done": "2025-05-14 02:56:30 +0000",
       "iconic_merchandising_prop": "2025-05-14 02:55:37 +0000",
+      "who_is_cutting_onions": "2025-05-16 22:09:33 +0000",
       "sweet_dreams": "2025-05-11 00:08:02 +0000",
       "point_blank": "2025-05-16 19:50:13 +0000",
       "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
@@ -289,12 +293,14 @@
       "for_you_my_sweet": "2025-05-14 02:08:02 +0000",
       "twisted": "2025-05-16 20:48:10 +0000",
       "shield_luck": "2025-05-14 15:48:31 +0000",
+      "not_chicken_mcnuggets": "2025-05-16 22:11:27 +0000",
       "prepare_to_meet_your_loom": "2025-05-14 04:22:28 +0000",
       "bacon": "2025-05-14 03:05:57 +0000",
       "pirate_captain": "2025-05-16 02:48:45 +0000",
       "high_temperature_fluid_monster": "2025-05-16 22:09:08 +0000",
       "pork_chop": "2025-05-11 00:48:33 +0000",
       "biomes_root": "2025-05-11 01:07:25 +0000",
+      "nether_say_die": "2025-05-16 22:15:08 +0000",
       "om_nom_nom": "2025-05-16 02:34:25 +0000",
       "disen_berry_berry_bad": "2025-05-16 01:04:47 +0000",
       "ooh_baby": "2025-05-15 18:03:54 +0000",
@@ -329,6 +335,7 @@
       "whats_the_time_mr_wolf": "2025-05-14 15:52:13 +0000",
       "die_potato": "2025-05-14 02:18:12 +0000",
       "level_up": "2025-05-14 16:13:49 +0000",
+      "stepping_on_legos": "2025-05-16 22:15:33 +0000",
       "diamonds_to_you": "2025-05-16 01:54:27 +0000",
       "hot_topic": "2025-05-14 02:22:36 +0000",
       "armadoggo": "2025-05-14 03:39:59 +0000",
@@ -353,6 +360,7 @@
       "concrete_evidence": "2025-05-16 20:25:08 +0000",
       "feeling_sheepish": "2025-05-11 00:51:30 +0000",
       "creepy_heads": "2025-05-16 02:28:23 +0000",
+      "basis_of_brewing": "2025-05-16 22:09:43 +0000",
       "stabcraft": "2025-05-14 03:46:37 +0000",
       "isnt_it_scute": "2025-05-14 03:38:49 +0000",
       "your_door_was_locked": "2025-05-14 05:08:47 +0000",
@@ -629,6 +637,7 @@
     "criteria": {
       "loot_em": "2025-05-14 03:12:21 +0000",
       "out_for_a_stroll": "2025-05-16 20:09:58 +0000",
+      "boing_boing": "2025-05-16 22:10:18 +0000",
       "natural_sprinter": "2025-05-15 03:01:01 +0000",
       "luxury_cruise": "2025-05-14 04:57:03 +0000",
       "level_up": "2025-05-14 16:13:49 +0000",
@@ -799,6 +808,8 @@
       "iron_axe": "2025-05-11 01:16:18 +0000",
       "shears": "2025-05-14 04:38:15 +0000",
       "gold_ingot": "2025-05-11 00:56:59 +0000",
+      "nether_wart": "2025-05-16 22:09:43 +0000",
+      "iron_nugget": "2025-05-16 22:11:27 +0000",
       "rabbit_hide": "2025-05-11 01:16:16 +0000",
       "enchanted_book": "2025-05-11 01:14:01 +0000",
       "mutton": "2025-05-11 00:47:18 +0000",
@@ -811,6 +822,7 @@
       "item_frame": "2025-05-16 20:56:01 +0000",
       "cooked_chicken": "2025-05-15 18:08:21 +0000",
       "diamond_horse_armor": "2025-05-14 03:11:43 +0000",
+      "glowstone_dust": "2025-05-16 22:09:25 +0000",
       "compass": "2025-05-14 15:52:13 +0000",
       "flint": "2025-05-14 04:53:06 +0000",
       "coal": "2025-05-11 00:41:12 +0000",
@@ -955,6 +967,7 @@
       "iron_trapdoor": "2025-05-14 03:10:09 +0000",
       "spruce_planks": "2025-05-14 16:28:22 +0000",
       "gray_candle": "2025-05-16 01:21:23 +0000",
+      "crying_obsidian": "2025-05-16 22:09:32 +0000",
       "brown_terracotta": "2025-05-16 21:55:03 +0000",
       "glass_pane": "2025-05-16 02:24:31 +0000",
       "iron_bars": "2025-05-11 00:43:01 +0000",
@@ -1005,6 +1018,7 @@
       "diamond_block": "2025-05-14 16:13:46 +0000",
       "cherry_planks": "2025-05-15 18:48:39 +0000",
       "target": "2025-05-16 01:01:09 +0000",
+      "ancient_debris": "2025-05-16 22:15:08 +0000",
       "dark_prismarine": "2025-05-14 05:01:18 +0000",
       "ladder": "2025-05-15 16:48:39 +0000",
       "granite": "2025-05-14 04:35:08 +0000",
@@ -1423,6 +1437,7 @@
       "diam_oh_wait_no": "2025-05-11 01:02:00 +0000",
       "iggy": "2025-05-16 20:13:22 +0000",
       "iron_man": "2025-05-14 02:27:35 +0000",
+      "not_chicken_mcnuggets": "2025-05-16 22:11:27 +0000",
       "hot_stuff": "2025-05-15 18:28:16 +0000",
       "sneak_100": "2025-05-15 18:26:47 +0000",
       "stone_age": "2025-05-11 00:42:29 +0000",
@@ -1999,6 +2014,7 @@
       "village_toolsmith": "2025-05-14 03:12:50 +0000",
       "village_butcher": "2025-05-11 00:47:07 +0000",
       "shipwreck_map": "2025-05-11 00:53:10 +0000",
+      "nether_bridge": "2025-05-16 22:09:42 +0000",
       "village_armorer": "2025-05-15 23:56:39 +0000",
       "shipwreck_supply": "2025-05-11 00:52:38 +0000",
       "village_cartographer": "2025-05-14 03:12:01 +0000",
@@ -2259,10 +2275,12 @@
       "riptide_book": "2025-05-16 20:51:18 +0000",
       "efficiency_book": "2025-05-14 15:54:15 +0000",
       "thorns": "2025-05-11 00:52:47 +0000",
+      "piercing": "2025-05-16 22:18:58 +0000",
       "silk_touch_book": "2025-05-16 20:51:30 +0000",
       "unbreaking": "2025-05-16 01:59:39 +0000",
       "flame_book": "2025-05-16 02:04:18 +0000",
       "mending": "2025-05-11 00:52:46 +0000",
+      "protection": "2025-05-16 22:19:04 +0000",
       "binding_curse": "2025-05-14 04:53:09 +0000",
       "protection_book": "2025-05-16 02:04:18 +0000",
       "projectile_protection_book": "2025-05-11 01:14:01 +0000",
@@ -2279,6 +2297,7 @@
       "efficiency_book": "2025-05-11 01:14:01 +0000",
       "luck_of_the_sea_book": "2025-05-16 20:50:56 +0000",
       "thorns": "2025-05-11 00:52:47 +0000",
+      "piercing": "2025-05-16 22:18:58 +0000",
       "fire_protection": "2025-05-16 01:59:39 +0000",
       "smite": "2025-05-16 19:29:51 +0000",
       "unbreaking": "2025-05-16 01:59:39 +0000",
@@ -2320,6 +2339,7 @@
     "criteria": {
       "sharpness2_book": "2025-05-16 19:26:36 +0000",
       "smite1_book": "2025-05-16 20:50:55 +0000",
+      "piercing4": "2025-05-16 22:18:58 +0000",
       "efficiency1_book": "2025-05-16 20:50:54 +0000",
       "loyalty1_book": "2025-05-14 15:56:08 +0000",
       "flame_book": "2025-05-16 02:04:18 +0000",
@@ -2348,6 +2368,7 @@
       "protection3": "2025-05-14 04:21:54 +0000",
       "efficiency5_book": "2025-05-14 15:54:15 +0000",
       "unbreaking3": "2025-05-16 01:59:39 +0000",
+      "protection4": "2025-05-16 22:19:04 +0000",
       "sharpness4": "2025-05-15 17:59:52 +0000",
       "binding_curse": "2025-05-14 04:53:09 +0000",
       "sharpness3": "2025-05-16 19:26:55 +0000",
@@ -2979,7 +3000,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-15 16:48:26 +0000",
+      "minecraft:blaze": "2025-05-16 22:10:54 +0000",
       "minecraft:skeleton": "2025-05-14 02:18:02 +0000",
+      "minecraft:zombified_piglin": "2025-05-16 22:16:51 +0000",
       "minecraft:wither_skeleton": "2025-05-16 22:09:03 +0000",
       "minecraft:ravager": "2025-05-15 23:51:57 +0000",
       "minecraft:husk": "2025-05-16 20:15:22 +0000",
@@ -4949,6 +4972,7 @@
     "criteria": {
       "pillager": "2025-05-15 16:48:26 +0000",
       "vindicator": "2025-05-16 01:20:47 +0000",
+      "blaze": "2025-05-16 22:10:54 +0000",
       "vex": "2025-05-16 19:59:04 +0000",
       "wither_skeleton": "2025-05-16 22:09:03 +0000",
       "cave_spider": "2025-05-15 02:47:47 +0000",
@@ -5345,6 +5369,7 @@
   },
   "blazeandcave:mining/where_are_all_your_clothes": {
     "criteria": {
+      "diamond_leggings": "2025-05-16 22:16:59 +0000",
       "diamond_helmet": "2025-05-16 20:32:42 +0000",
       "diamond_boots": "2025-05-16 20:41:40 +0000",
       "iron_helmet": "2025-05-14 16:25:32 +0000"
@@ -7090,10 +7115,16 @@
   },
   "blazeandcave:bacap/nether_milestone": {
     "criteria": {
+      "who_is_cutting_onions": "2025-05-16 22:09:33 +0000",
       "high_temperature_fluid_monster": "2025-05-16 22:09:08 +0000",
       "local_brewery": "2025-05-16 20:50:53 +0000",
+      "the_tribal_snouts": "2025-05-16 22:16:51 +0000",
+      "nether_say_die": "2025-05-16 22:15:08 +0000",
       "twisted": "2025-05-16 20:48:10 +0000",
+      "stepping_on_legos": "2025-05-16 22:15:33 +0000",
       "root": "2025-05-16 22:08:43 +0000",
+      "basis_of_brewing": "2025-05-16 22:09:43 +0000",
+      "seeing_stars": "2025-05-16 22:09:25 +0000",
       "the_descent": "2025-05-16 22:08:43 +0000",
       "the_hunt_begins": "2025-05-16 22:09:03 +0000"
     },
@@ -7185,79 +7216,86 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-05-16 22:09:02 +0000",
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 22:08:24 +0000"
+      "log_spam_fixer": "2025-05-16 22:18:24 +0000"
     },
     "done": false
   },
+  "blazeandcave:nether/stepping_on_legos": {
+    "criteria": {
+      "legos": "2025-05-16 22:15:32 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:monsters/hell_hunter": {
     "criteria": {
+      "zombified_piglin": "2025-05-16 22:16:51 +0000",
+      "blaze": "2025-05-16 22:10:54 +0000",
       "wither_skeleton": "2025-05-16 22:09:03 +0000",
       "magma_cube": "2025-05-16 22:09:07 +0000"
     },
@@ -7272,6 +7310,18 @@
   "incendium:root": {
     "criteria": {
       "requirement": "2025-05-16 22:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-16 22:15:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/seeing_stars": {
+    "criteria": {
+      "glowstone_dust": "2025-05-16 22:09:25 +0000"
     },
     "done": true
   },
@@ -7323,6 +7373,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-16 22:15:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-05-16 22:03:04 +0000"
@@ -7353,6 +7409,12 @@
     },
     "done": true
   },
+  "blazeandcave:nether/basis_of_brewing": {
+    "criteria": {
+      "nether_wart": "2025-05-16 22:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-05-16 22:03:04 +0000"
@@ -7362,6 +7424,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-05-16 22:03:04 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/crying_obsidian": {
+    "criteria": {
+      "requirement": "2025-05-16 22:09:32 +0000"
     },
     "done": true
   },
@@ -7390,11 +7458,24 @@
     },
     "done": false
   },
+  "blazeandcave:mining/not_chicken_mcnuggets": {
+    "criteria": {
+      "iron_nugget": "2025-05-16 22:11:27 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:ash_barrens": "2025-05-16 22:08:43 +0000"
+      "incendium:ash_barrens": "2025-05-16 22:08:43 +0000",
+      "incendium:volcanic_deltas": "2025-05-16 22:12:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-16 22:09:25 +0000"
+    },
+    "done": true
   },
   "incendium:ash_barrens/root": {
     "criteria": {
@@ -7411,6 +7492,18 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-05-16 22:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-16 22:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-16 22:09:32 +0000"
     },
     "done": true
   },
@@ -7462,6 +7555,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-16 22:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-16 22:15:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-16 21:54:53 +0000"
@@ -7474,9 +7579,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-16 22:09:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-05-16 22:12:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-16 22:03:04 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/boing_boing": {
+    "criteria": {
+      "trigger": "2025-05-16 22:10:17 +0000"
     },
     "done": true
   },
@@ -7492,9 +7615,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-16 22:09:32 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:monsters/iron_belly": {
     "criteria": {
       "rotten_flesh": "2025-05-16 21:54:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/the_tribal_snouts": {
+    "criteria": {
+      "zombified_piglin": "2025-05-16 22:16:51 +0000"
     },
     "done": true
   },
@@ -7506,6 +7641,8 @@
   },
   "blazeandcave:challenges/highway_to_hell": {
     "criteria": {
+      "zombified_piglin": "2025-05-16 22:16:51 +0000",
+      "blaze": "2025-05-16 22:10:54 +0000",
       "wither_skeleton": "2025-05-16 22:09:03 +0000",
       "magma_cube": "2025-05-16 22:09:07 +0000"
     },
@@ -7514,6 +7651,18 @@
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-05-16 22:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-16 22:09:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-05-16 22:09:43 +0000"
     },
     "done": true
   },
