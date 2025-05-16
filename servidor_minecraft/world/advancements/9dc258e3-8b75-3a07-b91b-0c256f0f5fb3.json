@@ -823,6 +823,7 @@
       "lantern": "2025-05-11 01:02:49 +0000",
       "smithing_table": "2025-05-14 03:15:23 +0000",
       "sunflower": "2025-05-14 02:08:01 +0000",
+      "target": "2025-05-16 01:01:09 +0000",
       "lapis_block": "2025-05-15 17:56:40 +0000",
       "cherry_log": "2025-05-15 18:43:01 +0000",
       "dark_prismarine": "2025-05-14 05:01:18 +0000",
@@ -2268,11 +2269,12 @@
       "chest": "2025-05-15 03:03:31 +0000",
       "furnace": "2025-05-14 02:22:35 +0000",
       "string": "2025-05-11 01:13:26 +0000",
-      "lectern": "2025-05-14 04:22:04 +0000",
-      "iron_trapdoor": "2025-05-14 03:10:09 +0000",
       "rail": "2025-05-14 15:49:52 +0000",
       "oak_door": "2025-05-14 05:08:47 +0000",
       "lever": "2025-05-11 01:03:55 +0000",
+      "target": "2025-05-16 01:01:09 +0000",
+      "lectern": "2025-05-14 04:22:04 +0000",
+      "iron_trapdoor": "2025-05-14 03:10:09 +0000",
       "tnt": "2025-05-11 00:56:56 +0000",
       "redstone": "2025-05-14 02:19:05 +0000",
       "decorated_pot": "2025-05-15 03:20:43 +0000"
@@ -5477,108 +5479,6 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 00:12:28 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:adventure/out_of_posts": {
-    "criteria": {
-      "pillager_outpost": "2025-05-15 23:51:18 +0000"
-    },
-    "done": true
-  },
-  "2re:recipes/netherrack": {
-    "criteria": {
-      "requirement": "2025-05-15 23:56:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:building/blast_it": {
-    "criteria": {
-      "blast_furnace": "2025-05-15 23:56:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/tridented_shield": {
-    "criteria": {
-      "deflected_trident": "2025-05-15 23:39:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:adventure/its_so_beast_like": {
-    "criteria": {
-      "ravager": "2025-05-15 23:51:57 +0000"
-    },
-    "done": true
-  },
   "knize1007:firework_revenge": {
     "criteria": {
       "pillager": "2025-05-15 23:21:44 +0000"
@@ -5588,12 +5488,6 @@
   "blazeandcave:weaponry/my_eyes": {
     "criteria": {
       "firework_rocket_kill": "2025-05-15 23:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-05-15 23:56:35 +0000"
     },
     "done": true
   },
@@ -5610,9 +5504,57 @@
     },
     "done": true
   },
+  "blazeandcave:monsters/tridented_shield": {
+    "criteria": {
+      "deflected_trident": "2025-05-15 23:39:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/out_of_posts": {
+    "criteria": {
+      "pillager_outpost": "2025-05-15 23:51:18 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_pillager_outpost": {
     "criteria": {
       "minecraft:pillager_outpost": "2025-05-15 23:51:18 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/its_so_beast_like": {
+    "criteria": {
+      "ravager": "2025-05-15 23:51:57 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/netherrack": {
+    "criteria": {
+      "requirement": "2025-05-15 23:56:35 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/blast_it": {
+    "criteria": {
+      "blast_furnace": "2025-05-15 23:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-15 23:56:35 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-16 01:01:42 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-16 01:01:42 +0000"
     },
     "done": true
   },
