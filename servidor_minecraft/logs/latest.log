@@ -582,3 +582,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13:39:17] [Server thread/INFO]: [EssentialCommands]: world_data.dat saved.
 [13:39:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [13:39:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:41:49] [Server thread/INFO]: Sgirano was blown up by Creeper
+[13:41:49] [Server thread/INFO]: Created new backpack backup file for Sgirano with unique ID travelersbackpack.bat_02.06.2025-13.41.49.dat
+[13:42:15] [Server thread/INFO]: [Not Secure] <BillyVR15> ven
+[13:43:57] [Server thread/INFO]: [Not Secure] <BillyVR15> a
+[13:44:39] [Server thread/INFO]: [Not Secure] <BillyVR15> si ves algo raro
+[13:44:41] [Server thread/INFO]: [Not Secure] <BillyVR15> no preguntes
+[13:45:00] [Server thread/INFO]: Named entity class_1634['Space-Time Vex'/13460, l='ServerLevel[world]', x=7.36, y=72.34, z=-549.74] died: Space-Time Vex was slain by Sgirano
+[13:47:19] [Server thread/INFO]: Villager class_1646['Librarian'/10983, l='ServerLevel[world]', x=-163.30, y=76.00, z=-731.30] died, message: 'Librarian was slain by Sgirano'
