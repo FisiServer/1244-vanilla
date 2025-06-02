@@ -150,6 +150,7 @@
       "ultra_hardcore": "2025-05-15 02:25:40 +0000",
       "atlantis": "2025-05-16 02:12:57 +0000",
       "click": "2025-05-14 16:13:44 +0000",
+      "this_snow_is_snowier": "2025-06-02 13:34:33 +0000",
       "bombs_away": "2025-05-14 16:08:29 +0000",
       "stone_age": "2025-05-14 15:43:43 +0000",
       "overpowered": "2025-05-15 02:01:53 +0000",
@@ -188,11 +189,13 @@
       "wooly": "2025-05-15 02:29:54 +0000",
       "bake_bread": "2025-05-14 15:43:30 +0000",
       "aww_it_broke": "2025-05-14 16:03:23 +0000",
+      "minecraft_trials_edition": "2025-06-02 13:32:09 +0000",
       "poisonous_ew": "2025-05-14 16:12:58 +0000",
       "getting_wood": "2025-05-14 15:41:22 +0000",
       "no_chain_no_gain": "2025-05-15 17:44:00 +0000",
       "cephalight": "2025-05-16 22:00:01 +0000",
       "classy_glassy": "2025-05-16 02:25:06 +0000",
+      "frosty": "2025-06-02 13:34:53 +0000",
       "the_cutest_predator": "2025-05-16 20:08:52 +0000",
       "shriek_forever_after": "2025-05-14 16:04:18 +0000",
       "acquire_hardware": "2025-05-14 15:53:50 +0000",
@@ -368,6 +371,7 @@
       "deep_lukewarm_ocean": "2025-05-16 02:47:35 +0000",
       "lush_caves": "2025-05-16 20:04:43 +0000",
       "cold_ocean": "2025-05-16 02:10:47 +0000",
+      "deep_ocean": "2025-06-02 13:29:53 +0000",
       "bamboo_jungle": "2025-05-16 02:53:49 +0000",
       "lukewarm_ocean": "2025-05-16 02:46:07 +0000",
       "dark_forest": "2025-05-15 02:47:04 +0000",
@@ -640,6 +644,7 @@
       "smooth_operator": "2025-05-15 03:01:56 +0000",
       "boaty_mcboatface": "2025-05-15 02:48:48 +0000",
       "the_mighty_jungle": "2025-05-16 02:53:01 +0000",
+      "this_snow_is_snowier": "2025-06-02 13:34:33 +0000",
       "the_great_blocky_reef": "2025-05-16 19:43:39 +0000",
       "kilometre_walk": "2025-05-15 02:49:02 +0000",
       "just_keep_swimming": "2025-05-14 15:42:24 +0000",
@@ -719,7 +724,8 @@
       "beach": "2025-05-14 16:17:56 +0000",
       "deep_lukewarm_ocean": "2025-05-16 02:47:35 +0000",
       "river": "2025-05-14 15:42:24 +0000",
-      "cold_ocean": "2025-05-16 02:10:47 +0000"
+      "cold_ocean": "2025-05-16 02:10:47 +0000",
+      "deep_ocean": "2025-06-02 13:29:53 +0000"
     },
     "done": false
   },
@@ -1510,6 +1516,7 @@
       "there_has_to_be_another_way": "2025-05-14 15:46:06 +0000",
       "witch": "2025-05-16 19:53:11 +0000",
       "ooh_baby": "2025-05-15 18:20:46 +0000",
+      "frosty": "2025-06-02 13:34:53 +0000",
       "blast_shield": "2025-05-15 17:45:29 +0000"
     },
     "done": false
@@ -1626,6 +1633,7 @@
       "under_lock_and_key": "2025-05-14 16:25:25 +0000",
       "riot_shield": "2025-05-15 18:08:29 +0000",
       "brushed_away": "2025-05-16 19:18:02 +0000",
+      "minecraft_trials_edition": "2025-06-02 13:32:09 +0000",
       "ghostbuster": "2025-05-16 20:47:47 +0000",
       "laser_sharks": "2025-05-15 03:01:31 +0000",
       "good_lookin_treasure": "2025-05-14 16:25:27 +0000",
@@ -1663,6 +1671,7 @@
       "minecraft:vindicator": "2025-05-15 18:10:45 +0000",
       "minecraft:breeze": "2025-05-16 19:25:20 +0000",
       "minecraft:silverfish": "2025-05-16 19:18:38 +0000",
+      "minecraft:stray": "2025-06-02 13:34:53 +0000",
       "minecraft:magma_cube": "2025-05-16 22:35:01 +0000",
       "minecraft:spider": "2025-05-14 15:53:14 +0000",
       "minecraft:vex": "2025-05-16 20:47:46 +0000",
@@ -1683,6 +1692,7 @@
   "blazeandcave:monsters/night_runner": {
     "criteria": {
       "skeleton": "2025-05-14 16:03:14 +0000",
+      "stray": "2025-06-02 13:34:53 +0000",
       "husk": "2025-05-16 19:10:32 +0000",
       "zombie": "2025-05-14 15:47:19 +0000",
       "zombie_villager": "2025-05-14 15:46:06 +0000",
@@ -3386,6 +3396,7 @@
   },
   "blazeandcave:adventure/raidin_master": {
     "criteria": {
+      "trial_chambers": "2025-06-02 13:32:08 +0000",
       "shipwreck": "2025-05-15 02:29:09 +0000",
       "village_savanna": "2025-05-16 02:44:26 +0000",
       "ocean_ruin_cold": "2025-05-16 02:12:56 +0000",
@@ -3807,6 +3818,7 @@
       "diamond_leggings": "2025-06-02 13:22:30 +0000",
       "iron_chestplate": "2025-05-15 03:31:06 +0000",
       "diamond_helmet": "2025-05-16 20:45:30 +0000",
+      "diamond_chestplate": "2025-06-02 13:31:55 +0000",
       "iron_leggings": "2025-05-15 03:19:24 +0000",
       "iron_helmet": "2025-05-15 03:10:29 +0000"
     },
@@ -6562,6 +6574,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-02 13:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-02 13:10:59 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:nether/holy_scrap": {
     "criteria": {
       "netherite_scrap": "2025-06-02 13:11:55 +0000"
@@ -6573,18 +6597,6 @@
       "has_netherite_scrap": "2025-06-02 13:11:55 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-06-02 13:10:59 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/spreading_corruption": {
-    "criteria": {
-      "soul_sand": "2025-06-02 13:12:48 +0000"
-    },
-    "done": false
   },
   "2re:recipes/netherite_scrap": {
     "criteria": {
@@ -6598,11 +6610,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
+  "2re:recipes/flowering_azalea": {
     "criteria": {
-      "has_ancient_debris": "2025-06-02 13:10:59 +0000"
+      "requirement": "2025-06-02 13:11:56 +0000"
     },
     "done": true
+  },
+  "blazeandcave:nether/spreading_corruption": {
+    "criteria": {
+      "soul_sand": "2025-06-02 13:12:48 +0000"
+    },
+    "done": false
   },
   "blazeandcave:mining/rock_bottom": {
     "criteria": {
@@ -6610,15 +6628,27 @@
     },
     "done": true
   },
-  "2re:recipes/flowering_azalea": {
-    "criteria": {
-      "requirement": "2025-06-02 13:11:56 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:mining/nananananananana": {
     "criteria": {
       "bat": "2025-06-02 13:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-06-02 13:32:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/this_snow_is_snowier": {
+    "criteria": {
+      "enter_water": "2025-06-02 13:34:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/frosty": {
+    "criteria": {
+      "stray": "2025-06-02 13:34:53 +0000"
     },
     "done": true
   },

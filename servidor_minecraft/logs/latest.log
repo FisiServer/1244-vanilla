@@ -539,3 +539,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13:29:21] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [13:29:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [13:29:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:29:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:30:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:30:38] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:30:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:30:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:30:48] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:30:49] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:13] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:51] [Server thread/INFO]: [Not Secure] <BillyVR15> ven
+[13:31:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:31:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:32:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:32:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:32:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:32:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:32:20] [Server thread/INFO]: Sgirano lost connection: Disconnected
+[13:32:20] [Server thread/INFO]: Sgirano left the game
+[13:32:20] [Server thread/INFO]: [voicechat] Disconnecting client Sgirano
+[13:34:15] [Server thread/INFO]: Sgirano[/127.125.221.148:56691] logged in with entity id 8950 at (165.02074114451028, -21.0, -319.69999998807907)
+[13:34:15] [Server thread/INFO]: [Essential Commands] Loading PlayerData for player with uuid '9909c47d-4a06-3b3c-8ba2-dac6241fc74d'.
+[13:34:15] [Server thread/INFO]: Loading config from file...
+[13:34:15] [Server thread/INFO]: Sgirano joined the game
+[13:34:15] [Server thread/INFO]: [Essential Commands] Loading PlayerProfile for player with uuid '9909c47d-4a06-3b3c-8ba2-dac6241fc74d'.
+[13:34:15] [Server thread/INFO]: [voicechat] Received secret request of Sgirano (18)
+[13:34:15] [Server thread/INFO]: [voicechat] Sent secret to Sgirano
+[13:34:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[13:34:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 9909c47d-4a06-3b3c-8ba2-dac6241fc74d
+[13:34:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Sgirano (9909c47d-4a06-3b3c-8ba2-dac6241fc74d) successfully connected to voice chat
+[13:34:31] [Server thread/INFO]: [Sgirano: Triggered [login] (set value to 2004)]
+[13:36:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:36:00] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:36:45] [Server thread/INFO]: [Not Secure] <Sgirano> billy
+[13:39:17] [Server thread/INFO]: [EssentialCommands]: Saving world_data.dat (Spawn/Warps)...
+[13:39:17] [Server thread/INFO]: [EssentialCommands]: world_data.dat saved.
+[13:39:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[13:39:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'

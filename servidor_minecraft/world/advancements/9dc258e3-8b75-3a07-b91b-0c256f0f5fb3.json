@@ -199,6 +199,7 @@
       "boing_boing": "2025-05-16 22:10:18 +0000",
       "bake_bread": "2025-05-11 00:12:02 +0000",
       "aww_it_broke": "2025-05-14 02:33:17 +0000",
+      "minecraft_trials_edition": "2025-06-02 13:31:49 +0000",
       "poisonous_ew": "2025-05-15 02:47:47 +0000",
       "stationary_storage": "2025-06-02 04:48:17 +0000",
       "getting_wood": "2025-05-11 00:11:42 +0000",
@@ -314,6 +315,7 @@
       "diamonds": "2025-05-14 02:37:14 +0000",
       "eeuuwww": "2025-05-14 15:49:34 +0000",
       "bacap_root": "2025-05-11 00:05:26 +0000",
+      "hyper_healing": "2025-06-02 13:34:15 +0000",
       "caves_and_cliffs": "2025-06-02 04:44:39 +0000",
       "the_mighty_jungle": "2025-05-16 02:53:01 +0000",
       "galileo_figaro": "2025-05-16 01:24:06 +0000",
@@ -828,6 +830,7 @@
       "nether_wart": "2025-05-16 22:09:43 +0000",
       "iron_nugget": "2025-05-16 22:11:27 +0000",
       "rabbit_hide": "2025-05-11 01:16:16 +0000",
+      "ghast_tear": "2025-06-02 13:34:15 +0000",
       "enchanted_book": "2025-05-11 01:14:01 +0000",
       "mutton": "2025-05-11 00:47:18 +0000",
       "wheat_seeds": "2025-05-14 02:09:17 +0000",
@@ -904,6 +907,7 @@
   },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
+      "tuff_bricks": "2025-06-02 13:31:45 +0000",
       "red_sandstone": "2025-05-16 20:26:53 +0000",
       "soul_sand": "2025-05-16 22:09:15 +0000",
       "oak_sapling": "2025-05-14 03:08:03 +0000",
@@ -959,6 +963,7 @@
       "yellow_banner": "2025-05-16 20:43:07 +0000",
       "barrel": "2025-05-14 04:22:09 +0000",
       "emerald_block": "2025-05-16 20:50:35 +0000",
+      "polished_tuff": "2025-06-02 13:31:49 +0000",
       "waxed_cut_copper": "2025-05-14 16:00:31 +0000",
       "torch": "2025-05-14 02:28:50 +0000",
       "lantern": "2025-05-11 01:02:49 +0000",
@@ -2242,6 +2247,7 @@
   },
   "blazeandcave:adventure/raidin_master": {
     "criteria": {
+      "trial_chambers": "2025-06-02 13:31:48 +0000",
       "shipwreck": "2025-05-11 00:52:22 +0000",
       "village_savanna": "2025-05-14 03:11:16 +0000",
       "ocean_ruin_cold": "2025-05-15 23:38:53 +0000",
@@ -2894,6 +2900,7 @@
       "youve_got_a_friend_in_me": "2025-05-16 19:57:10 +0000",
       "under_lock_and_key": "2025-05-14 04:07:00 +0000",
       "brushed_away": "2025-05-14 03:38:01 +0000",
+      "minecraft_trials_edition": "2025-06-02 13:31:49 +0000",
       "ghostbuster": "2025-05-16 19:59:05 +0000",
       "laser_sharks": "2025-05-14 04:58:05 +0000",
       "good_lookin_treasure": "2025-05-14 16:20:55 +0000",
@@ -3941,6 +3948,8 @@
   "blazeandcave:building/tuff_stuff": {
     "criteria": {
       "chiseled_tuff": "2025-06-02 03:49:10 +0000",
+      "tuff_bricks": "2025-06-02 13:31:45 +0000",
+      "polished_tuff": "2025-06-02 13:31:49 +0000",
       "tuff": "2025-05-14 02:34:39 +0000"
     },
     "done": false
@@ -5672,6 +5681,7 @@
     "criteria": {
       "super_strength": "2025-06-02 13:02:03 +0000",
       "root": "2025-06-02 13:02:03 +0000",
+      "hyper_healing": "2025-06-02 13:34:15 +0000",
       "marine_marauder": "2025-05-15 03:18:51 +0000"
     },
     "done": false
@@ -7991,9 +8001,45 @@
     },
     "done": true
   },
+  "blazeandcave:potion/hyper_healing": {
+    "criteria": {
+      "regeneration": "2025-06-02 13:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-02 13:34:15 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:nether/holy_scrap": {
     "criteria": {
       "netherite_scrap": "2025-06-02 13:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
     },
     "done": true
   },
@@ -8003,9 +8049,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/netherite_scrap": {
     "criteria": {
       "requirement": "2025-06-02 13:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-06-02 13:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/rock_polish": {
+    "criteria": {
+      "polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
     },
     "done": true
   },
