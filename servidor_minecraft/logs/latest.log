@@ -545,3 +545,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14:00:09] [Server thread/INFO]: Villager class_1646['Villager'/105, l='ServerLevel[world]', x=-169.30, y=72.00, z=-757.30] died, message: 'Villager was slain by Sgirano'
 [14:03:11] [Server thread/INFO]: Villager class_1646['Librarian'/98, l='ServerLevel[world]', x=-178.81, y=72.00, z=-761.81] died, message: 'Librarian was slain by Sgirano'
 [14:03:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:07:10] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:09:48] [Server thread/INFO]: Sgirano was slain by Spider
+[14:09:48] [Server thread/INFO]: Created new backpack backup file for Sgirano with unique ID travelersbackpack.bat_02.06.2025-14.09.48.dat
+[14:14:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
