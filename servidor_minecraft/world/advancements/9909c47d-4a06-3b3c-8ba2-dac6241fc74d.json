@@ -139,6 +139,7 @@
       "spider_smasher": "2025-05-15 01:58:11 +0000",
       "nice_to_mace_you": "2025-06-02 13:58:33 +0000",
       "24_carrot_gold": "2025-05-15 02:03:09 +0000",
+      "professional": "2025-06-02 15:08:35 +0000",
       "sharpening_station": "2025-05-16 02:44:31 +0000",
       "enchanting_root": "2025-05-16 01:59:05 +0000",
       "time_to_dig": "2025-05-16 02:18:26 +0000",
@@ -236,6 +237,7 @@
       "desert_rider": "2025-05-16 21:19:29 +0000",
       "tarzan": "2025-05-15 02:55:29 +0000",
       "not_today_thank_you": "2025-05-14 16:02:39 +0000",
+      "what_a_deal": "2025-06-02 14:44:51 +0000",
       "spooky_skeleton": "2025-05-14 16:03:14 +0000",
       "cowboy": "2025-05-16 01:30:08 +0000",
       "local_brewery": "2025-05-15 17:40:01 +0000",
@@ -311,6 +313,7 @@
       "sneak_100": "2025-05-15 18:26:36 +0000",
       "the_shielding": "2025-05-15 18:10:40 +0000",
       "adventure_root": "2025-05-14 15:44:57 +0000",
+      "rare_candy_shop": "2025-06-02 15:08:35 +0000",
       "good_lookin_treasure": "2025-05-14 16:25:27 +0000",
       "blast_it": "2025-05-16 00:43:56 +0000",
       "youll_never_take_me_alive_copper": "2025-05-15 03:19:35 +0000",
@@ -333,6 +336,7 @@
       "bricks": "2025-05-16 00:44:06 +0000",
       "nananananananana": "2025-06-02 13:22:17 +0000",
       "pushed_around": "2025-05-14 16:10:06 +0000",
+      "festival_of_lights": "2025-06-02 14:42:39 +0000",
       "boaty_mcboatface": "2025-05-15 02:48:48 +0000",
       "laps_in_the_pool": "2025-05-15 03:26:31 +0000",
       "the_great_blocky_reef": "2025-05-16 19:43:39 +0000",
@@ -535,10 +539,13 @@
       "cobblestone_wall": "2025-05-16 19:11:34 +0000",
       "waxed_cut_copper": "2025-05-14 16:15:03 +0000",
       "torch": "2025-05-14 15:48:55 +0000",
+      "lantern": "2025-06-02 14:42:35 +0000",
       "smithing_table": "2025-05-16 00:46:56 +0000",
+      "oak_button": "2025-06-02 15:02:06 +0000",
       "orange_terracotta": "2025-05-16 01:41:59 +0000",
       "black_banner": "2025-05-16 20:51:49 +0000",
       "candle": "2025-05-16 02:22:58 +0000",
+      "brown_wool": "2025-06-02 15:09:11 +0000",
       "nether_wart_block": "2025-05-16 22:47:27 +0000",
       "smooth_stone_slab": "2025-05-16 00:32:30 +0000",
       "mossy_stone_bricks": "2025-05-15 18:23:39 +0000",
@@ -588,6 +595,7 @@
       "netherrack": "2025-05-16 00:43:54 +0000",
       "coal_block": "2025-05-16 22:09:57 +0000",
       "bricks": "2025-05-16 00:44:05 +0000",
+      "orange_bed": "2025-06-02 15:06:17 +0000",
       "birch_planks": "2025-05-15 18:09:07 +0000",
       "crafting_table": "2025-05-14 15:43:21 +0000",
       "oak_planks": "2025-05-14 15:43:06 +0000",
@@ -613,7 +621,8 @@
       "oak_wood": "2025-05-14 15:41:21 +0000",
       "oak_planks": "2025-05-14 15:43:06 +0000",
       "oak_slab": "2025-05-15 17:53:14 +0000",
-      "oak_boat": "2025-05-16 02:13:48 +0000"
+      "oak_boat": "2025-05-16 02:13:48 +0000",
+      "oak_button": "2025-06-02 15:02:06 +0000"
     },
     "done": false
   },
@@ -624,6 +633,7 @@
       "what_a_pane": "2025-05-16 02:25:06 +0000",
       "setting_up_the_mood": "2025-05-16 02:22:59 +0000",
       "barking_mad": "2025-05-14 15:41:22 +0000",
+      "festival_of_lights": "2025-06-02 14:42:39 +0000",
       "torched": "2025-05-14 15:49:30 +0000",
       "sharpening_station": "2025-05-16 02:44:31 +0000",
       "cut_in_half": "2025-05-15 17:53:15 +0000",
@@ -1000,14 +1010,15 @@
     "criteria": {
       "furnace": "2025-05-14 15:51:38 +0000",
       "string": "2025-05-14 15:49:00 +0000",
-      "redstone_block": "2025-05-16 19:10:58 +0000",
       "rail": "2025-05-14 16:06:16 +0000",
-      "big_dripleaf": "2025-05-16 20:05:34 +0000",
       "tnt_minecart": "2025-05-14 16:08:17 +0000",
-      "stone_button": "2025-05-14 16:16:10 +0000",
-      "tnt": "2025-05-14 16:08:29 +0000",
       "copper_bulb": "2025-05-14 16:15:04 +0000",
       "honey_block": "2025-06-02 13:48:42 +0000",
+      "oak_button": "2025-06-02 15:02:06 +0000",
+      "redstone_block": "2025-05-16 19:10:58 +0000",
+      "big_dripleaf": "2025-05-16 20:05:34 +0000",
+      "stone_button": "2025-05-14 16:16:10 +0000",
+      "tnt": "2025-05-14 16:08:29 +0000",
       "stone_pressure_plate": "2025-05-16 19:16:40 +0000",
       "decorated_pot": "2025-05-14 15:42:56 +0000"
     },
@@ -1087,6 +1098,7 @@
   },
   "blazeandcave:building/rainbow_dreams": {
     "criteria": {
+      "orange_bed": "2025-06-02 15:06:17 +0000",
       "purple_bed": "2025-05-16 01:05:31 +0000",
       "blue_bed": "2025-05-16 01:05:00 +0000",
       "red_bed": "2025-05-16 02:44:58 +0000",
@@ -1102,6 +1114,11 @@
   },
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
+      "orange_bed": "2025-06-02 15:06:17 +0000",
+      "oak_planks": "2025-06-02 14:46:18 +0000",
+      "torch": "2025-05-15 18:30:57 +0000",
+      "blue_bed": "2025-05-16 01:05:00 +0000",
+      "yellow_bed": "2025-05-14 15:43:15 +0000",
       "sand": "2025-05-16 02:19:12 +0000",
       "purple_bed": "2025-05-16 01:05:31 +0000",
       "oak_log": "2025-06-02 14:33:36 +0000",
@@ -1109,10 +1126,7 @@
       "cobblestone": "2025-05-16 20:04:16 +0000",
       "cake": "2025-05-15 02:01:43 +0000",
       "spruce_planks": "2025-05-15 02:19:24 +0000",
-      "torch": "2025-05-15 18:30:57 +0000",
-      "blue_bed": "2025-05-16 01:05:00 +0000",
-      "red_bed": "2025-05-16 02:44:58 +0000",
-      "yellow_bed": "2025-05-14 15:43:15 +0000"
+      "red_bed": "2025-05-16 02:44:58 +0000"
     },
     "done": false
   },
@@ -1224,6 +1238,7 @@
       "water_bucket": "2025-05-16 00:54:06 +0000",
       "saddle": "2025-05-16 00:55:13 +0000",
       "crossbow": "2025-05-16 01:20:26 +0000",
+      "arrow": "2025-06-02 14:44:51 +0000",
       "iron_chestplate": "2025-05-14 15:53:58 +0000",
       "clay_ball": "2025-05-16 20:10:04 +0000",
       "diamond_shovel": "2025-05-16 02:18:26 +0000",
@@ -1652,11 +1667,13 @@
       "filthy_rich": "2025-05-15 17:47:33 +0000",
       "do_you_want_to_trade": "2025-05-15 03:36:12 +0000",
       "under_lock_and_key": "2025-05-14 16:25:25 +0000",
+      "professional": "2025-06-02 15:08:35 +0000",
       "brushed_away": "2025-05-16 19:18:02 +0000",
       "ghostbuster": "2025-05-16 20:47:47 +0000",
       "laser_sharks": "2025-05-15 03:01:31 +0000",
       "root": "2025-05-14 15:44:57 +0000",
       "respecting_the_remnants": "2025-05-14 16:06:27 +0000",
+      "what_a_deal": "2025-06-02 14:44:51 +0000",
       "hard_mode_activated": "2025-05-15 03:23:05 +0000",
       "oh_look_it_dings": "2025-05-16 21:13:40 +0000",
       "blowback": "2025-05-16 19:27:38 +0000",
@@ -1669,6 +1686,7 @@
       "the_shielding": "2025-05-15 18:10:40 +0000",
       "riot_shield": "2025-05-15 18:08:29 +0000",
       "minecraft_trials_edition": "2025-06-02 13:32:09 +0000",
+      "rare_candy_shop": "2025-06-02 15:08:35 +0000",
       "good_lookin_treasure": "2025-05-14 16:25:27 +0000",
       "overpowered": "2025-05-15 02:01:53 +0000",
       "break_wind": "2025-05-16 19:25:20 +0000",
@@ -6012,7 +6030,8 @@
   },
   "blazeandcave:animal/rainbow_collection": {
     "criteria": {
-      "black_wool": "2025-05-16 20:34:57 +0000"
+      "black_wool": "2025-05-16 20:34:57 +0000",
+      "brown_wool": "2025-06-02 15:09:11 +0000"
     },
     "done": false
   },
@@ -6181,7 +6200,8 @@
   },
   "blazeandcave:weaponry/the_mighty_hunter": {
     "criteria": {
-      "cow": "2025-05-16 20:51:57 +0000"
+      "cow": "2025-05-16 20:51:57 +0000",
+      "pig": "2025-06-02 14:57:50 +0000"
     },
     "done": false
   },
@@ -6767,9 +6787,93 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 15:13:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-02 15:09:11 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:potion/hyper_healing": {
     "criteria": {
       "regeneration": "2025-06-02 14:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-02 15:09:11 +0000"
     },
     "done": true
   },
@@ -6778,6 +6882,12 @@
       "has_ghast_tear": "2025-06-02 14:24:16 +0000"
     },
     "done": true
+  },
+  "blazeandcave:adventure/traveller": {
+    "criteria": {
+      "savanna": "2025-06-02 14:44:51 +0000"
+    },
+    "done": false
   },
   "blazeandcave:animal/winnie_the_pooh": {
     "criteria": {
@@ -6791,9 +6901,28 @@
     },
     "done": true
   },
+  "blazeandcave:adventure/rare_candy_shop": {
+    "criteria": {
+      "experience_bottle": "2025-06-02 15:08:34 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/fruit_of_the_looms": {
     "criteria": {
       "flow_banner_pattern": "2025-06-02 14:29:13 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-06-02 15:09:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/stockbroker": {
+    "criteria": {
+      "cleric_savanna": "2025-06-02 15:08:34 +0000",
+      "fletcher_savanna": "2025-06-02 14:44:51 +0000"
     },
     "done": false
   },
@@ -6803,15 +6932,52 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-02 15:09:11 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/businessman": {
+    "criteria": {
+      "cleric": "2025-06-02 15:08:34 +0000",
+      "fletcher": "2025-06-02 14:44:51 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/festival_of_lights": {
+    "criteria": {
+      "lantern": "2025-06-02 14:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "trade": "2025-06-02 14:44:51 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:building/master_logger": {
     "criteria": {
       "oak_log": "2025-06-02 14:33:36 +0000"
     },
     "done": false
   },
+  "blazeandcave:adventure/master_trader": {
+    "criteria": {
+      "cleric": "2025-06-02 15:08:34 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:weaponry/nice_to_mace_you": {
     "criteria": {
       "mace": "2025-06-02 13:58:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/professional": {
+    "criteria": {
+      "master": "2025-06-02 15:08:34 +0000"
     },
     "done": true
   },

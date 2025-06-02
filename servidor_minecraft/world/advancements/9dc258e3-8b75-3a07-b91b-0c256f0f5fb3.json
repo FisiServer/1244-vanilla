@@ -138,6 +138,7 @@
       "a_horse_in_shining_armor": "2025-05-14 03:11:43 +0000",
       "deep_slate_nine": "2025-05-14 02:31:10 +0000",
       "24_carrot_gold": "2025-05-15 03:24:34 +0000",
+      "professional": "2025-06-02 14:53:31 +0000",
       "sharpening_station": "2025-05-16 19:35:51 +0000",
       "enchanting_root": "2025-05-15 17:59:51 +0000",
       "time_to_dig": "2025-05-14 03:12:54 +0000",
@@ -166,6 +167,7 @@
       "write_your_thoughts": "2025-05-16 01:21:27 +0000",
       "change_of_sheets": "2025-05-14 16:27:36 +0000",
       "pretty_in_pink": "2025-05-15 18:42:54 +0000",
+      "enderman_destroyer": "2025-06-02 14:58:22 +0000",
       "its_full_of_ink": "2025-05-11 01:03:14 +0000",
       "oh_look_it_dings": "2025-05-16 01:28:24 +0000",
       "diam_oh_wait_no": "2025-05-11 01:02:00 +0000",
@@ -191,6 +193,7 @@
       "brushed_away": "2025-05-14 03:38:01 +0000",
       "ice_bucket_challenge": "2025-05-14 03:14:43 +0000",
       "the_tribal_snouts": "2025-05-16 22:16:51 +0000",
+      "novice_enchanter": "2025-06-02 14:55:38 +0000",
       "unbreakable": "2025-05-11 00:52:47 +0000",
       "which_came_first": "2025-05-11 00:39:15 +0000",
       "shrooms": "2025-05-16 23:09:12 +0000",
@@ -232,6 +235,7 @@
       "super_efficient": "2025-05-14 15:54:15 +0000",
       "hot_stuff": "2025-05-15 18:28:16 +0000",
       "monster_hunter": "2025-05-11 01:11:44 +0000",
+      "like_a_cat": "2025-06-02 15:09:18 +0000",
       "comparing_comparator": "2025-05-16 01:21:26 +0000",
       "tactical_fishing": "2025-05-14 02:07:17 +0000",
       "renewable_energy": "2025-05-14 03:21:33 +0000",
@@ -339,6 +343,7 @@
       "the_melon_the_melon_the_melon": "2025-05-16 19:34:32 +0000",
       "sneak_100": "2025-05-15 18:26:47 +0000",
       "adventure_root": "2025-05-11 01:07:25 +0000",
+      "rare_candy_shop": "2025-06-02 14:53:31 +0000",
       "good_lookin_treasure": "2025-05-14 16:20:55 +0000",
       "blast_it": "2025-05-15 23:56:36 +0000",
       "curses": "2025-05-14 04:53:09 +0000",
@@ -368,6 +373,7 @@
       "hey_look_mom": "2025-05-11 01:08:53 +0000",
       "bricks": "2025-05-16 01:49:21 +0000",
       "nananananananana": "2025-06-02 04:00:34 +0000",
+      "the_haggler": "2025-06-02 14:48:36 +0000",
       "pushed_around": "2025-05-14 03:30:03 +0000",
       "festival_of_lights": "2025-05-11 01:02:52 +0000",
       "boaty_mcboatface": "2025-05-14 04:52:43 +0000",
@@ -659,6 +665,7 @@
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
       "loot_em": "2025-05-14 03:12:21 +0000",
+      "the_haggler": "2025-06-02 14:48:36 +0000",
       "out_for_a_stroll": "2025-05-16 20:09:58 +0000",
       "boing_boing": "2025-05-16 22:10:18 +0000",
       "natural_sprinter": "2025-05-15 03:01:01 +0000",
@@ -673,7 +680,8 @@
       "sheriff_firearm": "2025-05-16 01:34:30 +0000",
       "root": "2025-05-11 00:08:22 +0000",
       "om_nom_nom": "2025-05-16 02:34:25 +0000",
-      "spring_in_your_step": "2025-05-14 02:06:29 +0000"
+      "spring_in_your_step": "2025-05-14 02:06:29 +0000",
+      "novice_enchanter": "2025-06-02 14:55:38 +0000"
     },
     "done": false
   },
@@ -923,6 +931,7 @@
       "soul_sand": "2025-05-16 22:09:15 +0000",
       "oak_sapling": "2025-05-14 03:08:03 +0000",
       "mossy_cobblestone": "2025-05-16 19:16:47 +0000",
+      "glowstone": "2025-06-02 14:53:12 +0000",
       "sandstone_stairs": "2025-05-16 20:26:16 +0000",
       "purple_bed": "2025-05-16 01:06:07 +0000",
       "sandstone_slab": "2025-05-16 20:25:06 +0000",
@@ -1430,6 +1439,7 @@
       "diamond_leggings": "2025-05-15 02:47:18 +0000",
       "diamond_helmet": "2025-05-15 02:47:08 +0000",
       "lapis_lazuli": "2025-05-15 17:56:24 +0000",
+      "ender_pearl": "2025-06-02 14:58:21 +0000",
       "diamond_axe": "2025-05-16 02:18:02 +0000",
       "iron_pickaxe": "2025-05-11 00:43:28 +0000",
       "diamond_chestplate": "2025-05-14 02:37:31 +0000",
@@ -2080,6 +2090,7 @@
       "village_butcher": "2025-05-11 00:47:07 +0000",
       "shipwreck_map": "2025-05-11 00:53:10 +0000",
       "nether_bridge": "2025-05-16 22:09:42 +0000",
+      "village_mason": "2025-06-02 14:49:21 +0000",
       "village_armorer": "2025-05-15 23:56:39 +0000",
       "shipwreck_supply": "2025-05-11 00:52:38 +0000",
       "village_cartographer": "2025-05-14 03:12:01 +0000",
@@ -2342,6 +2353,7 @@
       "efficiency_book": "2025-05-14 15:54:15 +0000",
       "thorns": "2025-05-11 00:52:47 +0000",
       "piercing": "2025-05-16 22:18:58 +0000",
+      "fire_protection": "2025-06-02 14:56:13 +0000",
       "silk_touch_book": "2025-05-16 20:51:30 +0000",
       "unbreaking": "2025-05-16 01:59:39 +0000",
       "flame_book": "2025-05-16 02:04:18 +0000",
@@ -2371,6 +2383,7 @@
       "unbreaking": "2025-05-16 01:59:39 +0000",
       "flame_book": "2025-05-16 02:04:18 +0000",
       "wind_burst_book": "2025-06-02 14:29:35 +0000",
+      "feather_falling": "2025-06-02 15:09:17 +0000",
       "mending": "2025-05-11 00:52:46 +0000",
       "protection": "2025-05-11 00:52:47 +0000",
       "projectile_protection": "2025-05-15 03:20:07 +0000",
@@ -2422,10 +2435,12 @@
       "silk_touch_book": "2025-05-16 20:51:30 +0000",
       "protection1": "2025-05-11 00:52:47 +0000",
       "projectile_protection4_book": "2025-05-11 01:14:01 +0000",
+      "protection2": "2025-06-02 15:09:16 +0000",
       "protection3": "2025-05-14 04:21:54 +0000",
       "protection4": "2025-05-16 22:19:04 +0000",
       "power3": "2025-05-11 01:06:36 +0000",
       "fortune2": "2025-05-14 15:51:42 +0000",
+      "fire_protection4": "2025-06-02 14:56:13 +0000",
       "bane_of_arthropods1_book": "2025-06-02 13:46:09 +0000",
       "power4": "2025-05-16 02:04:24 +0000",
       "fire_protection3": "2025-05-16 01:59:39 +0000",
@@ -2441,14 +2456,17 @@
       "protection2_book": "2025-05-16 20:51:18 +0000",
       "smite3": "2025-05-16 19:29:51 +0000",
       "aqua_affinity_book": "2025-05-16 20:50:53 +0000",
+      "feather_falling1": "2025-06-02 15:09:17 +0000",
       "knockback2_book": "2025-05-16 02:04:18 +0000",
       "protection3_book": "2025-05-16 19:26:47 +0000",
       "luck_of_the_sea1_book": "2025-05-16 20:50:56 +0000",
       "looting1": "2025-05-15 03:29:21 +0000",
       "efficiency2_book": "2025-05-16 19:35:45 +0000",
       "mending_book": "2025-06-02 13:45:49 +0000",
+      "unbreaking1": "2025-06-02 15:09:16 +0000",
       "efficiency5_book": "2025-05-14 15:54:15 +0000",
       "unbreaking3": "2025-05-16 01:59:39 +0000",
+      "unbreaking2": "2025-06-02 15:09:16 +0000",
       "wind_burst1_book": "2025-06-02 14:29:35 +0000",
       "sharpness4": "2025-05-15 17:59:52 +0000",
       "binding_curse": "2025-05-14 04:53:09 +0000",
@@ -2488,6 +2506,7 @@
   },
   "blazeandcave:bacap/enchanting_milestone": {
     "criteria": {
+      "like_a_cat": "2025-06-02 15:09:18 +0000",
       "armor_for_the_masses": "2025-05-16 20:58:17 +0000",
       "overkill": "2025-05-16 02:35:26 +0000",
       "heavy_metal": "2025-05-14 03:26:48 +0000",
@@ -2922,29 +2941,31 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
-      "oh_look_it_dings": "2025-05-16 01:28:24 +0000",
       "mapmaker": "2025-05-11 01:02:12 +0000",
       "allayance": "2025-05-16 19:57:06 +0000",
-      "i_hereby_dub_thee": "2025-05-14 15:52:10 +0000",
       "body_guard": "2025-05-14 04:39:06 +0000",
       "filthy_rich": "2025-05-16 20:50:40 +0000",
       "do_you_want_to_trade": "2025-05-14 03:11:17 +0000",
-      "revaulting": "2025-05-16 19:26:35 +0000",
-      "out_of_posts": "2025-05-15 23:51:19 +0000",
-      "youve_got_a_friend_in_me": "2025-05-16 19:57:10 +0000",
       "under_lock_and_key": "2025-05-14 04:07:00 +0000",
+      "professional": "2025-06-02 14:53:31 +0000",
       "brushed_away": "2025-05-14 03:38:01 +0000",
-      "minecraft_trials_edition": "2025-06-02 13:31:49 +0000",
       "knowledge_is_power": "2025-06-02 13:45:49 +0000",
       "ghostbuster": "2025-05-16 19:59:05 +0000",
       "laser_sharks": "2025-05-14 04:58:05 +0000",
-      "good_lookin_treasure": "2025-05-14 16:20:55 +0000",
       "root": "2025-05-11 01:07:25 +0000",
+      "what_a_deal": "2025-06-02 13:45:49 +0000",
+      "hard_mode_activated": "2025-05-15 03:29:50 +0000",
+      "oh_look_it_dings": "2025-05-16 01:28:24 +0000",
+      "i_hereby_dub_thee": "2025-05-14 15:52:10 +0000",
+      "revaulting": "2025-05-16 19:26:35 +0000",
+      "out_of_posts": "2025-05-15 23:51:19 +0000",
+      "youve_got_a_friend_in_me": "2025-05-16 19:57:10 +0000",
+      "minecraft_trials_edition": "2025-06-02 13:31:49 +0000",
+      "rare_candy_shop": "2025-06-02 14:53:31 +0000",
+      "good_lookin_treasure": "2025-05-14 16:20:55 +0000",
       "overpowered": "2025-05-14 16:20:55 +0000",
       "break_wind": "2025-05-16 19:24:28 +0000",
       "its_so_beast_like": "2025-05-15 23:51:58 +0000",
-      "what_a_deal": "2025-06-02 13:45:49 +0000",
-      "hard_mode_activated": "2025-05-15 03:29:50 +0000",
       "now_youre_thinking_with_portals": "2025-05-14 04:53:04 +0000"
     },
     "done": false
@@ -3147,29 +3168,30 @@
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
       "dead_dont_die": "2025-05-14 02:41:32 +0000",
-      "a_watery_grave": "2025-05-15 03:18:50 +0000",
       "iron_belly": "2025-05-16 21:54:40 +0000",
       "termite_control": "2025-05-16 19:19:01 +0000",
       "what_a_creep": "2025-05-14 02:41:15 +0000",
       "because_im_aquaman": "2025-05-14 05:13:39 +0000",
-      "spooky_skulls": "2025-05-16 01:47:30 +0000",
-      "monster_hunter": "2025-05-11 01:11:44 +0000",
-      "ew_ew_ew": "2025-05-14 15:48:37 +0000",
       "desert_nomad": "2025-05-16 20:15:22 +0000",
-      "creepy_heads": "2025-05-16 02:28:23 +0000",
-      "poisonous_ew": "2025-05-15 02:47:47 +0000",
-      "tridented_shield": "2025-05-15 23:39:35 +0000",
       "root": "2025-05-11 01:17:07 +0000",
-      "there_has_to_be_another_way": "2025-05-14 15:50:18 +0000",
       "aww_man": "2025-05-14 02:25:08 +0000",
-      "ooh_baby": "2025-05-15 18:03:54 +0000",
-      "frosty": "2025-05-14 03:30:45 +0000",
       "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
       "zombie_slayer": "2025-05-16 20:54:42 +0000",
       "not_today_thank_you": "2025-05-15 18:32:53 +0000",
-      "blast_shield": "2025-05-15 18:00:36 +0000",
       "spooky_skeleton": "2025-05-14 02:18:03 +0000",
-      "bogged_down": "2025-05-14 15:50:32 +0000"
+      "bogged_down": "2025-05-14 15:50:32 +0000",
+      "enderman_destroyer": "2025-06-02 14:58:22 +0000",
+      "a_watery_grave": "2025-05-15 03:18:50 +0000",
+      "spooky_skulls": "2025-05-16 01:47:30 +0000",
+      "monster_hunter": "2025-05-11 01:11:44 +0000",
+      "ew_ew_ew": "2025-05-14 15:48:37 +0000",
+      "creepy_heads": "2025-05-16 02:28:23 +0000",
+      "poisonous_ew": "2025-05-15 02:47:47 +0000",
+      "tridented_shield": "2025-05-15 23:39:35 +0000",
+      "there_has_to_be_another_way": "2025-05-14 15:50:18 +0000",
+      "ooh_baby": "2025-05-15 18:03:54 +0000",
+      "frosty": "2025-05-14 03:30:45 +0000",
+      "blast_shield": "2025-05-15 18:00:36 +0000"
     },
     "done": false
   },
@@ -8212,6 +8234,7 @@
   },
   "blazeandcave:challenges/stockbroker": {
     "criteria": {
+      "cleric_savanna": "2025-06-02 14:52:34 +0000",
       "librarian_savanna": "2025-06-02 13:45:49 +0000",
       "fletcher_savanna": "2025-06-02 14:38:27 +0000"
     },
@@ -8219,6 +8242,7 @@
   },
   "blazeandcave:adventure/businessman": {
     "criteria": {
+      "cleric": "2025-06-02 14:52:34 +0000",
       "fletcher": "2025-06-02 14:38:27 +0000",
       "librarian": "2025-06-02 13:45:49 +0000"
     },
@@ -8239,6 +8263,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-06-02 14:40:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/the_haggler": {
+    "criteria": {
+      "trigger": "2025-06-02 14:48:35 +0000"
     },
     "done": true
   },
@@ -8266,9 +8296,21 @@
     },
     "done": true
   },
+  "blazeandcave:adventure/rare_candy_shop": {
+    "criteria": {
+      "experience_bottle": "2025-06-02 14:53:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/novice_enchanter": {
+    "criteria": {
+      "trigger": "2025-06-02 14:55:37 +0000"
     },
     "done": true
   },
@@ -8284,9 +8326,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-02 14:53:12 +0000"
+    },
+    "done": true
+  },
   "2re:recipes/jungle_logs": {
     "criteria": {
       "requirement": "2025-06-02 14:40:53 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/like_a_cat": {
+    "criteria": {
+      "feather_falling": "2025-06-02 15:09:17 +0000"
     },
     "done": true
   },
@@ -8308,9 +8362,21 @@
     },
     "done": true
   },
+  "blazeandcave:monsters/enderman_destroyer": {
+    "criteria": {
+      "ender_pearl": "2025-06-02 14:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-02 14:27:45 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/glowstone": {
+    "criteria": {
+      "requirement": "2025-06-02 14:53:12 +0000"
     },
     "done": true
   },
@@ -8341,6 +8407,24 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-02 14:37:16 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/master_trader": {
+    "criteria": {
+      "cleric": "2025-06-02 14:53:30 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/ecologist": {
+    "criteria": {
+      "azalea": "2025-06-02 15:11:33 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/professional": {
+    "criteria": {
+      "master": "2025-06-02 14:53:30 +0000"
     },
     "done": true
   },
