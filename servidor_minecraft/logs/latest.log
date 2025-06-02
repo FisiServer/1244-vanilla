@@ -564,3 +564,164 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14:19:14] [Server thread/INFO]: Sgirano was slain by Spider
 [14:21:51] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
 [14:25:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:25:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:25:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:25:36] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-347}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-348}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-15, z=-347}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-347}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-349}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-15, z=-348}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-348}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-15, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-16, z=-347}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-16, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-15, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-349}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-16, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-14, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-15, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-350}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-15, z=-349}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-14, z=-344}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-16, z=-348}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-16, z=-349}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-15, z=-350}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-13, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-344}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-347}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-14, z=-343}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-14, z=-344}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-344}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-17, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-16, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-346}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-16, z=-350}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-15, z=-351}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-348}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-17, z=-347}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-350}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-16, z=-345}, but this operation is not supported.
+[14:30:19] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-15, z=-351}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-350}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-350}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-16, z=-351}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-14, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-14, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-350}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-350}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-352}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-13, z=-351}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-15, z=-351}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-15, z=-351}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-13, z=-351}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-14, z=-352}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-17, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-13, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-14, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-17, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-12, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-13, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-15, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=141, y=-14, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-14, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-14, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-14, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-17, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-17, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-11, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-12, z=-346}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-12, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-13, z=-350}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=141, y=-14, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-17, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-11, z=-346}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-12, z=-347}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-12, z=-350}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-14, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=141, y=-14, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-10, z=-346}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-11, z=-347}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-13, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-13, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-14, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-11, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-12, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-13, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=141, y=-14, z=-341}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-16, z=-351}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-17, z=-346}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-17, z=-345}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-13, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-13, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-15, z=-352}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-14, z=-352}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-14, z=-352}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-17, z=-346}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-12, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=141, y=-13, z=-341}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-14, z=-353}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-13, z=-352}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=141, y=-14, z=-341}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=140, y=-14, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-10, z=-347}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-11, z=-347}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-13, z=-353}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=141, y=-14, z=-341}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=140, y=-14, z=-341}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-17, z=-348}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-17, z=-347}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=140, y=-14, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=139, y=-14, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=144, y=-17, z=-349}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-14, z=-353}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-15, z=-352}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-14, z=-353}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=140, y=-14, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=139, y=-14, z=-343}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-13, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-11, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-12, z=-344}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-17, z=-349}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-17, z=-348}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-17, z=-347}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-17, z=-348}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-17, z=-347}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=147, y=-17, z=-347}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=146, y=-17, z=-349}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=145, y=-17, z=-350}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-12, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=143, y=-12, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=142, y=-11, z=-342}, but this operation is not supported.
+[14:30:20] [Server thread/WARN]: Trying to mark a block for PostProcessing @ class_2338{x=141, y=-12, z=-341}, but this operation is not supported.
+[14:30:42] [Server thread/INFO]: Named entity class_1634['Space-Time Vex'/15281, l='ServerLevel[world]', x=132.47, y=-13.80, z=-349.55] died: Space-Time Vex was slain by BillyVR15
+[14:31:39] [Server thread/INFO]: Named entity class_1634['Space-Time Vex'/17636, l='ServerLevel[world]', x=8.86, y=71.30, z=-540.67] died: Space-Time Vex was slain by Sgirano
+[14:31:58] [Server thread/INFO]: [Not Secure] <Sgirano> billy
+[14:33:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:33:09] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:34:27] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'
+[14:37:24] [Server thread/INFO]: [Not Secure] <Sgirano> un chupapijaaaaa
+[14:37:36] [Server thread/INFO]: [Not Secure] <BillyVR15> a?
+[14:38:03] [Server thread/INFO]: [Not Secure] <Sgirano> que se me quiere hacer el trapper aqui
+[14:38:53] [Server thread/INFO]: [Not Secure] <BillyVR15> ven
+[14:39:18] [Server thread/INFO]: Villager class_1646['Villager'/22136, l='ServerLevel[world]', x=-153.73, y=56.00, z=-775.48] died, message: 'Villager was slain by Zombie'
+[14:43:43] [Server thread/INFO]: Villager class_1646['Toolsmith'/32341, l='ServerLevel[world]', x=-378.43, y=-9.44, z=-609.50] died, message: 'Toolsmith suffocated in a wall'
+[14:43:45] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:'

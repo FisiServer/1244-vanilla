@@ -189,6 +189,7 @@
       "time_to_chop": "2025-05-14 15:44:29 +0000",
       "ol_betsy": "2025-05-16 01:20:55 +0000",
       "iggy": "2025-06-02 13:11:57 +0000",
+      "vault_hunter": "2025-06-02 14:26:08 +0000",
       "wooly": "2025-05-15 02:29:54 +0000",
       "murderer": "2025-06-02 13:47:20 +0000",
       "bake_bread": "2025-05-14 15:43:30 +0000",
@@ -274,6 +275,7 @@
       "point_blank": "2025-05-15 03:07:11 +0000",
       "free_diver": "2025-05-15 03:24:58 +0000",
       "zombie_slayer": "2025-05-16 20:45:29 +0000",
+      "a_good_start": "2025-06-02 14:33:37 +0000",
       "animal_root": "2025-05-14 15:44:36 +0000",
       "for_you_my_sweet": "2025-05-16 01:26:25 +0000",
       "twisted": "2025-05-16 20:47:42 +0000",
@@ -291,6 +293,7 @@
       "diamonds": "2025-05-14 16:17:13 +0000",
       "eeuuwww": "2025-05-14 16:04:29 +0000",
       "bacap_root": "2025-05-14 15:39:05 +0000",
+      "hyper_healing": "2025-06-02 14:24:16 +0000",
       "mobile_explosion": "2025-05-14 16:08:18 +0000",
       "the_mighty_jungle": "2025-05-16 02:53:01 +0000",
       "galileo_figaro": "2025-05-15 18:14:57 +0000",
@@ -558,6 +561,7 @@
       "rail": "2025-05-14 16:06:16 +0000",
       "dirt": "2025-05-15 02:33:17 +0000",
       "blue_bed": "2025-05-16 01:05:00 +0000",
+      "azalea": "2025-06-02 14:35:27 +0000",
       "grindstone": "2025-05-16 02:44:31 +0000",
       "sand": "2025-05-16 02:18:41 +0000",
       "oak_log": "2025-05-14 15:41:21 +0000",
@@ -616,6 +620,7 @@
   "blazeandcave:bacap/building_milestone": {
     "criteria": {
       "bricks": "2025-05-16 00:44:06 +0000",
+      "a_good_start": "2025-06-02 14:33:37 +0000",
       "what_a_pane": "2025-05-16 02:25:06 +0000",
       "setting_up_the_mood": "2025-05-16 02:22:59 +0000",
       "barking_mad": "2025-05-14 15:41:22 +0000",
@@ -931,6 +936,7 @@
       "blaze_rod": "2025-05-16 22:34:39 +0000",
       "gold_ingot": "2025-05-15 02:01:58 +0000",
       "nether_wart": "2025-05-16 22:08:25 +0000",
+      "ghast_tear": "2025-06-02 14:24:16 +0000",
       "enchanted_book": "2025-05-14 16:25:47 +0000",
       "mutton": "2025-05-15 02:29:56 +0000",
       "wheat_seeds": "2025-05-16 01:39:56 +0000",
@@ -979,6 +985,7 @@
       "magma_cream": "2025-05-16 22:35:01 +0000",
       "bolt_armor_trim_smithing_template": "2025-05-14 16:25:26 +0000",
       "dune_armor_trim": "2025-05-16 20:31:02 +0000",
+      "flow_banner_pattern": "2025-06-02 14:29:13 +0000",
       "carrot": "2025-05-16 20:59:07 +0000"
     },
     "done": false
@@ -1097,6 +1104,8 @@
     "criteria": {
       "sand": "2025-05-16 02:19:12 +0000",
       "purple_bed": "2025-05-16 01:05:31 +0000",
+      "oak_log": "2025-06-02 14:33:36 +0000",
+      "oak_wood": "2025-06-02 14:34:18 +0000",
       "cobblestone": "2025-05-16 20:04:16 +0000",
       "cake": "2025-05-15 02:01:43 +0000",
       "spruce_planks": "2025-05-15 02:19:24 +0000",
@@ -1223,6 +1232,7 @@
       "gold_ingot": "2025-05-16 02:38:00 +0000",
       "golden_horse_armor": "2025-05-15 18:08:57 +0000",
       "iron_sword": "2025-05-14 15:54:14 +0000",
+      "stick": "2025-06-02 14:36:33 +0000",
       "diamond_boots": "2025-05-15 03:17:32 +0000",
       "enchanted_book": "2025-05-14 16:25:47 +0000",
       "brush": "2025-05-16 19:18:02 +0000",
@@ -1263,7 +1273,8 @@
       "tnt_minecart": "2025-05-14 16:08:17 +0000",
       "raw_gold": "2025-05-15 18:24:45 +0000",
       "iron_leggings": "2025-05-14 16:01:32 +0000",
-      "spyglass": "2025-05-15 18:14:49 +0000"
+      "spyglass": "2025-05-15 18:14:49 +0000",
+      "flow_banner_pattern": "2025-06-02 14:29:13 +0000"
     },
     "done": false
   },
@@ -1637,30 +1648,31 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
-      "oh_look_it_dings": "2025-05-16 21:13:40 +0000",
-      "blowback": "2025-05-16 19:27:38 +0000",
       "allayance": "2025-05-16 19:59:33 +0000",
-      "i_hereby_dub_thee": "2025-05-15 03:19:53 +0000",
-      "murderer": "2025-06-02 13:47:20 +0000",
       "filthy_rich": "2025-05-15 17:47:33 +0000",
       "do_you_want_to_trade": "2025-05-15 03:36:12 +0000",
+      "under_lock_and_key": "2025-05-14 16:25:25 +0000",
+      "brushed_away": "2025-05-16 19:18:02 +0000",
+      "ghostbuster": "2025-05-16 20:47:47 +0000",
+      "laser_sharks": "2025-05-15 03:01:31 +0000",
+      "root": "2025-05-14 15:44:57 +0000",
+      "respecting_the_remnants": "2025-05-14 16:06:27 +0000",
+      "hard_mode_activated": "2025-05-15 03:23:05 +0000",
+      "oh_look_it_dings": "2025-05-16 21:13:40 +0000",
+      "blowback": "2025-05-16 19:27:38 +0000",
+      "vault_hunter": "2025-06-02 14:26:08 +0000",
+      "i_hereby_dub_thee": "2025-05-15 03:19:53 +0000",
+      "murderer": "2025-06-02 13:47:20 +0000",
       "revaulting": "2025-05-16 19:26:07 +0000",
       "your_daily_fix": "2025-05-15 02:28:20 +0000",
       "out_of_posts": "2025-05-16 01:20:48 +0000",
       "the_shielding": "2025-05-15 18:10:40 +0000",
-      "under_lock_and_key": "2025-05-14 16:25:25 +0000",
       "riot_shield": "2025-05-15 18:08:29 +0000",
-      "brushed_away": "2025-05-16 19:18:02 +0000",
       "minecraft_trials_edition": "2025-06-02 13:32:09 +0000",
-      "ghostbuster": "2025-05-16 20:47:47 +0000",
-      "laser_sharks": "2025-05-15 03:01:31 +0000",
       "good_lookin_treasure": "2025-05-14 16:25:27 +0000",
-      "root": "2025-05-14 15:44:57 +0000",
       "overpowered": "2025-05-15 02:01:53 +0000",
       "break_wind": "2025-05-16 19:25:20 +0000",
-      "its_so_beast_like": "2025-05-16 19:52:12 +0000",
-      "respecting_the_remnants": "2025-05-14 16:06:27 +0000",
-      "hard_mode_activated": "2025-05-15 03:23:05 +0000"
+      "its_so_beast_like": "2025-05-16 19:52:12 +0000"
     },
     "done": false
   },
@@ -2602,6 +2614,7 @@
       "smite": "2025-05-15 03:08:48 +0000",
       "unbreaking": "2025-05-16 01:59:13 +0000",
       "flame_book": "2025-05-15 18:11:07 +0000",
+      "wind_burst_book": "2025-06-02 14:30:31 +0000",
       "feather_falling": "2025-05-16 20:56:10 +0000",
       "protection": "2025-05-14 16:08:58 +0000",
       "projectile_protection": "2025-05-14 16:08:59 +0000",
@@ -2664,6 +2677,7 @@
       "power1": "2025-05-16 19:08:32 +0000",
       "fortune3": "2025-05-15 02:15:55 +0000",
       "fire_protection3": "2025-05-16 01:59:08 +0000",
+      "power2": "2025-06-02 14:29:15 +0000",
       "smite1_book": "2025-05-16 00:31:23 +0000",
       "flame_book": "2025-05-15 18:11:07 +0000",
       "knockback1_book": "2025-05-16 01:40:03 +0000",
@@ -2684,6 +2698,7 @@
       "unbreaking1": "2025-06-02 13:43:33 +0000",
       "unbreaking3": "2025-05-16 01:59:13 +0000",
       "unbreaking2": "2025-05-16 20:56:15 +0000",
+      "wind_burst1_book": "2025-06-02 14:30:31 +0000",
       "sharpness3": "2025-05-16 19:26:39 +0000",
       "power4_book": "2025-05-15 18:11:07 +0000",
       "sharpness2": "2025-05-15 03:08:48 +0000",
@@ -3040,6 +3055,7 @@
   "blazeandcave:adventure/tricky_treasures": {
     "criteria": {
       "bolt_armor_trim_smithing_template": "2025-05-14 16:25:26 +0000",
+      "flow_banner_pattern": "2025-06-02 14:29:13 +0000",
       "heavy_core": "2025-06-02 13:38:14 +0000"
     },
     "done": false
@@ -3912,6 +3928,7 @@
   "blazeandcave:bacap/potion_milestone": {
     "criteria": {
       "true_feather_falling": "2025-05-15 18:09:34 +0000",
+      "hyper_healing": "2025-06-02 14:24:16 +0000",
       "marine_marauder": "2025-05-15 03:18:26 +0000"
     },
     "done": false
@@ -6750,11 +6767,47 @@
     },
     "done": true
   },
+  "blazeandcave:potion/hyper_healing": {
+    "criteria": {
+      "regeneration": "2025-06-02 14:24:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-02 14:24:16 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:animal/winnie_the_pooh": {
     "criteria": {
       "honey_bottle": "2025-06-02 14:15:13 +0000"
     },
     "done": true
+  },
+  "blazeandcave:building/a_good_start": {
+    "criteria": {
+      "oak_log": "2025-06-02 14:33:36 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/fruit_of_the_looms": {
+    "criteria": {
+      "flow_banner_pattern": "2025-06-02 14:29:13 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/vault_hunter": {
+    "criteria": {
+      "vault_hunter": "2025-06-02 14:26:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/master_logger": {
+    "criteria": {
+      "oak_log": "2025-06-02 14:33:36 +0000"
+    },
+    "done": false
   },
   "blazeandcave:weaponry/nice_to_mace_you": {
     "criteria": {
