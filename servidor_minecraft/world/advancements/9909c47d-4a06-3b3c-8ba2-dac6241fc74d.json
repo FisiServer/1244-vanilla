@@ -321,6 +321,7 @@
       "raise_the_flag": "2025-05-16 21:05:16 +0000",
       "loser": "2025-05-14 15:48:48 +0000",
       "bricks": "2025-05-16 00:44:06 +0000",
+      "nananananananana": "2025-06-02 13:22:17 +0000",
       "pushed_around": "2025-05-14 16:10:06 +0000",
       "boaty_mcboatface": "2025-05-15 02:48:48 +0000",
       "laps_in_the_pool": "2025-05-15 03:26:31 +0000",
@@ -1298,6 +1299,7 @@
       "spelunker": "2025-05-16 20:04:44 +0000",
       "diam_oh_wait_no": "2025-05-15 02:15:55 +0000",
       "iggy": "2025-06-02 13:11:57 +0000",
+      "nananananananana": "2025-06-02 13:22:17 +0000",
       "iron_man": "2025-05-14 16:01:43 +0000",
       "sneak_100": "2025-05-15 18:26:36 +0000",
       "stone_age": "2025-05-14 15:43:43 +0000",
@@ -3802,6 +3804,7 @@
   "blazeandcave:mining/where_are_all_your_clothes": {
     "criteria": {
       "iron_boots": "2025-05-15 03:11:15 +0000",
+      "diamond_leggings": "2025-06-02 13:22:30 +0000",
       "iron_chestplate": "2025-05-15 03:31:06 +0000",
       "diamond_helmet": "2025-05-16 20:45:30 +0000",
       "iron_leggings": "2025-05-15 03:19:24 +0000",
@@ -6610,6 +6613,12 @@
   "2re:recipes/flowering_azalea": {
     "criteria": {
       "requirement": "2025-06-02 13:11:56 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/nananananananana": {
+    "criteria": {
+      "bat": "2025-06-02 13:22:16 +0000"
     },
     "done": true
   },
