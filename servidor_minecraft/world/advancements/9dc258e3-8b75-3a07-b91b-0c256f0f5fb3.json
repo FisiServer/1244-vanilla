@@ -249,6 +249,7 @@
       "full_stomach": "2025-05-14 04:20:01 +0000",
       "tarzan": "2025-05-11 00:41:19 +0000",
       "not_today_thank_you": "2025-05-15 18:32:53 +0000",
+      "what_a_deal": "2025-06-02 13:45:49 +0000",
       "spooky_skeleton": "2025-05-14 02:18:03 +0000",
       "cowboy": "2025-05-14 03:10:26 +0000",
       "leader_of_the_pack": "2025-05-14 03:17:30 +0000",
@@ -353,6 +354,7 @@
       "what_a_creep": "2025-05-14 02:41:15 +0000",
       "horse_training": "2025-05-14 04:33:18 +0000",
       "super_strength": "2025-06-02 13:02:03 +0000",
+      "knowledge_is_power": "2025-06-02 13:45:49 +0000",
       "desert_nomad": "2025-05-16 20:15:22 +0000",
       "troll_chest": "2025-05-16 20:28:17 +0000",
       "redstone_root": "2025-05-14 02:19:05 +0000",
@@ -2324,6 +2326,7 @@
       "silk_touch_book": "2025-05-16 20:51:30 +0000",
       "unbreaking": "2025-05-16 01:59:39 +0000",
       "flame_book": "2025-05-16 02:04:18 +0000",
+      "mending_book": "2025-06-02 13:45:49 +0000",
       "mending": "2025-05-11 00:52:46 +0000",
       "protection": "2025-05-16 22:19:04 +0000",
       "binding_curse": "2025-05-14 04:53:09 +0000",
@@ -2355,6 +2358,7 @@
       "blast_protection_book": "2025-05-16 20:58:17 +0000",
       "sharpness_book": "2025-05-16 19:26:36 +0000",
       "feather_falling_book": "2025-06-02 04:44:39 +0000",
+      "bane_of_arthropods_book": "2025-06-02 13:46:09 +0000",
       "projectile_protection_book": "2025-05-11 01:14:01 +0000",
       "smite_book": "2025-05-16 20:50:55 +0000",
       "unbreaking_book": "2025-05-14 16:25:30 +0000",
@@ -2367,6 +2371,7 @@
       "fortune": "2025-05-14 15:51:42 +0000",
       "silk_touch_book": "2025-05-16 20:51:30 +0000",
       "looting": "2025-05-15 03:29:21 +0000",
+      "mending_book": "2025-06-02 13:45:49 +0000",
       "breach_book": "2025-05-16 20:50:54 +0000",
       "binding_curse": "2025-05-14 04:53:09 +0000",
       "loyalty_book": "2025-05-14 15:56:08 +0000",
@@ -2385,14 +2390,28 @@
   "blazeandcave:challenges/ultimate_enchanter": {
     "criteria": {
       "sharpness2_book": "2025-05-16 19:26:36 +0000",
-      "smite1_book": "2025-05-16 20:50:55 +0000",
       "piercing4": "2025-05-16 22:18:58 +0000",
       "efficiency1_book": "2025-05-16 20:50:54 +0000",
       "loyalty1_book": "2025-05-14 15:56:08 +0000",
-      "feather_falling3_book": "2025-06-02 04:44:39 +0000",
-      "flame_book": "2025-05-16 02:04:18 +0000",
       "projectile_protection3": "2025-05-15 03:20:07 +0000",
       "protection4_book": "2025-05-16 02:04:18 +0000",
+      "unbreaking3_book": "2025-06-02 03:45:41 +0000",
+      "quick_charge1_book": "2025-05-16 20:50:56 +0000",
+      "unbreaking2_book": "2025-05-14 16:25:30 +0000",
+      "blast_protection2_book": "2025-05-16 20:58:17 +0000",
+      "silk_touch_book": "2025-05-16 20:51:30 +0000",
+      "protection1": "2025-05-11 00:52:47 +0000",
+      "projectile_protection4_book": "2025-05-11 01:14:01 +0000",
+      "protection3": "2025-05-14 04:21:54 +0000",
+      "protection4": "2025-05-16 22:19:04 +0000",
+      "power3": "2025-05-11 01:06:36 +0000",
+      "fortune2": "2025-05-14 15:51:42 +0000",
+      "bane_of_arthropods1_book": "2025-06-02 13:46:09 +0000",
+      "power4": "2025-05-16 02:04:24 +0000",
+      "fire_protection3": "2025-05-16 01:59:39 +0000",
+      "smite1_book": "2025-05-16 20:50:55 +0000",
+      "feather_falling3_book": "2025-06-02 04:44:39 +0000",
+      "flame_book": "2025-05-16 02:04:18 +0000",
       "mending": "2025-05-11 00:52:46 +0000",
       "thorns3": "2025-05-11 00:52:47 +0000",
       "knockback1_book": "2025-05-16 20:50:55 +0000",
@@ -2400,36 +2419,24 @@
       "efficiency3_book": "2025-05-11 01:14:01 +0000",
       "riptide3_book": "2025-05-16 20:51:18 +0000",
       "protection2_book": "2025-05-16 20:51:18 +0000",
-      "unbreaking3_book": "2025-06-02 03:45:41 +0000",
-      "quick_charge1_book": "2025-05-16 20:50:56 +0000",
       "smite3": "2025-05-16 19:29:51 +0000",
       "aqua_affinity_book": "2025-05-16 20:50:53 +0000",
-      "unbreaking2_book": "2025-05-14 16:25:30 +0000",
       "knockback2_book": "2025-05-16 02:04:18 +0000",
       "protection3_book": "2025-05-16 19:26:47 +0000",
-      "blast_protection2_book": "2025-05-16 20:58:17 +0000",
       "luck_of_the_sea1_book": "2025-05-16 20:50:56 +0000",
-      "silk_touch_book": "2025-05-16 20:51:30 +0000",
       "looting1": "2025-05-15 03:29:21 +0000",
       "efficiency2_book": "2025-05-16 19:35:45 +0000",
-      "protection1": "2025-05-11 00:52:47 +0000",
-      "projectile_protection4_book": "2025-05-11 01:14:01 +0000",
-      "protection3": "2025-05-14 04:21:54 +0000",
+      "mending_book": "2025-06-02 13:45:49 +0000",
       "efficiency5_book": "2025-05-14 15:54:15 +0000",
       "unbreaking3": "2025-05-16 01:59:39 +0000",
-      "protection4": "2025-05-16 22:19:04 +0000",
       "sharpness4": "2025-05-15 17:59:52 +0000",
       "binding_curse": "2025-05-14 04:53:09 +0000",
       "sharpness3": "2025-05-16 19:26:55 +0000",
       "power4_book": "2025-05-16 02:04:18 +0000",
       "sharpness2": "2025-05-16 19:29:32 +0000",
       "vanishing_curse": "2025-05-14 04:21:54 +0000",
-      "power3": "2025-05-11 01:06:36 +0000",
-      "fortune2": "2025-05-14 15:51:42 +0000",
       "flame": "2025-05-16 02:04:24 +0000",
-      "power4": "2025-05-16 02:04:24 +0000",
       "efficiency4": "2025-05-15 23:28:46 +0000",
-      "fire_protection3": "2025-05-16 01:59:39 +0000",
       "efficiency3": "2025-05-14 15:51:42 +0000",
       "breach2_book": "2025-05-16 20:50:54 +0000"
     },
@@ -2905,6 +2912,7 @@
       "under_lock_and_key": "2025-05-14 04:07:00 +0000",
       "brushed_away": "2025-05-14 03:38:01 +0000",
       "minecraft_trials_edition": "2025-06-02 13:31:49 +0000",
+      "knowledge_is_power": "2025-06-02 13:45:49 +0000",
       "ghostbuster": "2025-05-16 19:59:05 +0000",
       "laser_sharks": "2025-05-14 04:58:05 +0000",
       "good_lookin_treasure": "2025-05-14 16:20:55 +0000",
@@ -2912,6 +2920,7 @@
       "overpowered": "2025-05-14 16:20:55 +0000",
       "break_wind": "2025-05-16 19:24:28 +0000",
       "its_so_beast_like": "2025-05-15 23:51:58 +0000",
+      "what_a_deal": "2025-06-02 13:45:49 +0000",
       "hard_mode_activated": "2025-05-15 03:29:50 +0000",
       "now_youre_thinking_with_portals": "2025-05-14 04:53:04 +0000"
     },
@@ -8009,51 +8018,21 @@
     },
     "done": true
   },
-  "blazeandcave:potion/hyper_healing": {
-    "criteria": {
-      "regeneration": "2025-06-02 13:34:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
-    "criteria": {
-      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
-    "criteria": {
-      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ghast": {
-    "criteria": {
-      "has_ghast_tear": "2025-06-02 13:34:15 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:nether/holy_scrap": {
     "criteria": {
       "netherite_scrap": "2025-06-02 13:12:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
-    "criteria": {
-      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_tuff_slab": {
-    "criteria": {
-      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-06-02 13:12:00 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/netherite_scrap": {
+    "criteria": {
+      "requirement": "2025-06-02 13:12:00 +0000"
     },
     "done": true
   },
@@ -8069,12 +8048,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
-    "criteria": {
-      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs": {
     "criteria": {
       "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
@@ -8087,9 +8060,57 @@
     },
     "done": true
   },
-  "2re:recipes/netherite_scrap": {
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
     "criteria": {
-      "requirement": "2025-06-02 13:12:00 +0000"
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-06-02 13:31:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2025-06-02 13:31:49 +0000"
     },
     "done": true
   },
@@ -8102,18 +8123,6 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-06-02 13:31:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/minecraft_trials_edition": {
-    "criteria": {
-      "minecraft_trials_edition": "2025-06-02 13:31:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
     },
     "done": true
   },
@@ -8135,12 +8144,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_bricks": {
     "criteria": {
       "has_polished_tuff": "2025-06-02 13:31:49 +0000"
@@ -8153,15 +8156,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tuff_brick_slab": {
-    "criteria": {
-      "has_tuff_bricks": "2025-06-02 13:31:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
     "criteria": {
       "has_polished_tuff": "2025-06-02 13:31:49 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/hyper_healing": {
+    "criteria": {
+      "regeneration": "2025-06-02 13:34:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-02 13:34:15 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/traveller": {
+    "criteria": {
+      "savanna": "2025-06-02 13:45:49 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/stockbroker": {
+    "criteria": {
+      "librarian_savanna": "2025-06-02 13:45:49 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/businessman": {
+    "criteria": {
+      "librarian": "2025-06-02 13:45:49 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:adventure/knowledge_is_power": {
+    "criteria": {
+      "trade": "2025-06-02 13:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "trade": "2025-06-02 13:45:49 +0000"
     },
     "done": true
   },

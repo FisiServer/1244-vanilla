@@ -137,6 +137,7 @@
       "deep_slate_nine": "2025-05-14 16:04:18 +0000",
       "a_horse_in_shining_armor": "2025-05-16 02:05:57 +0000",
       "spider_smasher": "2025-05-15 01:58:11 +0000",
+      "nice_to_mace_you": "2025-06-02 13:58:33 +0000",
       "24_carrot_gold": "2025-05-15 02:03:09 +0000",
       "sharpening_station": "2025-05-16 02:44:31 +0000",
       "enchanting_root": "2025-05-16 01:59:05 +0000",
@@ -188,6 +189,7 @@
       "ol_betsy": "2025-05-16 01:20:55 +0000",
       "iggy": "2025-06-02 13:11:57 +0000",
       "wooly": "2025-05-15 02:29:54 +0000",
+      "murderer": "2025-06-02 13:47:20 +0000",
       "bake_bread": "2025-05-14 15:43:30 +0000",
       "aww_it_broke": "2025-05-14 16:03:23 +0000",
       "minecraft_trials_edition": "2025-06-02 13:32:09 +0000",
@@ -491,6 +493,7 @@
       "oak_slab": "2025-05-15 17:53:14 +0000",
       "waxed_copper_bulb": "2025-05-14 16:15:04 +0000",
       "mossy_cobblestone": "2025-05-16 19:16:51 +0000",
+      "honey_block": "2025-06-02 13:48:42 +0000",
       "sandstone_stairs": "2025-05-16 19:40:40 +0000",
       "lily_pad": "2025-05-16 19:04:32 +0000",
       "purple_bed": "2025-05-16 01:05:31 +0000",
@@ -932,6 +935,7 @@
       "brush": "2025-05-16 19:18:02 +0000",
       "coast_armor_trim": "2025-05-16 19:44:35 +0000",
       "glow_berries": "2025-05-14 16:07:36 +0000",
+      "salmon": "2025-06-02 13:48:31 +0000",
       "iron_horse_armor": "2025-05-16 01:32:18 +0000",
       "diamond_sword": "2025-05-15 02:54:02 +0000",
       "cooked_chicken": "2025-05-15 02:22:25 +0000",
@@ -947,6 +951,7 @@
       "cooked_mutton": "2025-05-15 02:36:35 +0000",
       "mace": "2025-06-02 13:40:50 +0000",
       "ominous_trial_key": "2025-05-15 03:23:36 +0000",
+      "book": "2025-06-02 13:46:19 +0000",
       "bow": "2025-05-15 02:53:30 +0000",
       "apple": "2025-05-14 15:42:55 +0000",
       "spider_eye": "2025-05-14 16:12:40 +0000",
@@ -993,6 +998,7 @@
       "stone_button": "2025-05-14 16:16:10 +0000",
       "tnt": "2025-05-14 16:08:29 +0000",
       "copper_bulb": "2025-05-14 16:15:04 +0000",
+      "honey_block": "2025-06-02 13:48:42 +0000",
       "stone_pressure_plate": "2025-05-16 19:16:40 +0000",
       "decorated_pot": "2025-05-14 15:42:56 +0000"
     },
@@ -1483,14 +1489,15 @@
       "ol_betsy": "2025-05-16 01:20:55 +0000",
       "x_bow": "2025-05-16 01:20:27 +0000",
       "bow_spammer": "2025-05-15 03:06:06 +0000",
+      "shield_luck": "2025-05-14 15:55:58 +0000",
+      "sir_knight": "2025-05-14 15:55:22 +0000",
+      "nice_to_mace_you": "2025-06-02 13:58:33 +0000",
+      "bombs_away": "2025-05-14 16:08:29 +0000",
       "root": "2025-05-14 15:44:20 +0000",
       "my_eyes": "2025-05-16 01:03:41 +0000",
       "take_aim": "2025-05-15 03:00:39 +0000",
       "point_blank": "2025-05-15 03:07:11 +0000",
-      "shield_luck": "2025-05-14 15:55:58 +0000",
-      "sir_knight": "2025-05-14 15:55:22 +0000",
       "loser": "2025-05-14 15:48:48 +0000",
-      "bombs_away": "2025-05-14 16:08:29 +0000",
       "viking": "2025-05-14 15:47:59 +0000"
     },
     "done": false
@@ -1629,6 +1636,7 @@
       "blowback": "2025-05-16 19:27:38 +0000",
       "allayance": "2025-05-16 19:59:33 +0000",
       "i_hereby_dub_thee": "2025-05-15 03:19:53 +0000",
+      "murderer": "2025-06-02 13:47:20 +0000",
       "filthy_rich": "2025-05-15 17:47:33 +0000",
       "do_you_want_to_trade": "2025-05-15 03:36:12 +0000",
       "revaulting": "2025-05-16 19:26:07 +0000",
@@ -1655,7 +1663,9 @@
     "criteria": {
       "sword": "2025-05-14 15:46:06 +0000",
       "crossbow": "2025-05-16 01:20:54 +0000",
+      "mace": "2025-06-02 13:58:33 +0000",
       "pickaxe": "2025-05-14 15:53:07 +0000",
+      "wind_charge": "2025-06-02 13:59:09 +0000",
       "bow": "2025-05-15 03:00:38 +0000",
       "tnt": "2025-05-15 03:00:38 +0000",
       "axe": "2025-05-14 15:47:58 +0000"
@@ -2594,6 +2604,7 @@
       "protection_book": "2025-05-15 01:58:19 +0000",
       "blast_protection_book": "2025-05-16 00:37:36 +0000",
       "sharpness_book": "2025-05-16 19:35:10 +0000",
+      "bane_of_arthropods_book": "2025-06-02 13:46:17 +0000",
       "smite_book": "2025-05-16 00:31:23 +0000",
       "unbreaking_book": "2025-05-14 16:25:47 +0000",
       "knockback_book": "2025-05-15 18:11:07 +0000",
@@ -2606,6 +2617,7 @@
       "fortune": "2025-05-14 16:17:20 +0000",
       "silk_touch_book": "2025-05-16 20:45:29 +0000",
       "looting": "2025-05-16 19:29:01 +0000",
+      "mending_book": "2025-06-02 13:46:51 +0000",
       "breach_book": "2025-05-16 00:39:44 +0000",
       "aqua_affinity": "2025-05-16 01:59:08 +0000",
       "quick_charge_book": "2025-05-15 18:10:54 +0000",
@@ -2642,6 +2654,7 @@
       "fortune2": "2025-05-14 16:17:20 +0000",
       "efficiency4_book": "2025-05-15 18:18:09 +0000",
       "fire_protection4": "2025-05-16 01:59:13 +0000",
+      "bane_of_arthropods1_book": "2025-06-02 13:46:17 +0000",
       "power4": "2025-05-16 02:04:27 +0000",
       "power1": "2025-05-16 19:08:32 +0000",
       "fortune3": "2025-05-15 02:15:55 +0000",
@@ -2662,6 +2675,7 @@
       "looting1": "2025-05-16 19:29:01 +0000",
       "efficiency2_book": "2025-05-16 19:26:09 +0000",
       "breach1": "2025-05-16 01:59:59 +0000",
+      "mending_book": "2025-06-02 13:46:51 +0000",
       "unbreaking1": "2025-06-02 13:43:33 +0000",
       "unbreaking3": "2025-05-16 01:59:13 +0000",
       "unbreaking2": "2025-05-16 20:56:15 +0000",
@@ -2686,6 +2700,7 @@
       "silk_touch_book": "2025-05-16 20:45:29 +0000",
       "unbreaking": "2025-05-16 01:59:13 +0000",
       "flame_book": "2025-05-15 18:11:07 +0000",
+      "mending_book": "2025-06-02 13:46:51 +0000",
       "projectile_protection": "2025-05-14 16:08:59 +0000",
       "protection_book": "2025-05-15 18:11:07 +0000",
       "aqua_affinity": "2025-05-16 01:59:08 +0000",
@@ -3834,6 +3849,7 @@
   "blazeandcave:adventure/town_planner": {
     "criteria": {
       "smoker": "2025-05-15 03:11:50 +0000",
+      "grindstone": "2025-06-02 13:46:35 +0000",
       "blast_furnace": "2025-05-16 00:44:05 +0000"
     },
     "done": false
@@ -6642,78 +6658,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-02 13:45:07 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2025-06-02 13:32:08 +0000"
@@ -6726,15 +6670,81 @@
     },
     "done": true
   },
+  "blazeandcave:monsters/frosty": {
+    "criteria": {
+      "stray": "2025-06-02 13:34:53 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:statistics/novice_enchanter": {
     "criteria": {
       "trigger": "2025-06-02 13:43:42 +0000"
     },
     "done": true
   },
-  "blazeandcave:monsters/frosty": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "stray": "2025-06-02 13:34:53 +0000"
+      "has_book": "2025-06-02 13:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-02 13:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-02 13:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-02 13:46:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-02 13:46:19 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/murderer": {
+    "criteria": {
+      "villager": "2025-06-02 13:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-02 13:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-02 13:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-02 13:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-06-02 13:48:42 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/nice_to_mace_you": {
+    "criteria": {
+      "mace": "2025-06-02 13:58:33 +0000"
     },
     "done": true
   },
