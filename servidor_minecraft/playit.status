@@ -1,556 +1,268 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1748840291598 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1748869406111 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840294690 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869409202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840297781 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869412296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840300870 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869415388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840303961 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869418477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840307049 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869421570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840310143 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869424664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840313237 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869427764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840316328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869430857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840319424 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869433956 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840322515 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869437049 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840325608 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869440153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840328840 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869443246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840331929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869446348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840335016 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869449442 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840338104 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869452532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840341200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869455628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840344295 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869458727 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840347384 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869461816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840350486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869464911 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840353576 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869468005 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840356665 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869471096 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840359754 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869474189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840362844 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869477297 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840365934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869480396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840369024 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869483487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840372118 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869486583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840375209 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869489671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840378301 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869492767 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840381388 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869495859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840384484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869498951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840387579 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869502051 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840390674 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869505150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840393765 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869508243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840396856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869511332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840399947 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869514427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840403039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869517518 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840406128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869520609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840409221 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869523702 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840412308 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869526791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840415398 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869529888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840418487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869532982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840421577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869536089 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840424671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869539201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840427766 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840430862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840433953 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840437043 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840440136 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840443235 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840446324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840449414 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840452502 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840455597 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840458685 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840461772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840464861 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840467952 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840471044 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840474135 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840477222 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840480318 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840483411 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840486500 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840489594 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840492692 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840495783 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840498871 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840501965 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840505063 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840508153 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840511244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840514340 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840517433 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840520521 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840523611 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840526700 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840529790 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840532886 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840535977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840539072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840542161 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840545253 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840548342 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840551433 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840554522 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840557620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840560719 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840563811 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840566904 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840569993 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840573083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-rent-descending.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-percent-assumptions.gl.at.ply.gg:2330 => 127.0.0.1:2330 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1748840576184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748869542295 tunnel running, 2 tunnels registered
 
 
 TUNNELS

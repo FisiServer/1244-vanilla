@@ -263,6 +263,7 @@
       "mob_hunter": "2025-05-16 20:40:30 +0000",
       "kilometre_walk": "2025-05-14 04:55:40 +0000",
       "cut_in_half": "2025-05-16 19:18:27 +0000",
+      "potion_root": "2025-06-02 13:02:03 +0000",
       "tridented_shield": "2025-05-15 23:39:35 +0000",
       "isnt_it_iron_pick": "2025-05-11 00:43:29 +0000",
       "heavy_metal": "2025-05-14 03:26:48 +0000",
@@ -288,7 +289,9 @@
       "treasure_hunter": "2025-05-11 01:06:35 +0000",
       "my_work_here_is_done": "2025-05-14 02:56:30 +0000",
       "iconic_merchandising_prop": "2025-05-14 02:55:37 +0000",
+      "into_fire": "2025-06-02 13:00:21 +0000",
       "who_is_cutting_onions": "2025-05-16 22:09:33 +0000",
+      "holy_scrap": "2025-06-02 13:12:00 +0000",
       "sweet_dreams": "2025-05-11 00:08:02 +0000",
       "point_blank": "2025-05-16 19:50:13 +0000",
       "the_ender_of_ender": "2025-05-11 01:11:44 +0000",
@@ -347,6 +350,7 @@
       "this_dirt_is_dirtier": "2025-05-16 20:12:27 +0000",
       "what_a_creep": "2025-05-14 02:41:15 +0000",
       "horse_training": "2025-05-14 04:33:18 +0000",
+      "super_strength": "2025-06-02 13:02:03 +0000",
       "desert_nomad": "2025-05-16 20:15:22 +0000",
       "troll_chest": "2025-05-16 20:28:17 +0000",
       "redstone_root": "2025-05-14 02:19:05 +0000",
@@ -770,6 +774,7 @@
       "redstone": "2025-05-14 02:19:05 +0000",
       "shield": "2025-05-14 04:28:03 +0000",
       "glass_bottle": "2025-05-15 16:49:52 +0000",
+      "netherite_scrap": "2025-06-02 13:12:00 +0000",
       "totem_of_undying": "2025-05-16 19:58:26 +0000",
       "axolotl_bucket": "2025-05-16 20:10:47 +0000",
       "iron_ingot": "2025-05-11 00:43:01 +0000",
@@ -798,6 +803,7 @@
       "prismarine_shard": "2025-05-11 01:01:32 +0000",
       "lead": "2025-05-14 15:52:23 +0000",
       "iron_shovel": "2025-05-14 03:12:53 +0000",
+      "blaze_powder": "2025-06-02 13:00:57 +0000",
       "heart_of_the_sea": "2025-05-11 00:56:53 +0000",
       "amethyst_shard": "2025-05-11 01:13:45 +0000",
       "salmon_bucket": "2025-05-14 02:07:17 +0000",
@@ -816,6 +822,7 @@
       "breeze_rod": "2025-05-16 19:24:27 +0000",
       "wooden_axe": "2025-05-16 01:20:58 +0000",
       "iron_axe": "2025-05-11 01:16:18 +0000",
+      "blaze_rod": "2025-06-02 13:00:20 +0000",
       "shears": "2025-05-14 04:38:15 +0000",
       "gold_ingot": "2025-05-11 00:56:59 +0000",
       "nether_wart": "2025-05-16 22:09:43 +0000",
@@ -5663,6 +5670,8 @@
   },
   "blazeandcave:bacap/potion_milestone": {
     "criteria": {
+      "super_strength": "2025-06-02 13:02:03 +0000",
+      "root": "2025-06-02 13:02:03 +0000",
       "marine_marauder": "2025-05-15 03:18:51 +0000"
     },
     "done": false
@@ -7158,8 +7167,10 @@
       "stepping_on_legos": "2025-05-16 22:15:33 +0000",
       "dont_blink": "2025-05-16 22:47:23 +0000",
       "seeing_stars": "2025-05-16 22:09:25 +0000",
+      "into_fire": "2025-06-02 13:00:21 +0000",
       "who_is_cutting_onions": "2025-05-16 22:09:33 +0000",
       "high_temperature_fluid_monster": "2025-05-16 22:09:08 +0000",
+      "holy_scrap": "2025-06-02 13:12:00 +0000",
       "the_tribal_snouts": "2025-05-16 22:16:51 +0000",
       "nether_say_die": "2025-05-16 22:15:08 +0000",
       "root": "2025-05-16 22:08:43 +0000",
@@ -7917,6 +7928,84 @@
   "blazeandcave:building/stationary_storage": {
     "criteria": {
       "chest": "2025-06-02 04:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-02 13:00:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-02 13:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-02 13:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-02 13:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-02 13:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-02 13:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-02 13:00:57 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/blaze_powder": {
+    "criteria": {
+      "requirement": "2025-06-02 13:00:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/root": {
+    "criteria": {
+      "potion": "2025-06-02 13:02:03 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:potion/super_strength": {
+    "criteria": {
+      "strength": "2025-06-02 13:02:03 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/holy_scrap": {
+    "criteria": {
+      "netherite_scrap": "2025-06-02 13:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-02 13:12:00 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/netherite_scrap": {
+    "criteria": {
+      "requirement": "2025-06-02 13:12:00 +0000"
     },
     "done": true
   },

@@ -131,6 +131,7 @@
       "allayance": "2025-05-16 19:59:33 +0000",
       "benchmarking": "2025-05-14 15:43:21 +0000",
       "coal_miner": "2025-05-16 00:55:31 +0000",
+      "rock_bottom": "2025-06-02 13:14:40 +0000",
       "dont_blink": "2025-05-16 22:47:21 +0000",
       "gi_geode": "2025-05-16 00:38:50 +0000",
       "deep_slate_nine": "2025-05-14 16:04:18 +0000",
@@ -183,6 +184,7 @@
       "respecting_the_remnants": "2025-05-14 16:06:27 +0000",
       "time_to_chop": "2025-05-14 15:44:29 +0000",
       "ol_betsy": "2025-05-16 01:20:55 +0000",
+      "iggy": "2025-06-02 13:11:57 +0000",
       "wooly": "2025-05-15 02:29:54 +0000",
       "bake_bread": "2025-05-14 15:43:30 +0000",
       "aww_it_broke": "2025-05-14 16:03:23 +0000",
@@ -260,6 +262,7 @@
       "my_work_here_is_done": "2025-05-16 02:14:40 +0000",
       "iconic_merchandising_prop": "2025-05-16 02:04:49 +0000",
       "into_fire": "2025-05-16 22:34:39 +0000",
+      "holy_scrap": "2025-06-02 13:11:55 +0000",
       "sweet_dreams": "2025-05-14 16:01:40 +0000",
       "point_blank": "2025-05-15 03:07:11 +0000",
       "free_diver": "2025-05-15 03:24:58 +0000",
@@ -273,6 +276,7 @@
       "high_temperature_fluid_monster": "2025-05-16 22:35:01 +0000",
       "pork_chop": "2025-05-15 03:08:00 +0000",
       "biomes_root": "2025-05-14 15:44:57 +0000",
+      "nether_say_die": "2025-06-02 13:10:59 +0000",
       "om_nom_nom": "2025-05-16 20:04:58 +0000",
       "witch": "2025-05-16 19:53:11 +0000",
       "disen_berry_berry_bad": "2025-05-16 01:04:43 +0000",
@@ -573,7 +577,9 @@
       "oak_planks": "2025-05-14 15:43:06 +0000",
       "yellow_terracotta": "2025-05-16 01:41:54 +0000",
       "cherry_planks": "2025-05-16 02:03:19 +0000",
+      "ancient_debris": "2025-06-02 13:10:59 +0000",
       "nether_brick_wall": "2025-05-16 22:07:56 +0000",
+      "flowering_azalea": "2025-06-02 13:11:56 +0000",
       "ladder": "2025-05-16 01:40:04 +0000",
       "magma_block": "2025-05-16 22:38:36 +0000"
     },
@@ -866,6 +872,7 @@
       "stone_axe": "2025-05-14 15:44:29 +0000",
       "shield": "2025-05-14 15:55:22 +0000",
       "glass_bottle": "2025-05-15 18:09:33 +0000",
+      "netherite_scrap": "2025-06-02 13:11:55 +0000",
       "stone_sword": "2025-05-14 15:44:19 +0000",
       "axolotl_bucket": "2025-05-16 20:08:51 +0000",
       "iron_ingot": "2025-05-14 15:53:49 +0000",
@@ -1267,6 +1274,7 @@
       "steals_on_wheels": "2025-05-15 17:50:59 +0000",
       "acquire_hardware": "2025-05-14 15:53:50 +0000",
       "coal_miner": "2025-05-16 00:55:31 +0000",
+      "rock_bottom": "2025-06-02 13:14:40 +0000",
       "diamonds_to_you": "2025-05-16 01:54:47 +0000",
       "hot_topic": "2025-05-14 15:51:39 +0000",
       "fossil_fuel": "2025-05-14 15:47:36 +0000",
@@ -1289,6 +1297,7 @@
       "suit_up": "2025-05-14 15:54:09 +0000",
       "spelunker": "2025-05-16 20:04:44 +0000",
       "diam_oh_wait_no": "2025-05-15 02:15:55 +0000",
+      "iggy": "2025-06-02 13:11:57 +0000",
       "iron_man": "2025-05-14 16:01:43 +0000",
       "sneak_100": "2025-05-15 18:26:36 +0000",
       "stone_age": "2025-05-14 15:43:43 +0000",
@@ -3994,17 +4003,19 @@
   },
   "blazeandcave:bacap/nether_milestone": {
     "criteria": {
-      "high_temperature_fluid_monster": "2025-05-16 22:35:01 +0000",
       "local_brewery": "2025-05-15 17:40:01 +0000",
       "twisted": "2025-05-16 20:47:42 +0000",
       "quicksand": "2025-05-16 22:10:02 +0000",
       "stepping_on_legos": "2025-05-16 22:38:37 +0000",
-      "root": "2025-05-16 22:07:29 +0000",
       "dont_blink": "2025-05-16 22:47:21 +0000",
+      "into_fire": "2025-05-16 22:34:39 +0000",
+      "high_temperature_fluid_monster": "2025-05-16 22:35:01 +0000",
+      "holy_scrap": "2025-06-02 13:11:55 +0000",
+      "nether_say_die": "2025-06-02 13:10:59 +0000",
+      "root": "2025-05-16 22:07:29 +0000",
       "basis_of_brewing": "2025-05-16 22:08:25 +0000",
       "the_descent": "2025-05-16 22:07:30 +0000",
-      "the_hunt_begins": "2025-05-16 22:10:41 +0000",
-      "into_fire": "2025-05-16 22:34:39 +0000"
+      "the_hunt_begins": "2025-05-16 22:10:41 +0000"
     },
     "done": false
   },
@@ -6539,6 +6550,66 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-16 22:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-02 13:10:59 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/holy_scrap": {
+    "criteria": {
+      "netherite_scrap": "2025-06-02 13:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-02 13:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-02 13:10:59 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/spreading_corruption": {
+    "criteria": {
+      "soul_sand": "2025-06-02 13:12:48 +0000"
+    },
+    "done": false
+  },
+  "2re:recipes/netherite_scrap": {
+    "criteria": {
+      "requirement": "2025-06-02 13:11:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/iggy": {
+    "criteria": {
+      "flowering_azalea": "2025-06-02 13:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-02 13:10:59 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/rock_bottom": {
+    "criteria": {
+      "bedrock_level": "2025-06-02 13:14:38 +0000"
+    },
+    "done": true
+  },
+  "2re:recipes/flowering_azalea": {
+    "criteria": {
+      "requirement": "2025-06-02 13:11:56 +0000"
     },
     "done": true
   },
